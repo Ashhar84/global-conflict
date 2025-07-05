@@ -124,10 +124,10 @@
     </div>
 
     <script type="module">
+        // **FIX:** Switched to signInWithRedirect for better compatibility.
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
-        import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
+        import { getAuth, GoogleAuthProvider, signInWithRedirect, getRedirectResult, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 
-        // **FIX:** Using the correct Firebase configuration for your new project.
         const firebaseConfig = {
             apiKey: "AIzaSyCLL6IjpwFk3kTY2h3VPaUMY1GqCRqbiLE",
             authDomain: "global-conflict-app.firebaseapp.com",
@@ -148,23 +148,34 @@
         const userNameP = document.getElementById('user-name');
         const userPicImg = document.getElementById('user-pic');
 
+        // When the Google button is clicked, start the redirect process.
         googleLoginBtn.addEventListener('click', () => {
-            signInWithPopup(auth, provider)
-                .then((result) => {
-                    const user = result.user;
-                    showUserInfoAndRedirect(user);
-                }).catch((error) => {
-                    console.error("Authentication failed:", error);
-                    if (error.code === 'auth/operation-not-allowed') {
-                        alert("Authentication failed. Please ensure this website's domain (ashharh94.github.io) is authorized in your Firebase project settings.");
-                    } else {
-                        alert("Google Sign-In failed. Please try again.");
-                    }
-                });
+            signInWithRedirect(auth, provider);
         });
 
         guestLoginBtn.addEventListener('click', () => {
             showUserInfoAndRedirect(null); // Pass null for guest
+        });
+
+        // This function checks for the result of the redirect when the page loads.
+        getRedirectResult(auth)
+            .catch((error) => {
+                // Handle errors from the redirect flow.
+                console.error("Authentication redirect failed:", error);
+                alert("Google Sign-In failed. Please try again.");
+            });
+
+        // This function checks the user's state whenever the page loads.
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                // If the user is signed in (either from a redirect or a previous session),
+                // show their info and proceed to the game.
+                showUserInfoAndRedirect(user);
+            } else {
+                // If no user is signed in, make sure the login buttons are visible.
+                loginOptions.style.display = 'block';
+                userInfoDiv.style.display = 'none';
+            }
         });
 
         function showUserInfoAndRedirect(user) {
@@ -174,6 +185,7 @@
             if (user) { // If it's a Google user
                 userNameP.textContent = `Welcome, Commander ${user.displayName}`;
                 userPicImg.src = user.photoURL;
+                userPicImg.style.display = 'block';
             } else { // If it's a guest
                 userNameP.textContent = 'Welcome, Commander';
                 userPicImg.style.display = 'none';
