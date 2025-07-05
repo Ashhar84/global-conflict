@@ -1,0 +1,75 @@
+{
+  "country": "Fiji",
+  "cities": [
+    {
+      "name": "Suva",
+      "lat": -18.1416,
+      "lng": 178.4419,
+      "isCapital": true,
+      "population": 88271
+    },
+    {
+      "name": "Nadi",
+      "lat": -17.8,
+      "lng": 177.4167,
+      "isCapital": false,
+      "population": 42284
+    },
+    {
+      "name": "Lautoka",
+      "lat": -17.6167,
+      "lng": 177.45,
+      "isCapital": false,
+      "population": 52220
+    },
+    {
+      "name": "Labasa",
+      "lat": -16.4333,
+      "lng": 179.3667,
+      "isCapital": false,
+      "population": 27949
+    },
+    {
+      "name": "Ba",
+      "lat": -17.5333,
+      "lng": 177.6667,
+      "isCapital": false,
+      "population": 14596
+    },
+    {
+      "name": "Levuka",
+      "lat": -17.6833,
+      "lng": 178.8333,
+      "isCapital": false,
+      "population": 4397
+    },
+    {
+      "name": "Savusavu",
+      "lat": -16.7833,
+      "lng": 179.3333,
+      "isCapital": false,
+      "population": 4962
+    },
+    {
+      "name": "Sigatoka",
+      "lat": -18.15,
+      "lng": 177.5,
+      "isCapital": false,
+      "population": 9622
+    },
+    {
+      "name": "Rakiraki",
+      "lat": -17.3667,
+      "lng": 178.1667,
+      "isCapital": false,
+      "population": 4952
+    },
+    {
+      "name": "Navua",
+      "lat": -18.2167,
+      "lng": 178.1667,
+      "isCapital": false,
+      "population": 5421
+    }
+  ]
+}

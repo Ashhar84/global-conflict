@@ -1,0 +1,75 @@
+{
+  "country": "Cuba",
+  "cities": [
+    {
+      "name": "Havana",
+      "lat": 23.1136,
+      "lng": -82.3666,
+      "isCapital": true,
+      "population": 2131480
+    },
+    {
+      "name": "Santiago de Cuba",
+      "lat": 20.0208,
+      "lng": -75.8292,
+      "isCapital": false,
+      "population": 433099
+    },
+    {
+      "name": "Camagüey",
+      "lat": 21.3833,
+      "lng": -77.9167,
+      "isCapital": false,
+      "population": 321992
+    },
+    {
+      "name": "Holguín",
+      "lat": 20.8872,
+      "lng": -76.2631,
+      "isCapital": false,
+      "population": 350191
+    },
+    {
+      "name": "Guantánamo",
+      "lat": 20.1444,
+      "lng": -75.2092,
+      "isCapital": false,
+      "population": 228436
+    },
+    {
+      "name": "Santa Clara",
+      "lat": 22.4069,
+      "lng": -79.9647,
+      "isCapital": false,
+      "population": 240543
+    },
+    {
+      "name": "Las Tunas",
+      "lat": 20.9617,
+      "lng": -76.9511,
+      "isCapital": false,
+      "population": 162957
+    },
+    {
+      "name": "Bayamo",
+      "lat": 20.3811,
+      "lng": -76.6433,
+      "isCapital": false,
+      "population": 235107
+    },
+    {
+      "name": "Pinar del Río",
+      "lat": 22.4175,
+      "lng": -83.6981,
+      "isCapital": false,
+      "population": 190532
+    },
+    {
+      "name": "Cienfuegos",
+      "lat": 22.1458,
+      "lng": -80.4539,
+      "isCapital": false,
+      "population": 187626
+    }
+  ]
+}

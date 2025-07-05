@@ -1,0 +1,75 @@
+{
+  "country": "Gambia",
+  "cities": [
+    {
+      "name": "Banjul",
+      "lat": 13.4527,
+      "lng": -16.578,
+      "isCapital": true,
+      "population": 31301
+    },
+    {
+      "name": "Serekunda",
+      "lat": 13.4333,
+      "lng": -16.6667,
+      "isCapital": false,
+      "population": 337773
+    },
+    {
+      "name": "Brikama",
+      "lat": 13.2667,
+      "lng": -16.65,
+      "isCapital": false,
+      "population": 84608
+    },
+    {
+      "name": "Bakau",
+      "lat": 13.4833,
+      "lng": -16.6833,
+      "isCapital": false,
+      "population": 43098
+    },
+    {
+      "name": "Farafenni",
+      "lat": 13.5667,
+      "lng": -15.6,
+      "isCapital": false,
+      "population": 29867
+    },
+    {
+      "name": "Lamin",
+      "lat": 13.3833,
+      "lng": -16.65,
+      "isCapital": false,
+      "population": 24797
+    },
+    {
+      "name": "Sukuta",
+      "lat": 13.4167,
+      "lng": -16.7,
+      "isCapital": false,
+      "population": 15131
+    },
+    {
+      "name": "Basse Santa Su",
+      "lat": 13.3167,
+      "lng": -14.2167,
+      "isCapital": false,
+      "population": 14380
+    },
+    {
+      "name": "Gunjur",
+      "lat": 13.2,
+      "lng": -16.75,
+      "isCapital": false,
+      "population": 17520
+    },
+    {
+      "name": "Soma",
+      "lat": 13.4333,
+      "lng": -15.5333,
+      "isCapital": false,
+      "population": 10707
+    }
+  ]
+}

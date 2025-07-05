@@ -1,0 +1,75 @@
+{
+  "country": "Dominican Republic",
+  "cities": [
+    {
+      "name": "Santo Domingo",
+      "lat": 18.4861,
+      "lng": -69.9312,
+      "isCapital": true,
+      "population": 965040
+    },
+    {
+      "name": "Santiago de los Caballeros",
+      "lat": 19.4517,
+      "lng": -70.697,
+      "isCapital": false,
+      "population": 550753
+    },
+    {
+      "name": "Santo Domingo Este",
+      "lat": 18.496,
+      "lng": -69.845,
+      "isCapital": false,
+      "population": 948885
+    },
+    {
+      "name": "Santo Domingo Oeste",
+      "lat": 18.496,
+      "lng": -69.988,
+      "isCapital": false,
+      "population": 363435
+    },
+    {
+      "name": "Santo Domingo Norte",
+      "lat": 18.545,
+      "lng": -69.936,
+      "isCapital": false,
+      "population": 529390
+    },
+    {
+      "name": "San Pedro de Macorís",
+      "lat": 18.45,
+      "lng": -69.3,
+      "isCapital": false,
+      "population": 185255
+    },
+    {
+      "name": "La Romana",
+      "lat": 18.4273,
+      "lng": -68.9728,
+      "isCapital": false,
+      "population": 127623
+    },
+    {
+      "name": "San Cristóbal",
+      "lat": 18.4167,
+      "lng": -70.1,
+      "isCapital": false,
+      "population": 138455
+    },
+    {
+      "name": "Puerto Plata",
+      "lat": 19.7808,
+      "lng": -70.6871,
+      "isCapital": false,
+      "population": 118282
+    },
+    {
+      "name": "Higüey",
+      "lat": 18.615,
+      "lng": -68.708,
+      "isCapital": false,
+      "population": 147978
+    }
+  ]
+}

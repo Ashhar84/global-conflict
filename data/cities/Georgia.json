@@ -1,0 +1,75 @@
+{
+  "country": "Georgia",
+  "cities": [
+    {
+      "name": "Tbilisi",
+      "lat": 41.7151,
+      "lng": 44.8271,
+      "isCapital": true,
+      "population": 1118035
+    },
+    {
+      "name": "Kutaisi",
+      "lat": 42.2662,
+      "lng": 42.7052,
+      "isCapital": false,
+      "population": 147635
+    },
+    {
+      "name": "Batumi",
+      "lat": 41.6423,
+      "lng": 41.6339,
+      "isCapital": false,
+      "population": 154600
+    },
+    {
+      "name": "Rustavi",
+      "lat": 41.5475,
+      "lng": 45.0097,
+      "isCapital": false,
+      "population": 125103
+    },
+    {
+      "name": "Gori",
+      "lat": 41.9833,
+      "lng": 44.1167,
+      "isCapital": false,
+      "population": 48143
+    },
+    {
+      "name": "Zugdidi",
+      "lat": 42.5,
+      "lng": 41.8667,
+      "isCapital": false,
+      "population": 42998
+    },
+    {
+      "name": "Poti",
+      "lat": 42.15,
+      "lng": 41.6667,
+      "isCapital": false,
+      "population": 41465
+    },
+    {
+      "name": "Khashuri",
+      "lat": 42.0,
+      "lng": 43.6,
+      "isCapital": false,
+      "population": 26135
+    },
+    {
+      "name": "Samtredia",
+      "lat": 42.1667,
+      "lng": 42.3333,
+      "isCapital": false,
+      "population": 25318
+    },
+    {
+      "name": "Senaki",
+      "lat": 42.2689,
+      "lng": 42.0675,
+      "isCapital": false,
+      "population": 21596
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Ethiopia",
+  "cities": [
+    {
+      "name": "Addis Ababa",
+      "lat": 9.0249,
+      "lng": 38.7469,
+      "isCapital": true,
+      "population": 3384569
+    },
+    {
+      "name": "Gondar",
+      "lat": 12.6,
+      "lng": 37.4667,
+      "isCapital": false,
+      "population": 323900
+    },
+    {
+      "name": "Mek'ele",
+      "lat": 13.4969,
+      "lng": 39.4769,
+      "isCapital": false,
+      "population": 323700
+    },
+    {
+      "name": "Adama",
+      "lat": 8.5417,
+      "lng": 39.2689,
+      "isCapital": false,
+      "population": 324000
+    },
+    {
+      "name": "Hawassa",
+      "lat": 7.05,
+      "lng": 38.4667,
+      "isCapital": false,
+      "population": 329000
+    },
+    {
+      "name": "Bahir Dar",
+      "lat": 11.5936,
+      "lng": 37.3908,
+      "isCapital": false,
+      "population": 297749
+    },
+    {
+      "name": "Dire Dawa",
+      "lat": 9.5931,
+      "lng": 41.8661,
+      "isCapital": false,
+      "population": 277000
+    },
+    {
+      "name": "Jimma",
+      "lat": 7.6667,
+      "lng": 36.8333,
+      "isCapital": false,
+      "population": 177988
+    },
+    {
+      "name": "Dessie",
+      "lat": 11.1333,
+      "lng": 39.6333,
+      "isCapital": false,
+      "population": 187900
+    },
+    {
+      "name": "Harar",
+      "lat": 9.3139,
+      "lng": 42.125,
+      "isCapital": false,
+      "population": 122000
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Chile",
+  "cities": [
+    {
+      "name": "Santiago",
+      "lat": -33.4489,
+      "lng": -70.6693,
+      "isCapital": true,
+      "population": 6158080
+    },
+    {
+      "name": "Valparaíso",
+      "lat": -33.0472,
+      "lng": -71.6127,
+      "isCapital": false,
+      "population": 296655
+    },
+    {
+      "name": "Concepción",
+      "lat": -36.826,
+      "lng": -73.050,
+      "isCapital": false,
+      "population": 223574
+    },
+    {
+      "name": "La Serena",
+      "lat": -29.9027,
+      "lng": -71.252,
+      "isCapital": false,
+      "population": 221054
+    },
+    {
+      "name": "Antofagasta",
+      "lat": -23.65,
+      "lng": -70.4,
+      "isCapital": false,
+      "population": 361873
+    },
+    {
+      "name": "Temuco",
+      "lat": -38.7359,
+      "lng": -72.5904,
+      "isCapital": false,
+      "population": 282415
+    },
+    {
+      "name": "Rancagua",
+      "lat": -34.1708,
+      "lng": -70.7445,
+      "isCapital": false,
+      "population": 241774
+    },
+    {
+      "name": "Arica",
+      "lat": -18.4783,
+      "lng": -70.3222,
+      "isCapital": false,
+      "population": 221364
+    },
+    {
+      "name": "Talca",
+      "lat": -35.4265,
+      "lng": -71.6554,
+      "isCapital": false,
+      "population": 220357
+    },
+    {
+      "name": "Puerto Montt",
+      "lat": -41.4728,
+      "lng": -72.9436,
+      "isCapital": false,
+      "population": 245902
+    }
+  ]
+}

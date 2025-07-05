@@ -1,0 +1,75 @@
+{
+  "country": "Ecuador",
+  "cities": [
+    {
+      "name": "Quito",
+      "lat": -0.1807,
+      "lng": -78.4678,
+      "isCapital": true,
+      "population": 1899912
+    },
+    {
+      "name": "Guayaquil",
+      "lat": -2.171,
+      "lng": -79.9224,
+      "isCapital": false,
+      "population": 2698077
+    },
+    {
+      "name": "Cuenca",
+      "lat": -2.9001,
+      "lng": -79.0059,
+      "isCapital": false,
+      "population": 329928
+    },
+    {
+      "name": "Santo Domingo de los Colorados",
+      "lat": -0.25,
+      "lng": -79.1667,
+      "isCapital": false,
+      "population": 305632
+    },
+    {
+      "name": "Machala",
+      "lat": -3.2586,
+      "lng": -79.9605,
+      "isCapital": false,
+      "population": 241606
+    },
+    {
+      "name": "Durán",
+      "lat": -2.1736,
+      "lng": -79.8258,
+      "isCapital": false,
+      "population": 230839
+    },
+    {
+      "name": "Manta",
+      "lat": -0.9667,
+      "lng": -80.7167,
+      "isCapital": false,
+      "population": 217553
+    },
+    {
+      "name": "Portoviejo",
+      "lat": -1.0546,
+      "lng": -80.4544,
+      "isCapital": false,
+      "population": 206682
+    },
+    {
+      "name": "Loja",
+      "lat": -3.9931,
+      "lng": -79.2042,
+      "isCapital": false,
+      "population": 170280
+    },
+    {
+      "name": "Ambato",
+      "lat": -1.2491,
+      "lng": -78.6169,
+      "isCapital": false,
+      "population": 165185
+    }
+  ]
+}

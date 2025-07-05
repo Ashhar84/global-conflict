@@ -1,0 +1,75 @@
+{
+  "country": "Eritrea",
+  "cities": [
+    {
+      "name": "Asmara",
+      "lat": 15.3229,
+      "lng": 38.9251,
+      "isCapital": true,
+      "population": 963000
+    },
+    {
+      "name": "Keren",
+      "lat": 15.7833,
+      "lng": 38.45,
+      "isCapital": false,
+      "population": 146483
+    },
+    {
+      "name": "Massawa",
+      "lat": 15.6081,
+      "lng": 39.4742,
+      "isCapital": false,
+      "population": 53090
+    },
+    {
+      "name": "Assab",
+      "lat": 13.0167,
+      "lng": 42.7333,
+      "isCapital": false,
+      "population": 74405
+    },
+    {
+      "name": "Mendefera",
+      "lat": 14.8833,
+      "lng": 38.8167,
+      "isCapital": false,
+      "population": 63492
+    },
+    {
+      "name": "Barentu",
+      "lat": 15.1167,
+      "lng": 37.5833,
+      "isCapital": false,
+      "population": 20968
+    },
+    {
+      "name": "Agordat",
+      "lat": 15.55,
+      "lng": 37.8833,
+      "isCapital": false,
+      "population": 30000
+    },
+    {
+      "name": "Teseney",
+      "lat": 15.1167,
+      "lng": 36.65,
+      "isCapital": false,
+      "population": 64889
+    },
+    {
+      "name": "Dekemhare",
+      "lat": 15.0667,
+      "lng": 39.05,
+      "isCapital": false,
+      "population": 31000
+    },
+    {
+      "name": "Adi Keyh",
+      "lat": 14.8333,
+      "lng": 39.3667,
+      "isCapital": false,
+      "population": 40592
+    }
+  ]
+}

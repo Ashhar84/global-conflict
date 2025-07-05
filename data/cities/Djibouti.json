@@ -1,0 +1,75 @@
+{
+  "country": "Djibouti",
+  "cities": [
+    {
+      "name": "Djibouti",
+      "lat": 11.589,
+      "lng": 43.145,
+      "isCapital": true,
+      "population": 562000
+    },
+    {
+      "name": "Ali Sabieh",
+      "lat": 11.15,
+      "lng": 42.7167,
+      "isCapital": false,
+      "population": 40074
+    },
+    {
+      "name": "Tadjoura",
+      "lat": 11.7833,
+      "lng": 42.8833,
+      "isCapital": false,
+      "population": 22193
+    },
+    {
+      "name": "Obock",
+      "lat": 11.9667,
+      "lng": 43.2833,
+      "isCapital": false,
+      "population": 17776
+    },
+    {
+      "name": "Dikhil",
+      "lat": 11.1,
+      "lng": 42.3667,
+      "isCapital": false,
+      "population": 12043
+    },
+    {
+      "name": "Arta",
+      "lat": 11.5167,
+      "lng": 42.85,
+      "isCapital": false,
+      "population": 11043
+    },
+    {
+      "name": "Holhol",
+      "lat": 11.3167,
+      "lng": 42.9333,
+      "isCapital": false,
+      "population": 3519
+    },
+    {
+      "name": "Dorra",
+      "lat": 12.7167,
+      "lng": 42.4,
+      "isCapital": false,
+      "population": 1873
+    },
+    {
+      "name": "Galafi",
+      "lat": 11.8167,
+      "lng": 41.85,
+      "isCapital": false,
+      "population": 1849
+    },
+    {
+      "name": "Loyada",
+      "lat": 11.4667,
+      "lng": 43.25,
+      "isCapital": false,
+      "population": 1646
+    }
+  ]
+}

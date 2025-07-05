@@ -1,0 +1,75 @@
+{
+  "country": "Grenada",
+  "cities": [
+    {
+      "name": "St. George's",
+      "lat": 12.0561,
+      "lng": -61.7486,
+      "isCapital": true,
+      "population": 33734
+    },
+    {
+      "name": "Gouyave",
+      "lat": 12.1667,
+      "lng": -61.7333,
+      "isCapital": false,
+      "population": 3378
+    },
+    {
+      "name": "Grenville",
+      "lat": 12.1167,
+      "lng": -61.6167,
+      "isCapital": false,
+      "population": 2400
+    },
+    {
+      "name": "Victoria",
+      "lat": 12.1833,
+      "lng": -61.7,
+      "isCapital": false,
+      "population": 2256
+    },
+    {
+      "name": "Sauteurs",
+      "lat": 12.2167,
+      "lng": -61.6333,
+      "isCapital": false,
+      "population": 1300
+    },
+    {
+      "name": "Hillsborough",
+      "lat": 12.4833,
+      "lng": -61.45,
+      "isCapital": false,
+      "population": 1000
+    },
+    {
+      "name": "Paradise",
+      "lat": 12.1,
+      "lng": -61.6167,
+      "isCapital": false,
+      "population": 900
+    },
+    {
+      "name": "Tivoli",
+      "lat": 12.1667,
+      "lng": -61.6,
+      "isCapital": false,
+      "population": 172
+    },
+    {
+      "name": "Belmont",
+      "lat": 12.0333,
+      "lng": -61.7333,
+      "isCapital": false,
+      "population": 2876
+    },
+    {
+      "name": "Grand Roy",
+      "lat": 12.1333,
+      "lng": -61.7333,
+      "isCapital": false,
+      "population": 2800
+    }
+  ]
+}

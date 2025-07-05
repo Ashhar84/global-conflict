@@ -1,0 +1,75 @@
+{
+  "country": "Eswatini",
+  "cities": [
+    {
+      "name": "Mbabane",
+      "lat": -26.3167,
+      "lng": 31.1333,
+      "isCapital": true,
+      "population": 60000
+    },
+    {
+      "name": "Lobamba",
+      "lat": -26.4667,
+      "lng": 31.2,
+      "isCapital": true,
+      "population": 5800
+    },
+    {
+      "name": "Manzini",
+      "lat": -26.5,
+      "lng": 31.3667,
+      "isCapital": false,
+      "population": 95000
+    },
+    {
+      "name": "Big Bend",
+      "lat": -26.8167,
+      "lng": 31.9333,
+      "isCapital": false,
+      "population": 9374
+    },
+    {
+      "name": "Malkerns",
+      "lat": -26.5667,
+      "lng": 31.1833,
+      "isCapital": false,
+      "population": 7400
+    },
+    {
+      "name": "Nhlangano",
+      "lat": -27.1167,
+      "lng": 31.3833,
+      "isCapital": false,
+      "population": 6540
+    },
+    {
+      "name": "Siteki",
+      "lat": -26.45,
+      "lng": 31.95,
+      "isCapital": false,
+      "population": 4157
+    },
+    {
+      "name": "Piggs Peak",
+      "lat": -25.9667,
+      "lng": 31.25,
+      "isCapital": false,
+      "population": 4581
+    },
+    {
+      "name": "Simunye",
+      "lat": -26.2167,
+      "lng": 31.9167,
+      "isCapital": false,
+      "population": 5633
+    },
+    {
+      "name": "Hlatikulu",
+      "lat": -26.9667,
+      "lng": 31.3167,
+      "isCapital": false,
+      "population": 2748
+    }
+  ]
+}

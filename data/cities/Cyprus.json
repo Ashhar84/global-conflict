@@ -1,0 +1,75 @@
+{
+  "country": "Cyprus",
+  "cities": [
+    {
+      "name": "Nicosia",
+      "lat": 35.1856,
+      "lng": 33.3823,
+      "isCapital": true,
+      "population": 200452
+    },
+    {
+      "name": "Limassol",
+      "lat": 34.675,
+      "lng": 33.0417,
+      "isCapital": false,
+      "population": 183658
+    },
+    {
+      "name": "Larnaca",
+      "lat": 34.9167,
+      "lng": 33.6333,
+      "isCapital": false,
+      "population": 51468
+    },
+    {
+      "name": "Paphos",
+      "lat": 34.7667,
+      "lng": 32.4167,
+      "isCapital": false,
+      "population": 32892
+    },
+    {
+      "name": "Famagusta",
+      "lat": 35.1167,
+      "lng": 33.95,
+      "isCapital": false,
+      "population": 40920
+    },
+    {
+      "name": "Kyrenia",
+      "lat": 35.3333,
+      "lng": 33.3167,
+      "isCapital": false,
+      "population": 33207
+    },
+    {
+      "name": "Protaras",
+      "lat": 35.0125,
+      "lng": 34.0583,
+      "isCapital": false,
+      "population": 20230
+    },
+    {
+      "name": "Paralimni",
+      "lat": 35.0333,
+      "lng": 33.9833,
+      "isCapital": false,
+      "population": 15000
+    },
+    {
+      "name": "Morphou",
+      "lat": 35.2,
+      "lng": 32.9833,
+      "isCapital": false,
+      "population": 18946
+    },
+    {
+      "name": "Aradippou",
+      "lat": 34.95,
+      "lng": 33.5833,
+      "isCapital": false,
+      "population": 19228
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Congo, Republic of the",
+  "cities": [
+    {
+      "name": "Brazzaville",
+      "lat": -4.2634,
+      "lng": 15.2429,
+      "isCapital": true,
+      "population": 2390000
+    },
+    {
+      "name": "Pointe-Noire",
+      "lat": -4.7764,
+      "lng": 11.8637,
+      "isCapital": false,
+      "population": 1100000
+    },
+    {
+      "name": "Dolisie",
+      "lat": -4.2,
+      "lng": 12.6667,
+      "isCapital": false,
+      "population": 83798
+    },
+    {
+      "name": "Nkayi",
+      "lat": -4.1833,
+      "lng": 13.2833,
+      "isCapital": false,
+      "population": 71620
+    },
+    {
+      "name": "Impfondo",
+      "lat": 1.6333,
+      "lng": 18.0667,
+      "isCapital": false,
+      "population": 33911
+    },
+    {
+      "name": "Ouesso",
+      "lat": 1.6136,
+      "lng": 16.0517,
+      "isCapital": false,
+      "population": 28179
+    },
+    {
+      "name": "Madingou",
+      "lat": -4.15,
+      "lng": 13.55,
+      "isCapital": false,
+      "population": 25713
+    },
+    {
+      "name": "Owando",
+      "lat": -0.4833,
+      "lng": 15.9,
+      "isCapital": false,
+      "population": 24736
+    },
+    {
+      "name": "Sibiti",
+      "lat": -3.6833,
+      "lng": 13.35,
+      "isCapital": false,
+      "population": 22951
+    },
+    {
+      "name": "Loutété",
+      "lat": -4.2833,
+      "lng": 13.85,
+      "isCapital": false,
+      "population": 19212
+    }
+  ]
+}

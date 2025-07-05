@@ -1,0 +1,75 @@
+{
+  "country": "Equatorial Guinea",
+  "cities": [
+    {
+      "name": "Malabo",
+      "lat": 3.75,
+      "lng": 8.7833,
+      "isCapital": true,
+      "population": 297000
+    },
+    {
+      "name": "Bata",
+      "lat": 1.8639,
+      "lng": 9.7658,
+      "isCapital": false,
+      "population": 250770
+    },
+    {
+      "name": "Ebebiyín",
+      "lat": 2.15,
+      "lng": 11.3167,
+      "isCapital": false,
+      "population": 36565
+    },
+    {
+      "name": "Aconibe",
+      "lat": 1.3,
+      "lng": 10.9333,
+      "isCapital": false,
+      "population": 11500
+    },
+    {
+      "name": "Luba",
+      "lat": 3.45,
+      "lng": 8.55,
+      "isCapital": false,
+      "population": 7739
+    },
+    {
+      "name": "Evinayong",
+      "lat": 1.45,
+      "lng": 10.5667,
+      "isCapital": false,
+      "population": 7997
+    },
+    {
+      "name": "Mongomo",
+      "lat": 1.6333,
+      "lng": 11.3167,
+      "isCapital": false,
+      "population": 7251
+    },
+    {
+      "name": "Mbini",
+      "lat": 1.5833,
+      "lng": 9.6167,
+      "isCapital": false,
+      "population": 4000
+    },
+    {
+      "name": "Nsok",
+      "lat": 1.1167,
+      "lng": 10.9,
+      "isCapital": false,
+      "population": 3769
+    },
+    {
+      "name": "Palé",
+      "lat": -1.4,
+      "lng": 5.6333,
+      "isCapital": false,
+      "population": 5008
+    }
+  ]
+}

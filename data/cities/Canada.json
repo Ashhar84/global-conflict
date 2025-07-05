@@ -1,0 +1,75 @@
+{
+  "country": "Canada",
+  "cities": [
+    {
+      "name": "Ottawa",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "isCapital": true,
+      "population": 994837
+    },
+    {
+      "name": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "isCapital": false,
+      "population": 2731571
+    },
+    {
+      "name": "Montreal",
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "isCapital": false,
+      "population": 1780000
+    },
+    {
+      "name": "Vancouver",
+      "lat": 49.2827,
+      "lng": -123.1207,
+      "isCapital": false,
+      "population": 631486
+    },
+    {
+      "name": "Calgary",
+      "lat": 51.0447,
+      "lng": -114.0719,
+      "isCapital": false,
+      "population": 1239220
+    },
+    {
+      "name": "Edmonton",
+      "lat": 53.5461,
+      "lng": -113.4938,
+      "isCapital": false,
+      "population": 932546
+    },
+    {
+      "name": "Mississauga",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "isCapital": false,
+      "population": 721599
+    },
+    {
+      "name": "Winnipeg",
+      "lat": 49.8951,
+      "lng": -97.1384,
+      "isCapital": false,
+      "population": 705244
+    },
+    {
+      "name": "Hamilton",
+      "lat": 43.2557,
+      "lng": -79.8711,
+      "isCapital": false,
+      "population": 536917
+    },
+    {
+      "name": "Quebec City",
+      "lat": 46.8139,
+      "lng": -71.208,
+      "isCapital": false,
+      "population": 531902
+    }
+  ]
+}

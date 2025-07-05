@@ -1,0 +1,75 @@
+{
+  "country": "Cote d'Ivoire",
+  "cities": [
+    {
+      "name": "Yamoussoukro",
+      "lat": 6.8206,
+      "lng": -5.2768,
+      "isCapital": true,
+      "population": 355573
+    },
+    {
+      "name": "Abidjan",
+      "lat": 5.3599,
+      "lng": -4.0083,
+      "isCapital": false,
+      "population": 4980000
+    },
+    {
+      "name": "Bouaké",
+      "lat": 7.6833,
+      "lng": -5.0333,
+      "isCapital": false,
+      "population": 536189
+    },
+    {
+      "name": "Daloa",
+      "lat": 6.8833,
+      "lng": -6.45,
+      "isCapital": false,
+      "population": 245361
+    },
+    {
+      "name": "San-Pédro",
+      "lat": 4.75,
+      "lng": -6.6333,
+      "isCapital": false,
+      "population": 261600
+    },
+    {
+      "name": "Korhogo",
+      "lat": 9.45,
+      "lng": -5.6333,
+      "isCapital": false,
+      "population": 286071
+    },
+    {
+      "name": "Man",
+      "lat": 7.4,
+      "lng": -7.55,
+      "isCapital": false,
+      "population": 188704
+    },
+    {
+      "name": "Divo",
+      "lat": 5.8333,
+      "lng": -5.3667,
+      "isCapital": false,
+      "population": 179455
+    },
+    {
+      "name": "Gagnoa",
+      "lat": 6.1333,
+      "lng": -5.9333,
+      "isCapital": false,
+      "population": 213918
+    },
+    {
+      "name": "Soubré",
+      "lat": 5.7833,
+      "lng": -6.6,
+      "isCapital": false,
+      "population": 175163
+    }
+  ]
+}

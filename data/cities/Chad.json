@@ -1,0 +1,75 @@
+{
+  "country": "Chad",
+  "cities": [
+    {
+      "name": "N'Djamena",
+      "lat": 12.1348,
+      "lng": 15.0557,
+      "isCapital": true,
+      "population": 1092066
+    },
+    {
+      "name": "Moundou",
+      "lat": 8.5667,
+      "lng": 16.0833,
+      "isCapital": false,
+      "population": 137929
+    },
+    {
+      "name": "Sarh",
+      "lat": 9.15,
+      "lng": 18.3833,
+      "isCapital": false,
+      "population": 103269
+    },
+    {
+      "name": "Abéché",
+      "lat": 13.8167,
+      "lng": 20.8333,
+      "isCapital": false,
+      "population": 76492
+    },
+    {
+      "name": "Kélo",
+      "lat": 9.3167,
+      "lng": 15.8,
+      "isCapital": false,
+      "population": 45224
+    },
+    {
+      "name": "Koumra",
+      "lat": 8.9167,
+      "lng": 17.55,
+      "isCapital": false,
+      "population": 38220
+    },
+    {
+      "name": "Pala",
+      "lat": 9.3667,
+      "lng": 14.9,
+      "isCapital": false,
+      "population": 37380
+    },
+    {
+      "name": "Am Timan",
+      "lat": 11.0333,
+      "lng": 20.2833,
+      "isCapital": false,
+      "population": 30443
+    },
+    {
+      "name": "Bongor",
+      "lat": 10.2833,
+      "lng": 15.3667,
+      "isCapital": false,
+      "population": 29261
+    },
+    {
+      "name": "Mongo",
+      "lat": 12.1833,
+      "lng": 18.6833,
+      "isCapital": false,
+      "population": 28000
+    }
+  ]
+}

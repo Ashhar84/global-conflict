@@ -1,0 +1,75 @@
+{
+  "country": "Egypt",
+  "cities": [
+    {
+      "name": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "isCapital": true,
+      "population": 9539673
+    },
+    {
+      "name": "Alexandria",
+      "lat": 31.2001,
+      "lng": 29.9187,
+      "isCapital": false,
+      "population": 5200000
+    },
+    {
+      "name": "Giza",
+      "lat": 29.987,
+      "lng": 31.2118,
+      "isCapital": false,
+      "population": 8800000
+    },
+    {
+      "name": "Shubra El Kheima",
+      "lat": 30.1287,
+      "lng": 31.2422,
+      "isCapital": false,
+      "population": 1187749
+    },
+    {
+      "name": "Port Said",
+      "lat": 31.2653,
+      "lng": 32.3019,
+      "isCapital": false,
+      "population": 603787
+    },
+    {
+      "name": "Suez",
+      "lat": 29.9737,
+      "lng": 32.5263,
+      "isCapital": false,
+      "population": 512135
+    },
+    {
+      "name": "Luxor",
+      "lat": 25.6872,
+      "lng": 32.6396,
+      "isCapital": false,
+      "population": 202232
+    },
+    {
+      "name": "Mansoura",
+      "lat": 31.0364,
+      "lng": 31.3807,
+      "isCapital": false,
+      "population": 495337
+    },
+    {
+      "name": "Tanta",
+      "lat": 30.7885,
+      "lng": 31.0019,
+      "isCapital": false,
+      "population": 421076
+    },
+    {
+      "name": "Asyut",
+      "lat": 27.1783,
+      "lng": 31.1859,
+      "isCapital": false,
+      "population": 389307
+    }
+  ]
+}

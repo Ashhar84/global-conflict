@@ -1,0 +1,75 @@
+{
+  "country": "Croatia",
+  "cities": [
+    {
+      "name": "Zagreb",
+      "lat": 45.815,
+      "lng": 15.9819,
+      "isCapital": true,
+      "population": 806341
+    },
+    {
+      "name": "Split",
+      "lat": 43.5081,
+      "lng": 16.4402,
+      "isCapital": false,
+      "population": 178102
+    },
+    {
+      "name": "Rijeka",
+      "lat": 45.3271,
+      "lng": 14.4422,
+      "isCapital": false,
+      "population": 128624
+    },
+    {
+      "name": "Osijek",
+      "lat": 45.555,
+      "lng": 18.6955,
+      "isCapital": false,
+      "population": 108048
+    },
+    {
+      "name": "Zadar",
+      "lat": 44.1194,
+      "lng": 15.2314,
+      "isCapital": false,
+      "population": 75062
+    },
+    {
+      "name": "Pula",
+      "lat": 44.8666,
+      "lng": 13.8496,
+      "isCapital": false,
+      "population": 57460
+    },
+    {
+      "name": "Karlovac",
+      "lat": 45.4922,
+      "lng": 15.5556,
+      "isCapital": false,
+      "population": 55705
+    },
+    {
+      "name": "Varaždin",
+      "lat": 46.3044,
+      "lng": 16.3378,
+      "isCapital": false,
+      "population": 46946
+    },
+    {
+      "name": "Šibenik",
+      "lat": 43.735,
+      "lng": 15.8958,
+      "isCapital": false,
+      "population": 46332
+    },
+    {
+      "name": "Dubrovnik",
+      "lat": 42.6507,
+      "lng": 18.0944,
+      "isCapital": false,
+      "population": 42615
+    }
+  ]
+}

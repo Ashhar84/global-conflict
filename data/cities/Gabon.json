@@ -1,0 +1,75 @@
+{
+  "country": "Gabon",
+  "cities": [
+    {
+      "name": "Libreville",
+      "lat": 0.3924,
+      "lng": 9.4536,
+      "isCapital": true,
+      "population": 703904
+    },
+    {
+      "name": "Port-Gentil",
+      "lat": -0.7193,
+      "lng": 8.7815,
+      "isCapital": false,
+      "population": 136462
+    },
+    {
+      "name": "Franceville",
+      "lat": -1.6333,
+      "lng": 13.5833,
+      "isCapital": false,
+      "population": 110568
+    },
+    {
+      "name": "Oyem",
+      "lat": 1.6,
+      "lng": 11.5833,
+      "isCapital": false,
+      "population": 60685
+    },
+    {
+      "name": "Moanda",
+      "lat": -1.5667,
+      "lng": 13.2,
+      "isCapital": false,
+      "population": 59154
+    },
+    {
+      "name": "Mouila",
+      "lat": -1.8667,
+      "lng": 11.05,
+      "isCapital": false,
+      "population": 36061
+    },
+    {
+      "name": "Lambaréné",
+      "lat": -0.7,
+      "lng": 10.2333,
+      "isCapital": false,
+      "population": 38775
+    },
+    {
+      "name": "Tchibanga",
+      "lat": -2.85,
+      "lng": 11.0,
+      "isCapital": false,
+      "population": 30042
+    },
+    {
+      "name": "Koulamoutou",
+      "lat": -1.1333,
+      "lng": 12.4833,
+      "isCapital": false,
+      "population": 25651
+    },
+    {
+      "name": "Makokou",
+      "lat": 0.5667,
+      "lng": 12.8667,
+      "isCapital": false,
+      "population": 20653
+    }
+  ]
+}

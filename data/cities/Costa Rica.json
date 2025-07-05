@@ -1,0 +1,75 @@
+{
+  "country": "Costa Rica",
+  "cities": [
+    {
+      "name": "San José",
+      "lat": 9.9281,
+      "lng": -84.0907,
+      "isCapital": true,
+      "population": 333980
+    },
+    {
+      "name": "Limón",
+      "lat": 9.9913,
+      "lng": -83.0333,
+      "isCapital": false,
+      "population": 61072
+    },
+    {
+      "name": "San Francisco",
+      "lat": 9.9333,
+      "lng": -84.05,
+      "isCapital": false,
+      "population": 55923
+    },
+    {
+      "name": "Alajuela",
+      "lat": 10.0163,
+      "lng": -84.2135,
+      "isCapital": false,
+      "population": 42976
+    },
+    {
+      "name": "Liberia",
+      "lat": 10.6333,
+      "lng": -85.4333,
+      "isCapital": false,
+      "population": 56899
+    },
+    {
+      "name": "Paraíso",
+      "lat": 9.8333,
+      "lng": -83.8667,
+      "isCapital": false,
+      "population": 39702
+    },
+    {
+      "name": "Puntarenas",
+      "lat": 9.9763,
+      "lng": -84.8384,
+      "isCapital": false,
+      "population": 35650
+    },
+    {
+      "name": "San Isidro de El General",
+      "lat": 9.3734,
+      "lng": -83.7056,
+      "isCapital": false,
+      "population": 34877
+    },
+    {
+      "name": "Curridabat",
+      "lat": 9.9167,
+      "lng": -84.0333,
+      "isCapital": false,
+      "population": 34586
+    },
+    {
+      "name": "Heredia",
+      "lat": 9.9984,
+      "lng": -84.1193,
+      "isCapital": false,
+      "population": 20000
+    }
+  ]
+}

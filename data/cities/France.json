@@ -1,0 +1,75 @@
+{
+  "country": "France",
+  "cities": [
+    {
+      "name": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "isCapital": true,
+      "population": 2148271
+    },
+    {
+      "name": "Marseille",
+      "lat": 43.2965,
+      "lng": 5.3698,
+      "isCapital": false,
+      "population": 861635
+    },
+    {
+      "name": "Lyon",
+      "lat": 45.764,
+      "lng": 4.8357,
+      "isCapital": false,
+      "population": 513275
+    },
+    {
+      "name": "Toulouse",
+      "lat": 43.6047,
+      "lng": 1.4442,
+      "isCapital": false,
+      "population": 471941
+    },
+    {
+      "name": "Nice",
+      "lat": 43.7102,
+      "lng": 7.262,
+      "isCapital": false,
+      "population": 342669
+    },
+    {
+      "name": "Nantes",
+      "lat": 47.2184,
+      "lng": -1.5536,
+      "isCapital": false,
+      "population": 303382
+    },
+    {
+      "name": "Montpellier",
+      "lat": 43.6108,
+      "lng": 3.8767,
+      "isCapital": false,
+      "population": 277639
+    },
+    {
+      "name": "Strasbourg",
+      "lat": 48.5734,
+      "lng": 7.7521,
+      "isCapital": false,
+      "population": 277270
+    },
+    {
+      "name": "Bordeaux",
+      "lat": 44.8378,
+      "lng": -0.5792,
+      "isCapital": false,
+      "population": 249712
+    },
+    {
+      "name": "Lille",
+      "lat": 50.6292,
+      "lng": 3.0573,
+      "isCapital": false,
+      "population": 232741
+    }
+  ]
+}

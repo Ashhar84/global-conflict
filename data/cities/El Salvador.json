@@ -1,0 +1,75 @@
+{
+  "country": "El Salvador",
+  "cities": [
+    {
+      "name": "San Salvador",
+      "lat": 13.6929,
+      "lng": -89.2182,
+      "isCapital": true,
+      "population": 238214
+    },
+    {
+      "name": "Soyapango",
+      "lat": 13.71,
+      "lng": -89.14,
+      "isCapital": false,
+      "population": 284601
+    },
+    {
+      "name": "Santa Ana",
+      "lat": 13.9944,
+      "lng": -89.5597,
+      "isCapital": false,
+      "population": 204340
+    },
+    {
+      "name": "San Miguel",
+      "lat": 13.4833,
+      "lng": -88.1833,
+      "isCapital": false,
+      "population": 158136
+    },
+    {
+      "name": "Mejicanos",
+      "lat": 13.72,
+      "lng": -89.21,
+      "isCapital": false,
+      "population": 140751
+    },
+    {
+      "name": "Apopa",
+      "lat": 13.8,
+      "lng": -89.1833,
+      "isCapital": false,
+      "population": 131286
+    },
+    {
+      "name": "Delgado",
+      "lat": 13.7167,
+      "lng": -89.1667,
+      "isCapital": false,
+      "population": 112161
+    },
+    {
+      "name": "Santa Tecla",
+      "lat": 13.6769,
+      "lng": -89.2797,
+      "isCapital": false,
+      "population": 121908
+    },
+    {
+      "name": "Ilopango",
+      "lat": 13.7,
+      "lng": -89.1,
+      "isCapital": false,
+      "population": 103862
+    },
+    {
+      "name": "Ahuachapán",
+      "lat": 13.9167,
+      "lng": -89.85,
+      "isCapital": false,
+      "population": 63981
+    }
+  ]
+}

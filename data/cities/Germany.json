@@ -1,0 +1,75 @@
+{
+  "country": "Germany",
+  "cities": [
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
+      "isCapital": true,
+      "population": 3644826
+    },
+    {
+      "name": "Hamburg",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "isCapital": false,
+      "population": 1841179
+    },
+    {
+      "name": "Munich",
+      "lat": 48.1351,
+      "lng": 11.582,
+      "isCapital": false,
+      "population": 1471508
+    },
+    {
+      "name": "Cologne",
+      "lat": 50.9375,
+      "lng": 6.9603,
+      "isCapital": false,
+      "population": 1085664
+    },
+    {
+      "name": "Frankfurt",
+      "lat": 50.1109,
+      "lng": 8.6821,
+      "isCapital": false,
+      "population": 753056
+    },
+    {
+      "name": "Stuttgart",
+      "lat": 48.7758,
+      "lng": 9.1829,
+      "isCapital": false,
+      "population": 634830
+    },
+    {
+      "name": "Düsseldorf",
+      "lat": 51.2277,
+      "lng": 6.7735,
+      "isCapital": false,
+      "population": 619294
+    },
+    {
+      "name": "Dortmund",
+      "lat": 51.5136,
+      "lng": 7.4653,
+      "isCapital": false,
+      "population": 587010
+    },
+    {
+      "name": "Essen",
+      "lat": 51.4556,
+      "lng": 7.0116,
+      "isCapital": false,
+      "population": 583109
+    },
+    {
+      "name": "Leipzig",
+      "lat": 51.3397,
+      "lng": 12.3731,
+      "isCapital": false,
+      "population": 587857
+    }
+  ]
+}

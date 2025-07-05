@@ -1,0 +1,75 @@
+{
+  "country": "Greece",
+  "cities": [
+    {
+      "name": "Athens",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "isCapital": true,
+      "population": 664046
+    },
+    {
+      "name": "Thessaloniki",
+      "lat": 40.6401,
+      "lng": 22.9444,
+      "isCapital": false,
+      "population": 325182
+    },
+    {
+      "name": "Patras",
+      "lat": 38.2466,
+      "lng": 21.7346,
+      "isCapital": false,
+      "population": 168034
+    },
+    {
+      "name": "Heraklion",
+      "lat": 35.3387,
+      "lng": 25.1442,
+      "isCapital": false,
+      "population": 140547
+    },
+    {
+      "name": "Larissa",
+      "lat": 39.6369,
+      "lng": 22.4173,
+      "isCapital": false,
+      "population": 144651
+    },
+    {
+      "name": "Volos",
+      "lat": 39.362,
+      "lng": 22.943,
+      "isCapital": false,
+      "population": 86046
+    },
+    {
+      "name": "Ioannina",
+      "lat": 39.6639,
+      "lng": 20.8522,
+      "isCapital": false,
+      "population": 65574
+    },
+    {
+      "name": "Chania",
+      "lat": 35.5138,
+      "lng": 24.0275,
+      "isCapital": false,
+      "population": 53910
+    },
+    {
+      "name": "Alexandroupoli",
+      "lat": 40.8475,
+      "lng": 25.8764,
+      "isCapital": false,
+      "population": 57812
+    },
+    {
+      "name": "Rhodes",
+      "lat": 36.4442,
+      "lng": 28.2225,
+      "isCapital": false,
+      "population": 49541
+    }
+  ]
+}

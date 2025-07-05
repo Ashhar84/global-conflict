@@ -1,0 +1,75 @@
+{
+  "country": "Czechia",
+  "cities": [
+    {
+      "name": "Prague",
+      "lat": 50.0755,
+      "lng": 14.4378,
+      "isCapital": true,
+      "population": 1335084
+    },
+    {
+      "name": "Brno",
+      "lat": 49.1951,
+      "lng": 16.6068,
+      "isCapital": false,
+      "population": 381346
+    },
+    {
+      "name": "Ostrava",
+      "lat": 49.8209,
+      "lng": 18.2625,
+      "isCapital": false,
+      "population": 284982
+    },
+    {
+      "name": "Plzeň",
+      "lat": 49.7384,
+      "lng": 13.3736,
+      "isCapital": false,
+      "population": 174842
+    },
+    {
+      "name": "Liberec",
+      "lat": 50.7671,
+      "lng": 15.0569,
+      "isCapital": false,
+      "population": 104445
+    },
+    {
+      "name": "Olomouc",
+      "lat": 49.5938,
+      "lng": 17.2508,
+      "isCapital": false,
+      "population": 100523
+    },
+    {
+      "name": "České Budějovice",
+      "lat": 48.9747,
+      "lng": 14.4746,
+      "isCapital": false,
+      "population": 94229
+    },
+    {
+      "name": "Hradec Králové",
+      "lat": 50.2092,
+      "lng": 15.8328,
+      "isCapital": false,
+      "population": 92956
+    },
+    {
+      "name": "Ústí nad Labem",
+      "lat": 50.6607,
+      "lng": 14.0325,
+      "isCapital": false,
+      "population": 92716
+    },
+    {
+      "name": "Pardubice",
+      "lat": 50.0386,
+      "lng": 15.7792,
+      "isCapital": false,
+      "population": 91727
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Congo, Democratic Republic of the",
+  "cities": [
+    {
+      "name": "Kinshasa",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "isCapital": true,
+      "population": 14970000
+    },
+    {
+      "name": "Lubumbashi",
+      "lat": -11.6609,
+      "lng": 27.4794,
+      "isCapital": false,
+      "population": 2584000
+    },
+    {
+      "name": "Mbuji-Mayi",
+      "lat": -6.15,
+      "lng": 23.6,
+      "isCapital": false,
+      "population": 2572000
+    },
+    {
+      "name": "Kananga",
+      "lat": -5.8964,
+      "lng": 22.4176,
+      "isCapital": false,
+      "population": 1526000
+    },
+    {
+      "name": "Kisangani",
+      "lat": 0.514,
+      "lng": 25.19,
+      "isCapital": false,
+      "population": 1312000
+    },
+    {
+      "name": "Bukavu",
+      "lat": -2.5084,
+      "lng": 28.8607,
+      "isCapital": false,
+      "population": 1133000
+    },
+    {
+      "name": "Goma",
+      "lat": -1.674,
+      "lng": 29.228,
+      "isCapital": false,
+      "population": 670000
+    },
+    {
+      "name": "Tshikapa",
+      "lat": -6.4167,
+      "lng": 20.8,
+      "isCapital": false,
+      "population": 997000
+    },
+    {
+      "name": "Kolwezi",
+      "lat": -10.7167,
+      "lng": 25.4667,
+      "isCapital": false,
+      "population": 573000
+    },
+    {
+      "name": "Likasi",
+      "lat": -10.9833,
+      "lng": 26.7333,
+      "isCapital": false,
+      "population": 447449
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Comoros",
+  "cities": [
+    {
+      "name": "Moroni",
+      "lat": -11.7022,
+      "lng": 43.2551,
+      "isCapital": true,
+      "population": 62351
+    },
+    {
+      "name": "Mutsamudu",
+      "lat": -12.1667,
+      "lng": 44.4,
+      "isCapital": false,
+      "population": 26469
+    },
+    {
+      "name": "Fomboni",
+      "lat": -12.2833,
+      "lng": 43.75,
+      "isCapital": false,
+      "population": 17291
+    },
+    {
+      "name": "Domoni",
+      "lat": -12.25,
+      "lng": 44.5333,
+      "isCapital": false,
+      "population": 15351
+    },
+    {
+      "name": "Ouani",
+      "lat": -12.1333,
+      "lng": 44.4333,
+      "isCapital": false,
+      "population": 10179
+    },
+    {
+      "name": "Mirontsi",
+      "lat": -12.2,
+      "lng": 44.4333,
+      "isCapital": false,
+      "population": 10169
+    },
+    {
+      "name": "Sima",
+      "lat": -12.2,
+      "lng": 44.3667,
+      "isCapital": false,
+      "population": 10000
+    },
+    {
+      "name": "Iconi",
+      "lat": -11.7333,
+      "lng": 43.25,
+      "isCapital": false,
+      "population": 8800
+    },
+    {
+      "name": "Itsandra",
+      "lat": -11.6833,
+      "lng": 43.25,
+      "isCapital": false,
+      "population": 8000
+    },
+    {
+      "name": "Koni-Djodjo",
+      "lat": -12.2333,
+      "lng": 44.4833,
+      "isCapital": false,
+      "population": 8000
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Guatemala",
+  "cities": [
+    {
+      "name": "Guatemala City",
+      "lat": 14.6349,
+      "lng": -90.5069,
+      "isCapital": true,
+      "population": 994938
+    },
+    {
+      "name": "Mixco",
+      "lat": 14.6333,
+      "lng": -90.6,
+      "isCapital": false,
+      "population": 463019
+    },
+    {
+      "name": "Villa Nueva",
+      "lat": 14.5333,
+      "lng": -90.5833,
+      "isCapital": false,
+      "population": 426316
+    },
+    {
+      "name": "Quetzaltenango",
+      "lat": 14.8333,
+      "lng": -91.5167,
+      "isCapital": false,
+      "population": 180706
+    },
+    {
+      "name": "San Miguel Petapa",
+      "lat": 14.5167,
+      "lng": -90.55,
+      "isCapital": false,
+      "population": 129124
+    },
+    {
+      "name": "Escuintla",
+      "lat": 14.3,
+      "lng": -90.7833,
+      "isCapital": false,
+      "population": 103165
+    },
+    {
+      "name": "San Juan Sacatepéquez",
+      "lat": 14.7167,
+      "lng": -90.65,
+      "isCapital": false,
+      "population": 99976
+    },
+    {
+      "name": "Villa Canales",
+      "lat": 14.4833,
+      "lng": -90.5333,
+      "isCapital": false,
+      "population": 98976
+    },
+    {
+      "name": "Chinautla",
+      "lat": 14.6833,
+      "lng": -90.5,
+      "isCapital": false,
+      "population": 95312
+    },
+    {
+      "name": "Chimaltenango",
+      "lat": 14.6667,
+      "lng": -90.8167,
+      "isCapital": false,
+      "population": 82370
+    }
+  ]
+}

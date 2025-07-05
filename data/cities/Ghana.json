@@ -1,0 +1,75 @@
+{
+  "country": "Ghana",
+  "cities": [
+    {
+      "name": "Accra",
+      "lat": 5.6037,
+      "lng": -0.187,
+      "isCapital": true,
+      "population": 2514000
+    },
+    {
+      "name": "Kumasi",
+      "lat": 6.6885,
+      "lng": -1.6244,
+      "isCapital": false,
+      "population": 2035064
+    },
+    {
+      "name": "Tamale",
+      "lat": 9.4008,
+      "lng": -0.8393,
+      "isCapital": false,
+      "population": 360579
+    },
+    {
+      "name": "Takoradi",
+      "lat": 4.887,
+      "lng": -1.755,
+      "isCapital": false,
+      "population": 335000
+    },
+    {
+      "name": "Ashaiman",
+      "lat": 5.7,
+      "lng": -0.0333,
+      "isCapital": false,
+      "population": 298841
+    },
+    {
+      "name": "Tema",
+      "lat": 5.6667,
+      "lng": -0.0167,
+      "isCapital": false,
+      "population": 161612
+    },
+    {
+      "name": "Cape Coast",
+      "lat": 5.1053,
+      "lng": -1.2466,
+      "isCapital": false,
+      "population": 169894
+    },
+    {
+      "name": "Obuasi",
+      "lat": 6.2,
+      "lng": -1.65,
+      "isCapital": false,
+      "population": 175043
+    },
+    {
+      "name": "Sekondi-Takoradi",
+      "lat": 4.9333,
+      "lng": -1.7667,
+      "isCapital": false,
+      "population": 445205
+    },
+    {
+      "name": "Koforidua",
+      "lat": 6.0833,
+      "lng": -0.25,
+      "isCapital": false,
+      "population": 127334
+    }
+  ]
+}
