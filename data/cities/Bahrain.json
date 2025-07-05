@@ -1,0 +1,75 @@
+{
+  "country": "Bahrain",
+  "cities": [
+    {
+      "name": "Manama",
+      "lat": 26.2285,
+      "lng": 50.586,
+      "isCapital": true,
+      "population": 157474
+    },
+    {
+      "name": "Riffa",
+      "lat": 26.1306,
+      "lng": 50.5556,
+      "isCapital": false,
+      "population": 111000
+    },
+    {
+      "name": "Muharraq",
+      "lat": 26.2572,
+      "lng": 50.6119,
+      "isCapital": false,
+      "population": 98000
+    },
+    {
+      "name": "Hamad Town",
+      "lat": 26.115,
+      "lng": 50.5106,
+      "isCapital": false,
+      "population": 57000
+    },
+    {
+      "name": "A'ali",
+      "lat": 26.155,
+      "lng": 50.5175,
+      "isCapital": false,
+      "population": 51400
+    },
+    {
+      "name": "Isa Town",
+      "lat": 26.1736,
+      "lng": 50.5478,
+      "isCapital": false,
+      "population": 39800
+    },
+    {
+      "name": "Sitra",
+      "lat": 26.1547,
+      "lng": 50.6206,
+      "isCapital": false,
+      "population": 60100
+    },
+    {
+      "name": "Budaiya",
+      "lat": 26.2239,
+      "lng": 50.4778,
+      "isCapital": false,
+      "population": 33200
+    },
+    {
+      "name": "Jidhafs",
+      "lat": 26.2333,
+      "lng": 50.5333,
+      "isCapital": false,
+      "population": 32600
+    },
+    {
+      "name": "Al-Malikiyah",
+      "lat": 26.0667,
+      "lng": 50.4833,
+      "isCapital": false,
+      "population": 14800
+    }
+  ]
+}

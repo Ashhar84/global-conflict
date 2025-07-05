@@ -1,0 +1,75 @@
+{
+  "country": "Barbados",
+  "cities": [
+    {
+      "name": "Bridgetown",
+      "lat": 13.1073,
+      "lng": -59.6202,
+      "isCapital": true,
+      "population": 110000
+    },
+    {
+      "name": "Speightstown",
+      "lat": 13.25,
+      "lng": -59.65,
+      "isCapital": false,
+      "population": 3634
+    },
+    {
+      "name": "Oistins",
+      "lat": 13.0667,
+      "lng": -59.5333,
+      "isCapital": false,
+      "population": 2285
+    },
+    {
+      "name": "Bathsheba",
+      "lat": 13.2167,
+      "lng": -59.5167,
+      "isCapital": false,
+      "population": 1521
+    },
+    {
+      "name": "Holetown",
+      "lat": 13.1833,
+      "lng": -59.6333,
+      "isCapital": false,
+      "population": 1595
+    },
+    {
+      "name": "The Crane",
+      "lat": 13.1,
+      "lng": -59.45,
+      "isCapital": false,
+      "population": 935
+    },
+    {
+      "name": "Crab Hill",
+      "lat": 13.3167,
+      "lng": -59.6333,
+      "isCapital": false,
+      "population": 727
+    },
+    {
+      "name": "Blackmans",
+      "lat": 13.1667,
+      "lng": -59.5167,
+      "isCapital": false,
+      "population": 625
+    },
+    {
+      "name": "Greenland",
+      "lat": 13.2833,
+      "lng": -59.5667,
+      "isCapital": false,
+      "population": 623
+    },
+    {
+      "name": "Hillaby",
+      "lat": 13.2,
+      "lng": -59.5833,
+      "isCapital": false,
+      "population": 519
+    }
+  ]
+}

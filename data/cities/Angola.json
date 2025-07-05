@@ -1,0 +1,75 @@
+{
+  "country": "Angola",
+  "cities": [
+    {
+      "name": "Luanda",
+      "lat": -8.8383,
+      "lng": 13.2344,
+      "isCapital": true,
+      "population": 2571861
+    },
+    {
+      "name": "Huambo",
+      "lat": -12.7761,
+      "lng": 15.7392,
+      "isCapital": false,
+      "population": 1100000
+    },
+    {
+      "name": "Lobito",
+      "lat": -12.3481,
+      "lng": 13.5456,
+      "isCapital": false,
+      "population": 393079
+    },
+    {
+      "name": "Benguela",
+      "lat": -12.5783,
+      "lng": 13.4056,
+      "isCapital": false,
+      "population": 553933
+    },
+    {
+      "name": "Lubango",
+      "lat": -14.9172,
+      "lng": 13.4925,
+      "isCapital": false,
+      "population": 776249
+    },
+    {
+      "name": "Malanje",
+      "lat": -9.5402,
+      "lng": 16.341,
+      "isCapital": false,
+      "population": 486870
+    },
+    {
+      "name": "Cabinda",
+      "lat": -5.55,
+      "lng": 12.2,
+      "isCapital": false,
+      "population": 600000
+    },
+    {
+      "name": "Soyo",
+      "lat": -6.1349,
+      "lng": 12.3689,
+      "isCapital": false,
+      "population": 227175
+    },
+    {
+      "name": "Uíge",
+      "lat": -7.6087,
+      "lng": 15.0613,
+      "isCapital": false,
+      "population": 322531
+    },
+    {
+      "name": "Menongue",
+      "lat": -14.6585,
+      "lng": 17.691,
+      "isCapital": false,
+      "population": 320914
+    }
+  ]
+}

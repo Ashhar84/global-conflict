@@ -1,0 +1,75 @@
+{
+  "country": "Argentina",
+  "cities": [
+    {
+      "name": "Buenos Aires",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "isCapital": true,
+      "population": 2891000
+    },
+    {
+      "name": "Córdoba",
+      "lat": -31.4201,
+      "lng": -64.1888,
+      "isCapital": false,
+      "population": 1317298
+    },
+    {
+      "name": "Rosario",
+      "lat": -32.9441,
+      "lng": -60.6393,
+      "isCapital": false,
+      "population": 1193605
+    },
+    {
+      "name": "Mendoza",
+      "lat": -32.8902,
+      "lng": -68.8458,
+      "isCapital": false,
+      "population": 115041
+    },
+    {
+      "name": "La Plata",
+      "lat": -34.9205,
+      "lng": -57.9536,
+      "isCapital": false,
+      "population": 643133
+    },
+    {
+      "name": "San Miguel de Tucumán",
+      "lat": -26.8083,
+      "lng": -65.2176,
+      "isCapital": false,
+      "population": 548866
+    },
+    {
+      "name": "Mar del Plata",
+      "lat": -38.0055,
+      "lng": -57.5426,
+      "isCapital": false,
+      "population": 593321
+    },
+    {
+      "name": "Salta",
+      "lat": -24.7829,
+      "lng": -65.4117,
+      "isCapital": false,
+      "population": 535303
+    },
+    {
+      "name": "Santa Fe",
+      "lat": -31.6107,
+      "lng": -60.7067,
+      "isCapital": false,
+      "population": 391231
+    },
+    {
+      "name": "San Juan",
+      "lat": -31.5375,
+      "lng": -68.5364,
+      "isCapital": false,
+      "population": 109123
+    }
+  ]
+}

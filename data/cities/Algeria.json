@@ -1,0 +1,75 @@
+{
+  "country": "Algeria",
+  "cities": [
+    {
+      "name": "Algiers",
+      "lat": 36.7754,
+      "lng": 3.0588,
+      "isCapital": true,
+      "population": 3415811
+    },
+    {
+      "name": "Oran",
+      "lat": 35.6911,
+      "lng": -0.6417,
+      "isCapital": false,
+      "population": 803329
+    },
+    {
+      "name": "Constantine",
+      "lat": 36.365,
+      "lng": 6.6147,
+      "isCapital": false,
+      "population": 448028
+    },
+    {
+      "name": "Annaba",
+      "lat": 36.9,
+      "lng": 7.7667,
+      "isCapital": false,
+      "population": 342703
+    },
+    {
+      "name": "Blida",
+      "lat": 36.47,
+      "lng": 2.83,
+      "isCapital": false,
+      "population": 331779
+    },
+    {
+      "name": "Batna",
+      "lat": 35.5559,
+      "lng": 6.1743,
+      "isCapital": false,
+      "population": 290645
+    },
+    {
+      "name": "Sétif",
+      "lat": 36.19,
+      "lng": 5.41,
+      "isCapital": false,
+      "population": 288461
+    },
+    {
+      "name": "Chlef",
+      "lat": 36.165,
+      "lng": 1.3347,
+      "isCapital": false,
+      "population": 235061
+    },
+    {
+      "name": "Djelfa",
+      "lat": 34.6728,
+      "lng": 3.2631,
+      "isCapital": false,
+      "population": 221231
+    },
+    {
+      "name": "Sidi Bel Abbès",
+      "lat": 35.1897,
+      "lng": -0.6308,
+      "isCapital": false,
+      "population": 212935
+    }
+  ]
+}

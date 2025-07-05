@@ -1,0 +1,75 @@
+{
+  "country": "Armenia",
+  "cities": [
+    {
+      "name": "Yerevan",
+      "lat": 40.1792,
+      "lng": 44.4991,
+      "isCapital": true,
+      "population": 1075800
+    },
+    {
+      "name": "Gyumri",
+      "lat": 40.7895,
+      "lng": 43.8453,
+      "isCapital": false,
+      "population": 121976
+    },
+    {
+      "name": "Vanadzor",
+      "lat": 40.8123,
+      "lng": 44.4882,
+      "isCapital": false,
+      "population": 86199
+    },
+    {
+      "name": "Vagharshapat",
+      "lat": 40.1657,
+      "lng": 44.293,
+      "isCapital": false,
+      "population": 46540
+    },
+    {
+      "name": "Hrazdan",
+      "lat": 40.5008,
+      "lng": 44.765,
+      "isCapital": false,
+      "population": 41875
+    },
+    {
+      "name": "Abovyan",
+      "lat": 40.2694,
+      "lng": 44.625,
+      "isCapital": false,
+      "population": 44400
+    },
+    {
+      "name": "Kapan",
+      "lat": 39.2081,
+      "lng": 46.4036,
+      "isCapital": false,
+      "population": 43190
+    },
+    {
+      "name": "Armavir",
+      "lat": 40.1542,
+      "lng": 44.0389,
+      "isCapital": false,
+      "population": 29319
+    },
+    {
+      "name": "Gavar",
+      "lat": 40.3581,
+      "lng": 45.1258,
+      "isCapital": false,
+      "population": 20765
+    },
+    {
+      "name": "Artashat",
+      "lat": 39.9539,
+      "lng": 44.5458,
+      "isCapital": false,
+      "population": 22269
+    }
+  ]
+}

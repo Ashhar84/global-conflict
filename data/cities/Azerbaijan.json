@@ -1,0 +1,75 @@
+{
+  "country": "Azerbaijan",
+  "cities": [
+    {
+      "name": "Baku",
+      "lat": 40.4093,
+      "lng": 49.8671,
+      "isCapital": true,
+      "population": 2293100
+    },
+    {
+      "name": "Ganja",
+      "lat": 40.6828,
+      "lng": 46.3606,
+      "isCapital": false,
+      "population": 335600
+    },
+    {
+      "name": "Sumqayit",
+      "lat": 40.5897,
+      "lng": 49.6686,
+      "isCapital": false,
+      "population": 345300
+    },
+    {
+      "name": "Mingachevir",
+      "lat": 40.77,
+      "lng": 47.0483,
+      "isCapital": false,
+      "population": 106100
+    },
+    {
+      "name": "Khirdalan",
+      "lat": 40.4469,
+      "lng": 49.7553,
+      "isCapital": false,
+      "population": 99300
+    },
+    {
+      "name": "Lankaran",
+      "lat": 38.7533,
+      "lng": 48.8475,
+      "isCapital": false,
+      "population": 52900
+    },
+    {
+      "name": "Shirvan",
+      "lat": 39.9328,
+      "lng": 48.9204,
+      "isCapital": false,
+      "population": 87400
+    },
+    {
+      "name": "Nakhchivan",
+      "lat": 39.2089,
+      "lng": 45.4122,
+      "isCapital": false,
+      "population": 94500
+    },
+    {
+      "name": "Shaki",
+      "lat": 41.1919,
+      "lng": 47.1706,
+      "isCapital": false,
+      "population": 68400
+    },
+    {
+      "name": "Yevlakh",
+      "lat": 40.6186,
+      "lng": 47.1506,
+      "isCapital": false,
+      "population": 69900
+    }
+  ]
+}

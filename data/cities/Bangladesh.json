@@ -1,0 +1,75 @@
+{
+  "country": "Bangladesh",
+  "cities": [
+    {
+      "name": "Dhaka",
+      "lat": 23.8103,
+      "lng": 90.4125,
+      "isCapital": true,
+      "population": 10295486
+    },
+    {
+      "name": "Chittagong",
+      "lat": 22.3569,
+      "lng": 91.7832,
+      "isCapital": false,
+      "population": 2582401
+    },
+    {
+      "name": "Khulna",
+      "lat": 22.8456,
+      "lng": 89.5403,
+      "isCapital": false,
+      "population": 663342
+    },
+    {
+      "name": "Rajshahi",
+      "lat": 24.374,
+      "lng": 88.6042,
+      "isCapital": false,
+      "population": 449756
+    },
+    {
+      "name": "Sylhet",
+      "lat": 24.8949,
+      "lng": 91.8687,
+      "isCapital": false,
+      "population": 479837
+    },
+    {
+      "name": "Barisal",
+      "lat": 22.701,
+      "lng": 90.3535,
+      "isCapital": false,
+      "population": 328278
+    },
+    {
+      "name": "Comilla",
+      "lat": 23.4607,
+      "lng": 91.1809,
+      "isCapital": false,
+      "population": 296010
+    },
+    {
+      "name": "Narayanganj",
+      "lat": 23.6238,
+      "lng": 90.500,
+      "isCapital": false,
+      "population": 286330
+    },
+    {
+      "name": "Mymensingh",
+      "lat": 24.7471,
+      "lng": 90.4203,
+      "isCapital": false,
+      "population": 258040
+    },
+    {
+      "name": "Rangpur",
+      "lat": 25.7439,
+      "lng": 89.2752,
+      "isCapital": false,
+      "population": 294265
+    }
+  ]
+}

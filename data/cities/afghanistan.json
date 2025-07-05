@@ -1,0 +1,75 @@
+{
+  "country": "Afghanistan",
+  "cities": [
+    {
+      "name": "Kabul",
+      "lat": 34.5553,
+      "lng": 69.2075,
+      "isCapital": true,
+      "population": 4600000
+    },
+    {
+      "name": "Kandahar",
+      "lat": 31.6295,
+      "lng": 65.7156,
+      "isCapital": false,
+      "population": 614254
+    },
+    {
+      "name": "Herat",
+      "lat": 34.3735,
+      "lng": 62.1792,
+      "isCapital": false,
+      "population": 592902
+    },
+    {
+      "name": "Mazar-i-Sharif",
+      "lat": 36.7006,
+      "lng": 67.1036,
+      "isCapital": false,
+      "population": 469247
+    },
+    {
+      "name": "Jalalabad",
+      "lat": 34.4265,
+      "lng": 70.4515,
+      "isCapital": false,
+      "population": 356274
+    },
+    {
+      "name": "Kunduz",
+      "lat": 36.7289,
+      "lng": 68.857,
+      "isCapital": false,
+      "population": 374747
+    },
+    {
+      "name": "Lashkar Gah",
+      "lat": 31.5934,
+      "lng": 64.3714,
+      "isCapital": false,
+      "population": 280200
+    },
+    {
+      "name": "Taloqan",
+      "lat": 36.7361,
+      "lng": 69.5345,
+      "isCapital": false,
+      "population": 258000
+    },
+    {
+      "name": "Puli Khumri",
+      "lat": 35.945,
+      "lng": 68.7031,
+      "isCapital": false,
+      "population": 237900
+    },
+    {
+      "name": "Khost",
+      "lat": 33.3335,
+      "lng": 69.9167,
+      "isCapital": false,
+      "population": 180214
+    }
+  ]
+}

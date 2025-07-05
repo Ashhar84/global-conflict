@@ -1,0 +1,75 @@
+{
+  "country": "Bahamas",
+  "cities": [
+    {
+      "name": "Nassau",
+      "lat": 25.0478,
+      "lng": -77.3554,
+      "isCapital": true,
+      "population": 274400
+    },
+    {
+      "name": "Freeport",
+      "lat": 26.5333,
+      "lng": -78.7,
+      "isCapital": false,
+      "population": 26910
+    },
+    {
+      "name": "Lucaya",
+      "lat": 26.5167,
+      "lng": -78.6333,
+      "isCapital": false,
+      "population": 46525
+    },
+    {
+      "name": "West End",
+      "lat": 26.6875,
+      "lng": -78.975,
+      "isCapital": false,
+      "population": 13004
+    },
+    {
+      "name": "Coopers Town",
+      "lat": 26.8667,
+      "lng": -77.5167,
+      "isCapital": false,
+      "population": 9069
+    },
+    {
+      "name": "Marsh Harbour",
+      "lat": 26.55,
+      "lng": -77.05,
+      "isCapital": false,
+      "population": 6283
+    },
+    {
+      "name": "High Rock",
+      "lat": 26.6069,
+      "lng": -78.2792,
+      "isCapital": false,
+      "population": 3826
+    },
+    {
+      "name": "Andros Town",
+      "lat": 24.7,
+      "lng": -77.7667,
+      "isCapital": false,
+      "population": 2443
+    },
+    {
+      "name": "Clarence Town",
+      "lat": 23.1,
+      "lng": -74.9833,
+      "isCapital": false,
+      "population": 1705
+    },
+    {
+      "name": "Dunmore Town",
+      "lat": 25.5,
+      "lng": -76.6333,
+      "isCapital": false,
+      "population": 1500
+    }
+  ]
+}

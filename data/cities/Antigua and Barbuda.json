@@ -1,0 +1,75 @@
+{
+  "country": "Antigua and Barbuda",
+  "cities": [
+    {
+      "name": "Saint John's",
+      "lat": 17.121,
+      "lng": -61.8447,
+      "isCapital": true,
+      "population": 22219
+    },
+    {
+      "name": "All Saints",
+      "lat": 17.0667,
+      "lng": -61.7833,
+      "isCapital": false,
+      "population": 3412
+    },
+    {
+      "name": "Liberta",
+      "lat": 17.0333,
+      "lng": -61.7833,
+      "isCapital": false,
+      "population": 2239
+    },
+    {
+      "name": "Potters Village",
+      "lat": 17.1,
+      "lng": -61.8167,
+      "isCapital": false,
+      "population": 3061
+    },
+    {
+      "name": "Bolands",
+      "lat": 17.0667,
+      "lng": -61.8667,
+      "isCapital": false,
+      "population": 2088
+    },
+    {
+      "name": "Swetes",
+      "lat": 17.05,
+      "lng": -61.8,
+      "isCapital": false,
+      "population": 1800
+    },
+    {
+      "name": "Seaview Farm",
+      "lat": 17.0833,
+      "lng": -61.8,
+      "isCapital": false,
+      "population": 1500
+    },
+    {
+      "name": "Parham",
+      "lat": 17.1,
+      "lng": -61.7667,
+      "isCapital": false,
+      "population": 1245
+    },
+    {
+      "name": "Codrington",
+      "lat": 17.6333,
+      "lng": -61.8333,
+      "isCapital": false,
+      "population": 1325
+    },
+    {
+      "name": "Willikies",
+      "lat": 17.0833,
+      "lng": -61.7167,
+      "isCapital": false,
+      "population": 1100
+    }
+  ]
+}

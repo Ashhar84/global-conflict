@@ -1,0 +1,75 @@
+{
+  "country": "Austria",
+  "cities": [
+    {
+      "name": "Vienna",
+      "lat": 48.2082,
+      "lng": 16.3738,
+      "isCapital": true,
+      "population": 1911191
+    },
+    {
+      "name": "Graz",
+      "lat": 47.0707,
+      "lng": 15.4395,
+      "isCapital": false,
+      "population": 289440
+    },
+    {
+      "name": "Linz",
+      "lat": 48.3069,
+      "lng": 14.2858,
+      "isCapital": false,
+      "population": 205726
+    },
+    {
+      "name": "Salzburg",
+      "lat": 47.8095,
+      "lng": 13.055,
+      "isCapital": false,
+      "population": 154211
+    },
+    {
+      "name": "Innsbruck",
+      "lat": 47.2692,
+      "lng": 11.4041,
+      "isCapital": false,
+      "population": 132110
+    },
+    {
+      "name": "Klagenfurt",
+      "lat": 46.6249,
+      "lng": 14.305,
+      "isCapital": false,
+      "population": 100817
+    },
+    {
+      "name": "Villach",
+      "lat": 46.615,
+      "lng": 13.8483,
+      "isCapital": false,
+      "population": 62243
+    },
+    {
+      "name": "Wels",
+      "lat": 48.1583,
+      "lng": 14.0247,
+      "isCapital": false,
+      "population": 61727
+    },
+    {
+      "name": "Sankt Pölten",
+      "lat": 48.2047,
+      "lng": 15.625,
+      "isCapital": false,
+      "population": 55514
+    },
+    {
+      "name": "Dornbirn",
+      "lat": 47.4125,
+      "lng": 9.7417,
+      "isCapital": false,
+      "population": 49278
+    }
+  ]
+}

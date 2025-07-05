@@ -1,0 +1,75 @@
+{
+  "country": "Australia",
+  "cities": [
+    {
+      "name": "Canberra",
+      "lat": -35.282,
+      "lng": 149.1287,
+      "isCapital": true,
+      "population": 431380
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "isCapital": false,
+      "population": 5312163
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "isCapital": false,
+      "population": 5078193
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.4698,
+      "lng": 153.0251,
+      "isCapital": false,
+      "population": 2514184
+    },
+    {
+      "name": "Perth",
+      "lat": -31.9505,
+      "lng": 115.8605,
+      "isCapital": false,
+      "population": 2059484
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.9285,
+      "lng": 138.6007,
+      "isCapital": false,
+      "population": 1345777
+    },
+    {
+      "name": "Gold Coast",
+      "lat": -28.0167,
+      "lng": 153.4,
+      "isCapital": false,
+      "population": 679127
+    },
+    {
+      "name": "Newcastle",
+      "lat": -32.9283,
+      "lng": 151.7817,
+      "isCapital": false,
+      "population": 322278
+    },
+    {
+      "name": "Wollongong",
+      "lat": -34.4278,
+      "lng": 150.8931,
+      "isCapital": false,
+      "population": 295669
+    },
+    {
+      "name": "Hobart",
+      "lat": -42.8821,
+      "lng": 147.3272,
+      "isCapital": false,
+      "population": 232670
+    }
+  ]
+}
