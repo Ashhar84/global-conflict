@@ -1,0 +1,103 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.command-center {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-bottom: 2px solid #333;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+  flex: 1;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.control-panel {
+  width: 250px;
+  background-color: #1e1e1e;
+  padding: 1rem;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.nation-selector select {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+
+.forces-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.forces-control button {
+  padding: 0.5rem;
+  background-color: #4a6fa5;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.forces-control button:hover {
+  background-color: #5a7fb5;
+}
+
+.map-container {
+  flex: 1;
+  background-color: #1e1e1e;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.cities-container {
+  width: 300px;
+  background-color: #1e1e1e;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-y: auto;
+}
+
+.city-card {
+  background-color: #252525;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  border-radius: 3px;
+  border-left: 3px solid #4a6fa5;
+}
+
+.city-card h3 {
+  margin: 0 0 0.5rem 0;
+}
+
+footer {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  text-align: center;
+  border-top: 2px solid #333;
+}
