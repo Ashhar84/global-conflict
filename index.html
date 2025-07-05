@@ -98,7 +98,6 @@
 </head>
 <body>
     <video autoplay muted loop id="video-background">
-        <!-- You can replace this with a video of your choice -->
         <source src="https://github.com/Ashharh94/global-conflict/raw/main/videos/background.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
@@ -124,7 +123,6 @@
     </div>
 
     <script type="module">
-        // **FIX:** Switched to signInWithRedirect for better compatibility.
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
         import { getAuth, GoogleAuthProvider, signInWithRedirect, getRedirectResult, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 
@@ -148,31 +146,30 @@
         const userNameP = document.getElementById('user-name');
         const userPicImg = document.getElementById('user-pic');
 
-        // When the Google button is clicked, start the redirect process.
         googleLoginBtn.addEventListener('click', () => {
             signInWithRedirect(auth, provider);
         });
 
         guestLoginBtn.addEventListener('click', () => {
-            showUserInfoAndRedirect(null); // Pass null for guest
+            showUserInfoAndRedirect(null); 
         });
 
-        // This function checks for the result of the redirect when the page loads.
         getRedirectResult(auth)
+            .then((result) => {
+                if (result) {
+                    const user = result.user;
+                    showUserInfoAndRedirect(user);
+                }
+            })
             .catch((error) => {
-                // Handle errors from the redirect flow.
                 console.error("Authentication redirect failed:", error);
                 alert("Google Sign-In failed. Please try again.");
             });
 
-        // This function checks the user's state whenever the page loads.
         onAuthStateChanged(auth, (user) => {
             if (user) {
-                // If the user is signed in (either from a redirect or a previous session),
-                // show their info and proceed to the game.
                 showUserInfoAndRedirect(user);
             } else {
-                // If no user is signed in, make sure the login buttons are visible.
                 loginOptions.style.display = 'block';
                 userInfoDiv.style.display = 'none';
             }
@@ -182,16 +179,15 @@
             loginOptions.style.display = 'none';
             userInfoDiv.style.display = 'block';
 
-            if (user) { // If it's a Google user
+            if (user) { 
                 userNameP.textContent = `Welcome, Commander ${user.displayName}`;
                 userPicImg.src = user.photoURL;
                 userPicImg.style.display = 'block';
-            } else { // If it's a guest
+            } else { 
                 userNameP.textContent = 'Welcome, Commander';
                 userPicImg.style.display = 'none';
             }
 
-            // Redirect after a short delay
             setTimeout(() => {
                 window.location.href = './game.html';
             }, 2000);
