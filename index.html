@@ -127,13 +127,13 @@
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
         import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 
-        // **FIX:** Added your Firebase configuration.
+        // **FIX:** Added the correct Firebase configuration for your "worldatwar-22533" project.
         const firebaseConfig = {
             apiKey: "AIzaSyAo9aGoi4JNpO1q8cIGJN1mGeUg6YRw1cU",
             authDomain: "worldatwar-22533.firebaseapp.com",
             databaseURL: "https://worldatwar-22533-default-rtdb.firebaseio.com",
             projectId: "worldatwar-22533",
-            storageBucket: "worldatwar-22533.appspot.com", // Corrected storage bucket name
+            storageBucket: "worldatwar-22533.appspot.com",
             messagingSenderId: "268301902962",
             appId: "1:268301902962:web:65a3bc6e1a2f12f8738eeb"
         };
@@ -156,7 +156,11 @@
                     showUserInfoAndRedirect(user);
                 }).catch((error) => {
                     console.error("Authentication failed:", error);
-                    alert("Google Sign-In failed. Please try again.");
+                    if (error.code === 'auth/operation-not-allowed') {
+                        alert("Authentication failed. Please ensure this website's domain (ashharh94.github.io) is authorized in your Firebase project settings.");
+                    } else {
+                        alert("Google Sign-In failed. Please try again.");
+                    }
                 });
         });
 
