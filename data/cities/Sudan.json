@@ -1,0 +1,75 @@
+{
+  "country": "Sudan",
+  "cities": [
+    {
+      "name": "Khartoum",
+      "lat": 15.5007,
+      "lng": 32.5599,
+      "isCapital": true,
+      "population": 5274321
+    },
+    {
+      "name": "Omdurman",
+      "lat": 15.65,
+      "lng": 32.4833,
+      "isCapital": false,
+      "population": 2395159
+    },
+    {
+      "name": "Khartoum North",
+      "lat": 15.6167,
+      "lng": 32.5333,
+      "isCapital": false,
+      "population": 1012211
+    },
+    {
+      "name": "Port Sudan",
+      "lat": 19.6167,
+      "lng": 37.2167,
+      "isCapital": false,
+      "population": 489725
+    },
+    {
+      "name": "Kassala",
+      "lat": 15.45,
+      "lng": 36.4,
+      "isCapital": false,
+      "population": 419030
+    },
+    {
+      "name": "El Obeid",
+      "lat": 13.1833,
+      "lng": 30.2167,
+      "isCapital": false,
+      "population": 418280
+    },
+    {
+      "name": "Kosti",
+      "lat": 13.1667,
+      "lng": 32.6667,
+      "isCapital": false,
+      "population": 364000
+    },
+    {
+      "name": "Wad Madani",
+      "lat": 14.4,
+      "lng": 33.5167,
+      "isCapital": false,
+      "population": 345290
+    },
+    {
+      "name": "Al-Qadarif",
+      "lat": 14.0333,
+      "lng": 35.3833,
+      "isCapital": false,
+      "population": 336522
+    },
+    {
+      "name": "Al-Fashir",
+      "lat": 13.6167,
+      "lng": 25.35,
+      "isCapital": false,
+      "population": 264734
+    }
+  ]
+}

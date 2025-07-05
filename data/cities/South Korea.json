@@ -1,0 +1,75 @@
+{
+  "country": "South Korea",
+  "cities": [
+    {
+      "name": "Seoul",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "isCapital": true,
+      "population": 9776000
+    },
+    {
+      "name": "Busan",
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "isCapital": false,
+      "population": 3448737
+    },
+    {
+      "name": "Incheon",
+      "lat": 37.4563,
+      "lng": 126.7052,
+      "isCapital": false,
+      "population": 2954955
+    },
+    {
+      "name": "Daegu",
+      "lat": 35.8714,
+      "lng": 128.6014,
+      "isCapital": false,
+      "population": 2465000
+    },
+    {
+      "name": "Daejeon",
+      "lat": 36.3504,
+      "lng": 127.3845,
+      "isCapital": false,
+      "population": 1538394
+    },
+    {
+      "name": "Gwangju",
+      "lat": 35.1595,
+      "lng": 126.8526,
+      "isCapital": false,
+      "population": 1477573
+    },
+    {
+      "name": "Suwon",
+      "lat": 37.2636,
+      "lng": 127.0286,
+      "isCapital": false,
+      "population": 1242724
+    },
+    {
+      "name": "Ulsan",
+      "lat": 35.5384,
+      "lng": 129.3114,
+      "isCapital": false,
+      "population": 1166615
+    },
+    {
+      "name": "Goyang",
+      "lat": 37.6583,
+      "lng": 126.799,
+      "isCapital": false,
+      "population": 1073069
+    },
+    {
+      "name": "Yongin",
+      "lat": 37.2411,
+      "lng": 127.1775,
+      "isCapital": false,
+      "population": 1075570
+    }
+  ]
+}

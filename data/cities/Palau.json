@@ -1,0 +1,75 @@
+{
+  "country": "Palau",
+  "cities": [
+    {
+      "name": "Ngerulmud",
+      "lat": 7.5005,
+      "lng": 134.6242,
+      "isCapital": true,
+      "population": 277
+    },
+    {
+      "name": "Koror",
+      "lat": 7.3425,
+      "lng": 134.4791,
+      "isCapital": false,
+      "population": 11200
+    },
+    {
+      "name": "Meyuns",
+      "lat": 7.35,
+      "lng": 134.45,
+      "isCapital": false,
+      "population": 1000
+    },
+    {
+      "name": "Airai",
+      "lat": 7.3667,
+      "lng": 134.5167,
+      "isCapital": false,
+      "population": 2455
+    },
+    {
+      "name": "Kloulklubed",
+      "lat": 7.0333,
+      "lng": 134.25,
+      "isCapital": false,
+      "population": 531
+    },
+    {
+      "name": "Melekeok",
+      "lat": 7.5,
+      "lng": 134.6333,
+      "isCapital": false,
+      "population": 277
+    },
+    {
+      "name": "Ngaraard",
+      "lat": 7.6167,
+      "lng": 134.6333,
+      "isCapital": false,
+      "population": 413
+    },
+    {
+      "name": "Ngiwal",
+      "lat": 7.5667,
+      "lng": 134.6333,
+      "isCapital": false,
+      "population": 282
+    },
+    {
+      "name": "Ngchesar",
+      "lat": 7.4667,
+      "lng": 134.5833,
+      "isCapital": false,
+      "population": 291
+    },
+    {
+      "name": "Ngaremlengui",
+      "lat": 7.5333,
+      "lng": 134.5333,
+      "isCapital": false,
+      "population": 350
+    }
+  ]
+}

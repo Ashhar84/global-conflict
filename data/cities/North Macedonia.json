@@ -1,0 +1,75 @@
+{
+  "country": "North Macedonia",
+  "cities": [
+    {
+      "name": "Skopje",
+      "lat": 41.9981,
+      "lng": 21.4254,
+      "isCapital": true,
+      "population": 506926
+    },
+    {
+      "name": "Bitola",
+      "lat": 41.0333,
+      "lng": 21.3333,
+      "isCapital": false,
+      "population": 74550
+    },
+    {
+      "name": "Kumanovo",
+      "lat": 42.1333,
+      "lng": 21.7167,
+      "isCapital": false,
+      "population": 70842
+    },
+    {
+      "name": "Prilep",
+      "lat": 41.35,
+      "lng": 21.55,
+      "isCapital": false,
+      "population": 66246
+    },
+    {
+      "name": "Tetovo",
+      "lat": 42.0,
+      "lng": 20.9667,
+      "isCapital": false,
+      "population": 52915
+    },
+    {
+      "name": "Veles",
+      "lat": 41.7167,
+      "lng": 21.7667,
+      "isCapital": false,
+      "population": 43716
+    },
+    {
+      "name": "Štip",
+      "lat": 41.7333,
+      "lng": 22.1833,
+      "isCapital": false,
+      "population": 43652
+    },
+    {
+      "name": "Ohrid",
+      "lat": 41.1167,
+      "lng": 20.8,
+      "isCapital": false,
+      "population": 42033
+    },
+    {
+      "name": "Gostivar",
+      "lat": 41.8,
+      "lng": 20.9167,
+      "isCapital": false,
+      "population": 35847
+    },
+    {
+      "name": "Strumica",
+      "lat": 41.4333,
+      "lng": 22.6333,
+      "isCapital": false,
+      "population": 35311
+    }
+  ]
+}

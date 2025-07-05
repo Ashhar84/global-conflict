@@ -1,0 +1,75 @@
+{
+  "country": "Sao Tome and Principe",
+  "cities": [
+    {
+      "name": "São Tomé",
+      "lat": 0.3333,
+      "lng": 6.7333,
+      "isCapital": true,
+      "population": 71868
+    },
+    {
+      "name": "Santo Amaro",
+      "lat": 0.3667,
+      "lng": 6.7,
+      "isCapital": false,
+      "population": 8239
+    },
+    {
+      "name": "Neves",
+      "lat": 0.35,
+      "lng": 6.55,
+      "isCapital": false,
+      "population": 7392
+    },
+    {
+      "name": "Santana",
+      "lat": 0.25,
+      "lng": 6.75,
+      "isCapital": false,
+      "population": 6969
+    },
+    {
+      "name": "Trindade",
+      "lat": 0.3,
+      "lng": 6.6833,
+      "isCapital": false,
+      "population": 6636
+    },
+    {
+      "name": "Santo António",
+      "lat": 1.6333,
+      "lng": 7.4167,
+      "isCapital": false,
+      "population": 1342
+    },
+    {
+      "name": "Guadalupe",
+      "lat": 0.35,
+      "lng": 6.6,
+      "isCapital": false,
+      "population": 1734
+    },
+    {
+      "name": "Pantufo",
+      "lat": 0.3167,
+      "lng": 6.7333,
+      "isCapital": false,
+      "population": 1929
+    },
+    {
+      "name": "São João dos Angolares",
+      "lat": 0.15,
+      "lng": 6.6833,
+      "isCapital": false,
+      "population": 2045
+    },
+    {
+      "name": "Santa Cruz",
+      "lat": 0.1667,
+      "lng": 6.6,
+      "isCapital": false,
+      "population": 1800
+    }
+  ]
+}

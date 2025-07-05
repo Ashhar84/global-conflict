@@ -1,0 +1,75 @@
+{
+  "country": "Sri Lanka",
+  "cities": [
+    {
+      "name": "Sri Jayawardenepura Kotte",
+      "lat": 6.9,
+      "lng": 79.9167,
+      "isCapital": true,
+      "population": 115826
+    },
+    {
+      "name": "Colombo",
+      "lat": 6.9271,
+      "lng": 79.8612,
+      "isCapital": false,
+      "population": 752993
+    },
+    {
+      "name": "Kandy",
+      "lat": 7.2906,
+      "lng": 80.6337,
+      "isCapital": false,
+      "population": 125351
+    },
+    {
+      "name": "Galle",
+      "lat": 6.0535,
+      "lng": 80.221,
+      "isCapital": false,
+      "population": 99478
+    },
+    {
+      "name": "Jaffna",
+      "lat": 9.6667,
+      "lng": 80.0167,
+      "isCapital": false,
+      "population": 88138
+    },
+    {
+      "name": "Negombo",
+      "lat": 7.2,
+      "lng": 79.8333,
+      "isCapital": false,
+      "population": 142449
+    },
+    {
+      "name": "Trincomalee",
+      "lat": 8.5667,
+      "lng": 81.2333,
+      "isCapital": false,
+      "population": 99135
+    },
+    {
+      "name": "Batticaloa",
+      "lat": 7.7167,
+      "lng": 81.7,
+      "isCapital": false,
+      "population": 92332
+    },
+    {
+      "name": "Anuradhapura",
+      "lat": 8.35,
+      "lng": 80.4167,
+      "isCapital": false,
+      "population": 63208
+    },
+    {
+      "name": "Ratnapura",
+      "lat": 6.6833,
+      "lng": 80.4,
+      "isCapital": false,
+      "population": 52170
+    }
+  ]
+}

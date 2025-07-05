@@ -1,0 +1,75 @@
+{
+  "country": "Somalia",
+  "cities": [
+    {
+      "name": "Mogadishu",
+      "lat": 2.0469,
+      "lng": 45.3182,
+      "isCapital": true,
+      "population": 2388000
+    },
+    {
+      "name": "Hargeisa",
+      "lat": 9.5667,
+      "lng": 44.0667,
+      "isCapital": false,
+      "population": 1200000
+    },
+    {
+      "name": "Bosaso",
+      "lat": 11.2833,
+      "lng": 49.1833,
+      "isCapital": false,
+      "population": 700000
+    },
+    {
+      "name": "Galkayo",
+      "lat": 6.7667,
+      "lng": 47.4167,
+      "isCapital": false,
+      "population": 137667
+    },
+    {
+      "name": "Berbera",
+      "lat": 10.4333,
+      "lng": 45.0,
+      "isCapital": false,
+      "population": 242344
+    },
+    {
+      "name": "Kismayo",
+      "lat": -0.35,
+      "lng": 42.55,
+      "isCapital": false,
+      "population": 166662
+    },
+    {
+      "name": "Marka",
+      "lat": 1.7167,
+      "lng": 44.7667,
+      "isCapital": false,
+      "population": 230100
+    },
+    {
+      "name": "Jamame",
+      "lat": 0.0667,
+      "lng": 42.75,
+      "isCapital": false,
+      "population": 129149
+    },
+    {
+      "name": "Baidoa",
+      "lat": 3.1167,
+      "lng": 43.65,
+      "isCapital": false,
+      "population": 129839
+    },
+    {
+      "name": "Burao",
+      "lat": 9.5167,
+      "lng": 45.5333,
+      "isCapital": false,
+      "population": 350000
+    }
+  ]
+}

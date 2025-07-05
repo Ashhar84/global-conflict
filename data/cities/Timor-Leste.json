@@ -1,0 +1,75 @@
+{
+  "country": "Timor-Leste",
+  "cities": [
+    {
+      "name": "Dili",
+      "lat": -8.55,
+      "lng": 125.5833,
+      "isCapital": true,
+      "population": 222323
+    },
+    {
+      "name": "Baucau",
+      "lat": -8.4667,
+      "lng": 126.45,
+      "isCapital": false,
+      "population": 16000
+    },
+    {
+      "name": "Maliana",
+      "lat": -8.9833,
+      "lng": 125.2167,
+      "isCapital": false,
+      "population": 15800
+    },
+    {
+      "name": "Suai",
+      "lat": -9.3167,
+      "lng": 125.25,
+      "isCapital": false,
+      "population": 9866
+    },
+    {
+      "name": "Lospalos",
+      "lat": -8.5167,
+      "lng": 126.9,
+      "isCapital": false,
+      "population": 12743
+    },
+    {
+      "name": "Same",
+      "lat": -9.0,
+      "lng": 125.65,
+      "isCapital": false,
+      "population": 11258
+    },
+    {
+      "name": "Viqueque",
+      "lat": -8.8667,
+      "lng": 126.3667,
+      "isCapital": false,
+      "population": 6078
+    },
+    {
+      "name": "Aileu",
+      "lat": -8.7167,
+      "lng": 125.5667,
+      "isCapital": false,
+      "population": 2927
+    },
+    {
+      "name": "Gleno",
+      "lat": -8.7167,
+      "lng": 125.4333,
+      "isCapital": false,
+      "population": 8133
+    },
+    {
+      "name": "Pante Macassar",
+      "lat": -9.2,
+      "lng": 124.3833,
+      "isCapital": false,
+      "population": 4730
+    }
+  ]
+}

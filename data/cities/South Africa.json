@@ -1,0 +1,75 @@
+{
+  "country": "South Africa",
+  "cities": [
+    {
+      "name": "Pretoria",
+      "lat": -25.7479,
+      "lng": 28.2293,
+      "isCapital": true,
+      "population": 741651
+    },
+    {
+      "name": "Cape Town",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "isCapital": true,
+      "population": 3740026
+    },
+    {
+      "name": "Bloemfontein",
+      "lat": -29.1167,
+      "lng": 26.2167,
+      "isCapital": true,
+      "population": 256185
+    },
+    {
+      "name": "Johannesburg",
+      "lat": -26.2041,
+      "lng": 28.0473,
+      "isCapital": false,
+      "population": 4434827
+    },
+    {
+      "name": "Durban",
+      "lat": -29.8587,
+      "lng": 31.0218,
+      "isCapital": false,
+      "population": 3442361
+    },
+    {
+      "name": "Soweto",
+      "lat": -26.2678,
+      "lng": 27.8585,
+      "isCapital": false,
+      "population": 1271628
+    },
+    {
+      "name": "Port Elizabeth",
+      "lat": -33.9608,
+      "lng": 25.6022,
+      "isCapital": false,
+      "population": 876436
+    },
+    {
+      "name": "Pietermaritzburg",
+      "lat": -29.6,
+      "lng": 30.3833,
+      "isCapital": false,
+      "population": 223448
+    },
+    {
+      "name": "Benoni",
+      "lat": -26.1833,
+      "lng": 28.3167,
+      "isCapital": false,
+      "population": 158777
+    },
+    {
+      "name": "Vereeniging",
+      "lat": -26.6667,
+      "lng": 27.9333,
+      "isCapital": false,
+      "population": 99787
+    }
+  ]
+}

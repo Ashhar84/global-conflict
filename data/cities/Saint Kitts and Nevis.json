@@ -1,0 +1,75 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "cities": [
+    {
+      "name": "Basseterre",
+      "lat": 17.3,
+      "lng": -62.7333,
+      "isCapital": true,
+      "population": 14000
+    },
+    {
+      "name": "Charlestown",
+      "lat": 17.1333,
+      "lng": -62.6167,
+      "isCapital": false,
+      "population": 1500
+    },
+    {
+      "name": "Sandy Point Town",
+      "lat": 17.35,
+      "lng": -62.85,
+      "isCapital": false,
+      "population": 3140
+    },
+    {
+      "name": "Figtree",
+      "lat": 17.1167,
+      "lng": -62.6,
+      "isCapital": false,
+      "population": 2922
+    },
+    {
+      "name": "Market Shop",
+      "lat": 17.1333,
+      "lng": -62.5833,
+      "isCapital": false,
+      "population": 2568
+    },
+    {
+      "name": "St. Paul's",
+      "lat": 17.4,
+      "lng": -62.8333,
+      "isCapital": false,
+      "population": 2432
+    },
+    {
+      "name": "Middle Island",
+      "lat": 17.3333,
+      "lng": -62.8167,
+      "isCapital": false,
+      "population": 2307
+    },
+    {
+      "name": "Nicola Town",
+      "lat": 17.3833,
+      "lng": -62.7667,
+      "isCapital": false,
+      "population": 2059
+    },
+    {
+      "name": "Trinity",
+      "lat": 17.3,
+      "lng": -62.7833,
+      "isCapital": false,
+      "population": 1692
+    },
+    {
+      "name": "Cayon",
+      "lat": 17.35,
+      "lng": -62.7333,
+      "isCapital": false,
+      "population": 2500
+    }
+  ]
+}

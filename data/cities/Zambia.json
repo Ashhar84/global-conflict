@@ -1,0 +1,75 @@
+{
+  "country": "Zambia",
+  "cities": [
+    {
+      "name": "Lusaka",
+      "lat": -15.4167,
+      "lng": 28.2833,
+      "isCapital": true,
+      "population": 2774000
+    },
+    {
+      "name": "Kitwe",
+      "lat": -12.8167,
+      "lng": 28.2,
+      "isCapital": false,
+      "population": 517543
+    },
+    {
+      "name": "Ndola",
+      "lat": -12.95,
+      "lng": 28.6333,
+      "isCapital": false,
+      "population": 451246
+    },
+    {
+      "name": "Kabwe",
+      "lat": -14.4333,
+      "lng": 28.4333,
+      "isCapital": false,
+      "population": 202914
+    },
+    {
+      "name": "Chingola",
+      "lat": -12.5333,
+      "lng": 27.8833,
+      "isCapital": false,
+      "population": 185246
+    },
+    {
+      "name": "Mufulira",
+      "lat": -12.55,
+      "lng": 28.2333,
+      "isCapital": false,
+      "population": 158798
+    },
+    {
+      "name": "Livingstone",
+      "lat": -17.85,
+      "lng": 25.8667,
+      "isCapital": false,
+      "population": 136897
+    },
+    {
+      "name": "Luanshya",
+      "lat": -13.1333,
+      "lng": 28.4,
+      "isCapital": false,
+      "population": 134863
+    },
+    {
+      "name": "Kasama",
+      "lat": -10.2,
+      "lng": 31.1833,
+      "isCapital": false,
+      "population": 113779
+    },
+    {
+      "name": "Chipata",
+      "lat": -13.6333,
+      "lng": 32.65,
+      "isCapital": false,
+      "population": 116627
+    }
+  ]
+}

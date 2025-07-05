@@ -1,0 +1,75 @@
+{
+  "country": "San Marino",
+  "cities": [
+    {
+      "name": "San Marino",
+      "lat": 43.9356,
+      "lng": 12.4473,
+      "isCapital": true,
+      "population": 4044
+    },
+    {
+      "name": "Serravalle",
+      "lat": 43.9667,
+      "lng": 12.4833,
+      "isCapital": false,
+      "population": 10878
+    },
+    {
+      "name": "Borgo Maggiore",
+      "lat": 43.95,
+      "lng": 12.45,
+      "isCapital": false,
+      "population": 6871
+    },
+    {
+      "name": "Domagnano",
+      "lat": 43.95,
+      "lng": 12.4667,
+      "isCapital": false,
+      "population": 3565
+    },
+    {
+      "name": "Fiorentino",
+      "lat": 43.9,
+      "lng": 12.45,
+      "isCapital": false,
+      "population": 2548
+    },
+    {
+      "name": "Acquaviva",
+      "lat": 43.95,
+      "lng": 12.4167,
+      "isCapital": false,
+      "population": 2144
+    },
+    {
+      "name": "Faetano",
+      "lat": 43.9167,
+      "lng": 12.5,
+      "isCapital": false,
+      "population": 1168
+    },
+    {
+      "name": "Chiesanuova",
+      "lat": 43.9,
+      "lng": 12.4167,
+      "isCapital": false,
+      "population": 1143
+    },
+    {
+      "name": "Montegiardino",
+      "lat": 43.9,
+      "lng": 12.4833,
+      "isCapital": false,
+      "population": 966
+    },
+    {
+      "name": "Dogana",
+      "lat": 43.9833,
+      "lng": 12.5,
+      "isCapital": false,
+      "population": 7000
+    }
+  ]
+}

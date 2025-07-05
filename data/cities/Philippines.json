@@ -1,0 +1,75 @@
+{
+  "country": "Philippines",
+  "cities": [
+    {
+      "name": "Manila",
+      "lat": 14.5995,
+      "lng": 120.9842,
+      "isCapital": true,
+      "population": 1780148
+    },
+    {
+      "name": "Quezon City",
+      "lat": 14.676,
+      "lng": 121.0437,
+      "isCapital": false,
+      "population": 2936116
+    },
+    {
+      "name": "Davao City",
+      "lat": 7.1907,
+      "lng": 125.4553,
+      "isCapital": false,
+      "population": 1632991
+    },
+    {
+      "name": "Caloocan",
+      "lat": 14.65,
+      "lng": 120.9667,
+      "isCapital": false,
+      "population": 1583978
+    },
+    {
+      "name": "Cebu City",
+      "lat": 10.3157,
+      "lng": 123.8854,
+      "isCapital": false,
+      "population": 922611
+    },
+    {
+      "name": "Zamboanga City",
+      "lat": 6.9214,
+      "lng": 122.079,
+      "isCapital": false,
+      "population": 861799
+    },
+    {
+      "name": "Taguig",
+      "lat": 14.5167,
+      "lng": 121.05,
+      "isCapital": false,
+      "population": 804915
+    },
+    {
+      "name": "Antipolo",
+      "lat": 14.5833,
+      "lng": 121.1667,
+      "isCapital": false,
+      "population": 776386
+    },
+    {
+      "name": "Pasig",
+      "lat": 14.5764,
+      "lng": 121.0851,
+      "isCapital": false,
+      "population": 755300
+    },
+    {
+      "name": "Cagayan de Oro",
+      "lat": 8.45,
+      "lng": 124.6333,
+      "isCapital": false,
+      "population": 675950
+    }
+  ]
+}

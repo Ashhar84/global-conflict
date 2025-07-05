@@ -1,0 +1,75 @@
+{
+  "country": "Nigeria",
+  "cities": [
+    {
+      "name": "Abuja",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "isCapital": true,
+      "population": 107169
+    },
+    {
+      "name": "Lagos",
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "isCapital": false,
+      "population": 14862000
+    },
+    {
+      "name": "Kano",
+      "lat": 12.0022,
+      "lng": 8.592,
+      "isCapital": false,
+      "population": 2828861
+    },
+    {
+      "name": "Ibadan",
+      "lat": 7.3776,
+      "lng": 3.947,
+      "isCapital": false,
+      "population": 2550593
+    },
+    {
+      "name": "Benin City",
+      "lat": 6.335,
+      "lng": 5.6222,
+      "isCapital": false,
+      "population": 1147188
+    },
+    {
+      "name": "Port Harcourt",
+      "lat": 4.75,
+      "lng": 7.0,
+      "isCapital": false,
+      "population": 1382592
+    },
+    {
+      "name": "Kaduna",
+      "lat": 10.5222,
+      "lng": 7.4383,
+      "isCapital": false,
+      "population": 760084
+    },
+    {
+      "name": "Aba",
+      "lat": 5.1167,
+      "lng": 7.3667,
+      "isCapital": false,
+      "population": 897560
+    },
+    {
+      "name": "Maiduguri",
+      "lat": 11.8333,
+      "lng": 13.15,
+      "isCapital": false,
+      "population": 1197497
+    },
+    {
+      "name": "Ilorin",
+      "lat": 8.5,
+      "lng": 4.55,
+      "isCapital": false,
+      "population": 777667
+    }
+  ]
+}

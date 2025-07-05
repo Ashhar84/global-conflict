@@ -1,0 +1,75 @@
+{
+  "country": "Morocco",
+  "cities": [
+    {
+      "name": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8417,
+      "isCapital": true,
+      "population": 577827
+    },
+    {
+      "name": "Casablanca",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "isCapital": false,
+      "population": 3359818
+    },
+    {
+      "name": "Fes",
+      "lat": 34.0181,
+      "lng": -5.0078,
+      "isCapital": false,
+      "population": 1112072
+    },
+    {
+      "name": "Marrakesh",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "isCapital": false,
+      "population": 928850
+    },
+    {
+      "name": "Agadir",
+      "lat": 30.4278,
+      "lng": -9.5981,
+      "isCapital": false,
+      "population": 421844
+    },
+    {
+      "name": "Tangier",
+      "lat": 35.7595,
+      "lng": -5.834,
+      "isCapital": false,
+      "population": 947952
+    },
+    {
+      "name": "Meknes",
+      "lat": 33.8935,
+      "lng": -5.5473,
+      "isCapital": false,
+      "population": 632079
+    },
+    {
+      "name": "Oujda",
+      "lat": 34.6806,
+      "lng": -1.9086,
+      "isCapital": false,
+      "population": 494252
+    },
+    {
+      "name": "Kenitra",
+      "lat": 34.261,
+      "lng": -6.5802,
+      "isCapital": false,
+      "population": 431282
+    },
+    {
+      "name": "Tetouan",
+      "lat": 35.5785,
+      "lng": -5.3684,
+      "isCapital": false,
+      "population": 380787
+    }
+  ]
+}

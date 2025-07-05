@@ -1,0 +1,75 @@
+{
+  "country": "Russia",
+  "cities": [
+    {
+      "name": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "isCapital": true,
+      "population": 12506468
+    },
+    {
+      "name": "Saint Petersburg",
+      "lat": 59.9343,
+      "lng": 30.3351,
+      "isCapital": false,
+      "population": 5351935
+    },
+    {
+      "name": "Novosibirsk",
+      "lat": 55.0084,
+      "lng": 82.9357,
+      "isCapital": false,
+      "population": 1612833
+    },
+    {
+      "name": "Yekaterinburg",
+      "lat": 56.8389,
+      "lng": 60.6057,
+      "isCapital": false,
+      "population": 1468833
+    },
+    {
+      "name": "Kazan",
+      "lat": 55.7961,
+      "lng": 49.1064,
+      "isCapital": false,
+      "population": 1243500
+    },
+    {
+      "name": "Nizhny Novgorod",
+      "lat": 56.3269,
+      "lng": 44.0059,
+      "isCapital": false,
+      "population": 1253511
+    },
+    {
+      "name": "Chelyabinsk",
+      "lat": 55.1644,
+      "lng": 61.4368,
+      "isCapital": false,
+      "population": 1202371
+    },
+    {
+      "name": "Samara",
+      "lat": 53.1959,
+      "lng": 50.1002,
+      "isCapital": false,
+      "population": 1163399
+    },
+    {
+      "name": "Omsk",
+      "lat": 54.9833,
+      "lng": 73.3667,
+      "isCapital": false,
+      "population": 1178391
+    },
+    {
+      "name": "Rostov-on-Don",
+      "lat": 47.2221,
+      "lng": 39.7189,
+      "isCapital": false,
+      "population": 1130305
+    }
+  ]
+}

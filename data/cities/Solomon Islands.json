@@ -1,0 +1,75 @@
+{
+  "country": "Solomon Islands",
+  "cities": [
+    {
+      "name": "Honiara",
+      "lat": -9.4333,
+      "lng": 159.95,
+      "isCapital": true,
+      "population": 84520
+    },
+    {
+      "name": "Auki",
+      "lat": -8.7667,
+      "lng": 160.7,
+      "isCapital": false,
+      "population": 5105
+    },
+    {
+      "name": "Gizo",
+      "lat": -8.1,
+      "lng": 156.8333,
+      "isCapital": false,
+      "population": 3547
+    },
+    {
+      "name": "Noro",
+      "lat": -8.2167,
+      "lng": 157.2,
+      "isCapital": false,
+      "population": 3365
+    },
+    {
+      "name": "Munda",
+      "lat": -8.3333,
+      "lng": 157.2667,
+      "isCapital": false,
+      "population": 2500
+    },
+    {
+      "name": "Kirakira",
+      "lat": -10.45,
+      "lng": 161.9167,
+      "isCapital": false,
+      "population": 2076
+    },
+    {
+      "name": "Lata",
+      "lat": -10.7167,
+      "lng": 165.8333,
+      "isCapital": false,
+      "population": 553
+    },
+    {
+      "name": "Taro Island",
+      "lat": -6.7167,
+      "lng": 156.4,
+      "isCapital": false,
+      "population": 810
+    },
+    {
+      "name": "Tulagi",
+      "lat": -9.1,
+      "lng": 160.15,
+      "isCapital": false,
+      "population": 1251
+    },
+    {
+      "name": "Buala",
+      "lat": -8.15,
+      "lng": 159.5833,
+      "isCapital": false,
+      "population": 2813
+    }
+  ]
+}

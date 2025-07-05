@@ -1,0 +1,75 @@
+{
+  "country": "United Kingdom",
+  "cities": [
+    {
+      "name": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "isCapital": true,
+      "population": 8982000
+    },
+    {
+      "name": "Birmingham",
+      "lat": 52.4862,
+      "lng": -1.8904,
+      "isCapital": false,
+      "population": 1141816
+    },
+    {
+      "name": "Glasgow",
+      "lat": 55.8642,
+      "lng": -4.2518,
+      "isCapital": false,
+      "population": 633120
+    },
+    {
+      "name": "Liverpool",
+      "lat": 53.4084,
+      "lng": -2.9916,
+      "isCapital": false,
+      "population": 498042
+    },
+    {
+      "name": "Bristol",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "isCapital": false,
+      "population": 463400
+    },
+    {
+      "name": "Manchester",
+      "lat": 53.4808,
+      "lng": -2.2426,
+      "isCapital": false,
+      "population": 553230
+    },
+    {
+      "name": "Sheffield",
+      "lat": 53.3811,
+      "lng": -1.4701,
+      "isCapital": false,
+      "population": 584853
+    },
+    {
+      "name": "Leeds",
+      "lat": 53.8008,
+      "lng": -1.5491,
+      "isCapital": false,
+      "population": 793139
+    },
+    {
+      "name": "Edinburgh",
+      "lat": 55.9533,
+      "lng": -3.1883,
+      "isCapital": false,
+      "population": 537000
+    },
+    {
+      "name": "Leicester",
+      "lat": 52.6369,
+      "lng": -1.1398,
+      "isCapital": false,
+      "population": 329839
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Moldova",
+  "cities": [
+    {
+      "name": "Chișinău",
+      "lat": 47.0105,
+      "lng": 28.8638,
+      "isCapital": true,
+      "population": 639000
+    },
+    {
+      "name": "Tiraspol",
+      "lat": 46.8333,
+      "lng": 29.6,
+      "isCapital": false,
+      "population": 133807
+    },
+    {
+      "name": "Bălți",
+      "lat": 47.7667,
+      "lng": 27.9167,
+      "isCapital": false,
+      "population": 102457
+    },
+    {
+      "name": "Bender",
+      "lat": 46.8333,
+      "lng": 29.4667,
+      "isCapital": false,
+      "population": 91882
+    },
+    {
+      "name": "Rîbnița",
+      "lat": 47.7667,
+      "lng": 29.0,
+      "isCapital": false,
+      "population": 47949
+    },
+    {
+      "name": "Cahul",
+      "lat": 45.9,
+      "lng": 28.2,
+      "isCapital": false,
+      "population": 30018
+    },
+    {
+      "name": "Ungheni",
+      "lat": 47.2,
+      "lng": 27.8,
+      "isCapital": false,
+      "population": 30804
+    },
+    {
+      "name": "Soroca",
+      "lat": 48.1667,
+      "lng": 28.3,
+      "isCapital": false,
+      "population": 22196
+    },
+    {
+      "name": "Orhei",
+      "lat": 47.3833,
+      "lng": 28.8167,
+      "isCapital": false,
+      "population": 21065
+    },
+    {
+      "name": "Comrat",
+      "lat": 46.3,
+      "lng": 28.65,
+      "isCapital": false,
+      "population": 20113
+    }
+  ]
+}

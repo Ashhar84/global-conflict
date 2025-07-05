@@ -1,0 +1,75 @@
+{
+  "country": "Saint Lucia",
+  "cities": [
+    {
+      "name": "Castries",
+      "lat": 14.0167,
+      "lng": -60.9833,
+      "isCapital": true,
+      "population": 20000
+    },
+    {
+      "name": "Vieux Fort",
+      "lat": 13.7167,
+      "lng": -60.95,
+      "isCapital": false,
+      "population": 4574
+    },
+    {
+      "name": "Micoud",
+      "lat": 13.8167,
+      "lng": -60.9,
+      "isCapital": false,
+      "population": 3406
+    },
+    {
+      "name": "Soufrière",
+      "lat": 13.85,
+      "lng": -61.05,
+      "isCapital": false,
+      "population": 2918
+    },
+    {
+      "name": "Gros Islet",
+      "lat": 14.0833,
+      "lng": -60.95,
+      "isCapital": false,
+      "population": 2362
+    },
+    {
+      "name": "Dennery",
+      "lat": 13.9167,
+      "lng": -60.8833,
+      "isCapital": false,
+      "population": 2870
+    },
+    {
+      "name": "Anse La Raye",
+      "lat": 13.9333,
+      "lng": -61.0333,
+      "isCapital": false,
+      "population": 1256
+    },
+    {
+      "name": "Canaries",
+      "lat": 13.9,
+      "lng": -61.0667,
+      "isCapital": false,
+      "population": 1862
+    },
+    {
+      "name": "Choiseul",
+      "lat": 13.7667,
+      "lng": -61.05,
+      "isCapital": false,
+      "population": 300
+    },
+    {
+      "name": "Laborie",
+      "lat": 13.75,
+      "lng": -60.9833,
+      "isCapital": false,
+      "population": 1131
+    }
+  ]
+}

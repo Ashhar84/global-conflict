@@ -1,0 +1,75 @@
+{
+  "country": "Thailand",
+  "cities": [
+    {
+      "name": "Bangkok",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "isCapital": true,
+      "population": 10539000
+    },
+    {
+      "name": "Nonthaburi",
+      "lat": 13.85,
+      "lng": 100.5167,
+      "isCapital": false,
+      "population": 254375
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "lat": 14.9667,
+      "lng": 102.1,
+      "isCapital": false,
+      "population": 126391
+    },
+    {
+      "name": "Chiang Mai",
+      "lat": 18.7883,
+      "lng": 98.9853,
+      "isCapital": false,
+      "population": 127240
+    },
+    {
+      "name": "Hat Yai",
+      "lat": 7.0167,
+      "lng": 100.4667,
+      "isCapital": false,
+      "population": 156802
+    },
+    {
+      "name": "Udon Thani",
+      "lat": 17.4167,
+      "lng": 102.7833,
+      "isCapital": false,
+      "population": 130531
+    },
+    {
+      "name": "Pak Kret",
+      "lat": 13.9167,
+      "lng": 100.5,
+      "isCapital": false,
+      "population": 190272
+    },
+    {
+      "name": "Khon Kaen",
+      "lat": 16.4333,
+      "lng": 102.8333,
+      "isCapital": false,
+      "population": 113754
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "lat": 15.2333,
+      "lng": 104.85,
+      "isCapital": false,
+      "population": 79179
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "lat": 8.4333,
+      "lng": 99.9667,
+      "isCapital": false,
+      "population": 102152
+    }
+  ]
+}

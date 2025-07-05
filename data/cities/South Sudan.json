@@ -1,0 +1,75 @@
+{
+  "country": "South Sudan",
+  "cities": [
+    {
+      "name": "Juba",
+      "lat": 4.85,
+      "lng": 31.6,
+      "isCapital": true,
+      "population": 525953
+    },
+    {
+      "name": "Wau",
+      "lat": 7.7,
+      "lng": 28.0,
+      "isCapital": false,
+      "population": 118331
+    },
+    {
+      "name": "Malakal",
+      "lat": 9.5333,
+      "lng": 31.65,
+      "isCapital": false,
+      "population": 126483
+    },
+    {
+      "name": "Yei",
+      "lat": 4.0833,
+      "lng": 30.6667,
+      "isCapital": false,
+      "population": 111268
+    },
+    {
+      "name": "Yambio",
+      "lat": 4.5667,
+      "lng": 28.3667,
+      "isCapital": false,
+      "population": 105881
+    },
+    {
+      "name": "Aweil",
+      "lat": 8.7667,
+      "lng": 27.4,
+      "isCapital": false,
+      "population": 59217
+    },
+    {
+      "name": "Gogrial",
+      "lat": 8.5333,
+      "lng": 28.1,
+      "isCapital": false,
+      "population": 44600
+    },
+    {
+      "name": "Rumbek",
+      "lat": 6.8,
+      "lng": 29.6833,
+      "isCapital": false,
+      "population": 32100
+    },
+    {
+      "name": "Bor",
+      "lat": 6.2,
+      "lng": 31.55,
+      "isCapital": false,
+      "population": 26801
+    },
+    {
+      "name": "Torit",
+      "lat": 4.4,
+      "lng": 32.5667,
+      "isCapital": false,
+      "population": 17957
+    }
+  ]
+}

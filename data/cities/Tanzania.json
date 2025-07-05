@@ -1,0 +1,75 @@
+{
+  "country": "Tanzania",
+  "cities": [
+    {
+      "name": "Dodoma",
+      "lat": -6.163,
+      "lng": 35.7516,
+      "isCapital": true,
+      "population": 213636
+    },
+    {
+      "name": "Dar es Salaam",
+      "lat": -6.7924,
+      "lng": 39.2083,
+      "isCapital": false,
+      "population": 6400000
+    },
+    {
+      "name": "Mwanza",
+      "lat": -2.5167,
+      "lng": 32.9,
+      "isCapital": false,
+      "population": 706453
+    },
+    {
+      "name": "Arusha",
+      "lat": -3.3869,
+      "lng": 36.6829,
+      "isCapital": false,
+      "population": 416442
+    },
+    {
+      "name": "Mbeya",
+      "lat": -8.9,
+      "lng": 33.45,
+      "isCapital": false,
+      "population": 385279
+    },
+    {
+      "name": "Morogoro",
+      "lat": -6.8167,
+      "lng": 37.6667,
+      "isCapital": false,
+      "population": 315866
+    },
+    {
+      "name": "Tanga",
+      "lat": -5.0667,
+      "lng": 39.1,
+      "isCapital": false,
+      "population": 273332
+    },
+    {
+      "name": "Kahama",
+      "lat": -3.8333,
+      "lng": 32.6,
+      "isCapital": false,
+      "population": 242208
+    },
+    {
+      "name": "Tabora",
+      "lat": -5.0167,
+      "lng": 32.8,
+      "isCapital": false,
+      "population": 226999
+    },
+    {
+      "name": "Zanzibar City",
+      "lat": -6.1667,
+      "lng": 39.2,
+      "isCapital": false,
+      "population": 503000
+    }
+  ]
+}

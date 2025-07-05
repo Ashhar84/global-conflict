@@ -1,0 +1,75 @@
+{
+  "country": "Zimbabwe",
+  "cities": [
+    {
+      "name": "Harare",
+      "lat": -17.8252,
+      "lng": 31.0335,
+      "isCapital": true,
+      "population": 1485231
+    },
+    {
+      "name": "Bulawayo",
+      "lat": -20.15,
+      "lng": 28.5833,
+      "isCapital": false,
+      "population": 653337
+    },
+    {
+      "name": "Chitungwiza",
+      "lat": -18.0,
+      "lng": 31.05,
+      "isCapital": false,
+      "population": 356840
+    },
+    {
+      "name": "Mutare",
+      "lat": -18.9667,
+      "lng": 32.6667,
+      "isCapital": false,
+      "population": 187621
+    },
+    {
+      "name": "Gweru",
+      "lat": -19.45,
+      "lng": 29.8167,
+      "isCapital": false,
+      "population": 157865
+    },
+    {
+      "name": "Epworth",
+      "lat": -17.8833,
+      "lng": 31.15,
+      "isCapital": false,
+      "population": 167462
+    },
+    {
+      "name": "Kwekwe",
+      "lat": -18.9167,
+      "lng": 29.8167,
+      "isCapital": false,
+      "population": 100900
+    },
+    {
+      "name": "Kadoma",
+      "lat": -18.3333,
+      "lng": 29.9167,
+      "isCapital": false,
+      "population": 92469
+    },
+    {
+      "name": "Masvingo",
+      "lat": -20.0667,
+      "lng": 30.8333,
+      "isCapital": false,
+      "population": 87886
+    },
+    {
+      "name": "Chinhoyi",
+      "lat": -17.3667,
+      "lng": 30.2,
+      "isCapital": false,
+      "population": 77929
+    }
+  ]
+}

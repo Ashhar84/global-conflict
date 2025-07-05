@@ -1,0 +1,75 @@
+{
+  "country": "Singapore",
+  "cities": [
+    {
+      "name": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "isCapital": true,
+      "population": 5638700
+    },
+    {
+      "name": "Jurong West",
+      "lat": 1.3396,
+      "lng": 103.7073,
+      "isCapital": false,
+      "population": 266720
+    },
+    {
+      "name": "Tampines",
+      "lat": 1.3544,
+      "lng": 103.9439,
+      "isCapital": false,
+      "population": 259900
+    },
+    {
+      "name": "Woodlands",
+      "lat": 1.436,
+      "lng": 103.786,
+      "isCapital": false,
+      "population": 255130
+    },
+    {
+      "name": "Bedok",
+      "lat": 1.3236,
+      "lng": 103.9273,
+      "isCapital": false,
+      "population": 281300
+    },
+    {
+      "name": "Hougang",
+      "lat": 1.3704,
+      "lng": 103.892,
+      "isCapital": false,
+      "population": 226810
+    },
+    {
+      "name": "Yishun",
+      "lat": 1.4294,
+      "lng": 103.835,
+      "isCapital": false,
+      "population": 220320
+    },
+    {
+      "name": "Choa Chu Kang",
+      "lat": 1.385,
+      "lng": 103.744,
+      "isCapital": false,
+      "population": 190470
+    },
+    {
+      "name": "Ang Mo Kio",
+      "lat": 1.3698,
+      "lng": 103.848,
+      "isCapital": false,
+      "population": 165710
+    },
+    {
+      "name": "Bukit Merah",
+      "lat": 1.281,
+      "lng": 103.82,
+      "isCapital": false,
+      "population": 151870
+    }
+  ]
+}

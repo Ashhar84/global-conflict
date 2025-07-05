@@ -1,0 +1,75 @@
+{
+  "country": "Seychelles",
+  "cities": [
+    {
+      "name": "Victoria",
+      "lat": -4.6167,
+      "lng": 55.45,
+      "isCapital": true,
+      "population": 26450
+    },
+    {
+      "name": "Anse Boileau",
+      "lat": -4.7167,
+      "lng": 55.4833,
+      "isCapital": false,
+      "population": 4027
+    },
+    {
+      "name": "Beau Vallon",
+      "lat": -4.6167,
+      "lng": 55.4333,
+      "isCapital": false,
+      "population": 4120
+    },
+    {
+      "name": "Anse Royale",
+      "lat": -4.7333,
+      "lng": 55.5167,
+      "isCapital": false,
+      "population": 4665
+    },
+    {
+      "name": "Cascade",
+      "lat": -4.6667,
+      "lng": 55.5,
+      "isCapital": false,
+      "population": 4267
+    },
+    {
+      "name": "Takamaka",
+      "lat": -4.7667,
+      "lng": 55.5,
+      "isCapital": false,
+      "population": 2825
+    },
+    {
+      "name": "Port Glaud",
+      "lat": -4.6667,
+      "lng": 55.4167,
+      "isCapital": false,
+      "population": 2572
+    },
+    {
+      "name": "La Passe",
+      "lat": -4.35,
+      "lng": 55.8333,
+      "isCapital": false,
+      "population": 3000
+    },
+    {
+      "name": "Anse Volbert",
+      "lat": -4.3167,
+      "lng": 55.7333,
+      "isCapital": false,
+      "population": 4000
+    },
+    {
+      "name": "Grand Anse",
+      "lat": -4.3333,
+      "lng": 55.7,
+      "isCapital": false,
+      "population": 3000
+    }
+  ]
+}

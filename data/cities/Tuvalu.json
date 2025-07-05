@@ -1,0 +1,75 @@
+{
+  "country": "Tuvalu",
+  "cities": [
+    {
+      "name": "Funafuti",
+      "lat": -8.5243,
+      "lng": 179.1942,
+      "isCapital": true,
+      "population": 6320
+    },
+    {
+      "name": "Vaiaku",
+      "lat": -8.5167,
+      "lng": 179.1982,
+      "isCapital": false,
+      "population": 516
+    },
+    {
+      "name": "Savave",
+      "lat": -7.4833,
+      "lng": 178.6833,
+      "isCapital": false,
+      "population": 548
+    },
+    {
+      "name": "Tanrake",
+      "lat": -7.25,
+      "lng": 177.15,
+      "isCapital": false,
+      "population": 382
+    },
+    {
+      "name": "Tonga",
+      "lat": -7.4667,
+      "lng": 178.6667,
+      "isCapital": false,
+      "population": 358
+    },
+    {
+      "name": "Asau",
+      "lat": -7.4833,
+      "lng": 178.6833,
+      "isCapital": false,
+      "population": 650
+    },
+    {
+      "name": "Lolua",
+      "lat": -7.2333,
+      "lng": 178.3167,
+      "isCapital": false,
+      "population": 559
+    },
+    {
+      "name": "Kulia",
+      "lat": -9.3833,
+      "lng": 179.85,
+      "isCapital": false,
+      "population": 224
+    },
+    {
+      "name": "Angafoulua",
+      "lat": -7.9833,
+      "lng": 178.3,
+      "isCapital": false,
+      "population": 400
+    },
+    {
+      "name": "Tokelau",
+      "lat": -7.4667,
+      "lng": 178.6667,
+      "isCapital": false,
+      "population": 353
+    }
+  ]
+}

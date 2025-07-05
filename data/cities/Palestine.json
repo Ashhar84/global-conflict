@@ -1,0 +1,75 @@
+{
+  "country": "Palestine",
+  "cities": [
+    {
+      "name": "East Jerusalem",
+      "lat": 31.7719,
+      "lng": 35.217,
+      "isCapital": true,
+      "population": 345000
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lng": 34.4667,
+      "isCapital": false,
+      "population": 590481
+    },
+    {
+      "name": "Hebron",
+      "lat": 31.5333,
+      "lng": 35.1,
+      "isCapital": false,
+      "population": 215452
+    },
+    {
+      "name": "Nablus",
+      "lat": 32.2167,
+      "lng": 35.2667,
+      "isCapital": false,
+      "population": 156906
+    },
+    {
+      "name": "Khan Yunis",
+      "lat": 31.35,
+      "lng": 34.3,
+      "isCapital": false,
+      "population": 205125
+    },
+    {
+      "name": "Rafah",
+      "lat": 31.2833,
+      "lng": 34.25,
+      "isCapital": false,
+      "population": 171889
+    },
+    {
+      "name": "Ramallah",
+      "lat": 31.9,
+      "lng": 35.2,
+      "isCapital": false,
+      "population": 38998
+    },
+    {
+      "name": "Jenin",
+      "lat": 32.4667,
+      "lng": 35.3,
+      "isCapital": false,
+      "population": 49941
+    },
+    {
+      "name": "Tulkarm",
+      "lat": 32.3167,
+      "lng": 35.0333,
+      "isCapital": false,
+      "population": 64532
+    },
+    {
+      "name": "Bethlehem",
+      "lat": 31.7,
+      "lng": 35.2,
+      "isCapital": false,
+      "population": 28591
+    }
+  ]
+}

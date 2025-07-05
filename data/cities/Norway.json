@@ -1,0 +1,75 @@
+{
+  "country": "Norway",
+  "cities": [
+    {
+      "name": "Oslo",
+      "lat": 59.9139,
+      "lng": 10.7522,
+      "isCapital": true,
+      "population": 697549
+    },
+    {
+      "name": "Bergen",
+      "lat": 60.3913,
+      "lng": 5.3221,
+      "isCapital": false,
+      "population": 285900
+    },
+    {
+      "name": "Trondheim",
+      "lat": 63.4305,
+      "lng": 10.3951,
+      "isCapital": false,
+      "population": 205163
+    },
+    {
+      "name": "Stavanger",
+      "lat": 58.97,
+      "lng": 5.7331,
+      "isCapital": false,
+      "population": 143574
+    },
+    {
+      "name": "Drammen",
+      "lat": 59.7439,
+      "lng": 10.2045,
+      "isCapital": false,
+      "population": 109590
+    },
+    {
+      "name": "Fredrikstad",
+      "lat": 59.2167,
+      "lng": 10.95,
+      "isCapital": false,
+      "population": 83193
+    },
+    {
+      "name": "Kristiansand",
+      "lat": 58.1467,
+      "lng": 7.995,
+      "isCapital": false,
+      "population": 111613
+    },
+    {
+      "name": "Sandnes",
+      "lat": 58.85,
+      "lng": 5.7333,
+      "isCapital": false,
+      "population": 80369
+    },
+    {
+      "name": "Tromsø",
+      "lat": 69.6492,
+      "lng": 18.9553,
+      "isCapital": false,
+      "population": 77095
+    },
+    {
+      "name": "Sarpsborg",
+      "lat": 59.2833,
+      "lng": 11.1167,
+      "isCapital": false,
+      "population": 56732
+    }
+  ]
+}

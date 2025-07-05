@@ -1,0 +1,75 @@
+{
+  "country": "United Arab Emirates",
+  "cities": [
+    {
+      "name": "Abu Dhabi",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "isCapital": true,
+      "population": 1483000
+    },
+    {
+      "name": "Dubai",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "isCapital": false,
+      "population": 3137000
+    },
+    {
+      "name": "Sharjah",
+      "lat": 25.35,
+      "lng": 55.4,
+      "isCapital": false,
+      "population": 1274749
+    },
+    {
+      "name": "Al Ain",
+      "lat": 24.2075,
+      "lng": 55.7447,
+      "isCapital": false,
+      "population": 766936
+    },
+    {
+      "name": "Ajman",
+      "lat": 25.4167,
+      "lng": 55.45,
+      "isCapital": false,
+      "population": 226172
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "lat": 25.7833,
+      "lng": 55.95,
+      "isCapital": false,
+      "population": 115949
+    },
+    {
+      "name": "Fujairah",
+      "lat": 25.1167,
+      "lng": 56.3333,
+      "isCapital": false,
+      "population": 97226
+    },
+    {
+      "name": "Umm Al Quwain",
+      "lat": 25.5667,
+      "lng": 55.55,
+      "isCapital": false,
+      "population": 61700
+    },
+    {
+      "name": "Khor Fakkan",
+      "lat": 25.3333,
+      "lng": 56.35,
+      "isCapital": false,
+      "population": 39151
+    },
+    {
+      "name": "Dibba Al-Fujairah",
+      "lat": 25.6167,
+      "lng": 56.2667,
+      "isCapital": false,
+      "population": 30000
+    }
+  ]
+}

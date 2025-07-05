@@ -1,0 +1,75 @@
+{
+  "country": "Paraguay",
+  "cities": [
+    {
+      "name": "Asunción",
+      "lat": -25.2637,
+      "lng": -57.5759,
+      "isCapital": true,
+      "population": 525294
+    },
+    {
+      "name": "Ciudad del Este",
+      "lat": -25.5167,
+      "lng": -54.6167,
+      "isCapital": false,
+      "population": 301815
+    },
+    {
+      "name": "San Lorenzo",
+      "lat": -25.3333,
+      "lng": -57.5,
+      "isCapital": false,
+      "population": 252561
+    },
+    {
+      "name": "Luque",
+      "lat": -25.2667,
+      "lng": -57.4833,
+      "isCapital": false,
+      "population": 272807
+    },
+    {
+      "name": "Capiatá",
+      "lat": -25.35,
+      "lng": -57.45,
+      "isCapital": false,
+      "population": 232257
+    },
+    {
+      "name": "Lambaré",
+      "lat": -25.35,
+      "lng": -57.6,
+      "isCapital": false,
+      "population": 176986
+    },
+    {
+      "name": "Fernando de la Mora",
+      "lat": -25.3167,
+      "lng": -57.5333,
+      "isCapital": false,
+      "population": 170365
+    },
+    {
+      "name": "Limpio",
+      "lat": -25.1667,
+      "lng": -57.4833,
+      "isCapital": false,
+      "population": 139652
+    },
+    {
+      "name": "Ñemby",
+      "lat": -25.4,
+      "lng": -57.55,
+      "isCapital": false,
+      "population": 139586
+    },
+    {
+      "name": "Encarnación",
+      "lat": -27.3333,
+      "lng": -55.8667,
+      "isCapital": false,
+      "population": 93497
+    }
+  ]
+}

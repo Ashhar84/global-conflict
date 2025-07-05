@@ -1,0 +1,75 @@
+{
+  "country": "Samoa",
+  "cities": [
+    {
+      "name": "Apia",
+      "lat": -13.8333,
+      "lng": -171.7667,
+      "isCapital": true,
+      "population": 37391
+    },
+    {
+      "name": "Vaitele",
+      "lat": -13.8167,
+      "lng": -171.8,
+      "isCapital": false,
+      "population": 7164
+    },
+    {
+      "name": "Faleula",
+      "lat": -13.8,
+      "lng": -171.8167,
+      "isCapital": false,
+      "population": 3209
+    },
+    {
+      "name": "Siusega",
+      "lat": -13.85,
+      "lng": -171.8,
+      "isCapital": false,
+      "population": 2226
+    },
+    {
+      "name": "Malie",
+      "lat": -13.8,
+      "lng": -171.8333,
+      "isCapital": false,
+      "population": 2021
+    },
+    {
+      "name": "Fasito'outa",
+      "lat": -13.8167,
+      "lng": -171.8833,
+      "isCapital": false,
+      "population": 1964
+    },
+    {
+      "name": "Vaiusu",
+      "lat": -13.8167,
+      "lng": -171.8,
+      "isCapital": false,
+      "population": 1887
+    },
+    {
+      "name": "Afega",
+      "lat": -13.8,
+      "lng": -171.85,
+      "isCapital": false,
+      "population": 1781
+    },
+    {
+      "name": "Nofoali'i",
+      "lat": -13.8,
+      "lng": -171.9167,
+      "isCapital": false,
+      "population": 1689
+    },
+    {
+      "name": "Solosolo",
+      "lat": -13.8833,
+      "lng": -171.6333,
+      "isCapital": false,
+      "population": 1481
+    }
+  ]
+}

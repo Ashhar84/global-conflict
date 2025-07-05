@@ -1,0 +1,75 @@
+{
+  "country": "Mexico",
+  "cities": [
+    {
+      "name": "Mexico City",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "isCapital": true,
+      "population": 9209944
+    },
+    {
+      "name": "Tijuana",
+      "lat": 32.5149,
+      "lng": -117.0382,
+      "isCapital": false,
+      "population": 1810645
+    },
+    {
+      "name": "Ecatepec",
+      "lat": 19.6097,
+      "lng": -99.0656,
+      "isCapital": false,
+      "population": 1645352
+    },
+    {
+      "name": "León",
+      "lat": 21.125,
+      "lng": -101.685,
+      "isCapital": false,
+      "population": 1578626
+    },
+    {
+      "name": "Puebla",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "isCapital": false,
+      "population": 1434062
+    },
+    {
+      "name": "Ciudad Juárez",
+      "lat": 31.7333,
+      "lng": -106.4833,
+      "isCapital": false,
+      "population": 1321004
+    },
+    {
+      "name": "Guadalajara",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "isCapital": false,
+      "population": 1460148
+    },
+    {
+      "name": "Zapopan",
+      "lat": 20.7167,
+      "lng": -103.4,
+      "isCapital": false,
+      "population": 1142483
+    },
+    {
+      "name": "Monterrey",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "isCapital": false,
+      "population": 1135512
+    },
+    {
+      "name": "Nezahualcóyotl",
+      "lat": 19.4,
+      "lng": -99.0167,
+      "isCapital": false,
+      "population": 1077208
+    }
+  ]
+}

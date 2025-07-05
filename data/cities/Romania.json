@@ -1,0 +1,75 @@
+{
+  "country": "Romania",
+  "cities": [
+    {
+      "name": "Bucharest",
+      "lat": 44.4268,
+      "lng": 26.1025,
+      "isCapital": true,
+      "population": 1883425
+    },
+    {
+      "name": "Cluj-Napoca",
+      "lat": 46.7712,
+      "lng": 23.6236,
+      "isCapital": false,
+      "population": 324576
+    },
+    {
+      "name": "Timișoara",
+      "lat": 45.7489,
+      "lng": 21.2087,
+      "isCapital": false,
+      "population": 319279
+    },
+    {
+      "name": "Iași",
+      "lat": 47.1585,
+      "lng": 27.6014,
+      "isCapital": false,
+      "population": 290422
+    },
+    {
+      "name": "Constanța",
+      "lat": 44.1822,
+      "lng": 28.6343,
+      "isCapital": false,
+      "population": 283872
+    },
+    {
+      "name": "Craiova",
+      "lat": 44.3302,
+      "lng": 23.7949,
+      "isCapital": false,
+      "population": 269506
+    },
+    {
+      "name": "Brașov",
+      "lat": 45.6579,
+      "lng": 25.6012,
+      "isCapital": false,
+      "population": 253200
+    },
+    {
+      "name": "Galați",
+      "lat": 45.435,
+      "lng": 28.045,
+      "isCapital": false,
+      "population": 249432
+    },
+    {
+      "name": "Ploiești",
+      "lat": 44.9333,
+      "lng": 26.0333,
+      "isCapital": false,
+      "population": 209945
+    },
+    {
+      "name": "Oradea",
+      "lat": 47.0465,
+      "lng": 21.9189,
+      "isCapital": false,
+      "population": 196367
+    }
+  ]
+}

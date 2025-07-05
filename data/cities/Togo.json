@@ -1,0 +1,75 @@
+{
+  "country": "Togo",
+  "cities": [
+    {
+      "name": "Lomé",
+      "lat": 6.1375,
+      "lng": 1.2128,
+      "isCapital": true,
+      "population": 837437
+    },
+    {
+      "name": "Sokodé",
+      "lat": 8.9833,
+      "lng": 1.1333,
+      "isCapital": false,
+      "population": 117800
+    },
+    {
+      "name": "Kara",
+      "lat": 9.55,
+      "lng": 1.1833,
+      "isCapital": false,
+      "population": 94878
+    },
+    {
+      "name": "Kpalimé",
+      "lat": 6.9,
+      "lng": 0.6333,
+      "isCapital": false,
+      "population": 75084
+    },
+    {
+      "name": "Atakpamé",
+      "lat": 7.5333,
+      "lng": 1.1333,
+      "isCapital": false,
+      "population": 69261
+    },
+    {
+      "name": "Dapaong",
+      "lat": 10.8667,
+      "lng": 0.2,
+      "isCapital": false,
+      "population": 58071
+    },
+    {
+      "name": "Tsévié",
+      "lat": 6.4167,
+      "lng": 1.2,
+      "isCapital": false,
+      "population": 54474
+    },
+    {
+      "name": "Aného",
+      "lat": 6.2333,
+      "lng": 1.6,
+      "isCapital": false,
+      "population": 24891
+    },
+    {
+      "name": "Sansanné-Mango",
+      "lat": 10.35,
+      "lng": 0.4167,
+      "isCapital": false,
+      "population": 24766
+    },
+    {
+      "name": "Bassar",
+      "lat": 9.25,
+      "lng": 0.7833,
+      "isCapital": false,
+      "population": 23181
+    }
+  ]
+}

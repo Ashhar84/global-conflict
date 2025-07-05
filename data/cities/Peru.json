@@ -1,0 +1,75 @@
+{
+  "country": "Peru",
+  "cities": [
+    {
+      "name": "Lima",
+      "lat": -12.0464,
+      "lng": -77.0428,
+      "isCapital": true,
+      "population": 9751717
+    },
+    {
+      "name": "Arequipa",
+      "lat": -16.409,
+      "lng": -71.5375,
+      "isCapital": false,
+      "population": 1008290
+    },
+    {
+      "name": "Trujillo",
+      "lat": -8.116,
+      "lng": -79.03,
+      "isCapital": false,
+      "population": 919899
+    },
+    {
+      "name": "Chiclayo",
+      "lat": -6.7714,
+      "lng": -79.8409,
+      "isCapital": false,
+      "population": 552508
+    },
+    {
+      "name": "Piura",
+      "lat": -5.1945,
+      "lng": -80.6328,
+      "isCapital": false,
+      "population": 473025
+    },
+    {
+      "name": "Huancayo",
+      "lat": -12.0651,
+      "lng": -75.2047,
+      "isCapital": false,
+      "population": 456247
+    },
+    {
+      "name": "Cusco",
+      "lat": -13.532,
+      "lng": -71.9675,
+      "isCapital": false,
+      "population": 428450
+    },
+    {
+      "name": "Iquitos",
+      "lat": -3.7491,
+      "lng": -73.2538,
+      "isCapital": false,
+      "population": 377609
+    },
+    {
+      "name": "Chimbote",
+      "lat": -9.0853,
+      "lng": -78.5783,
+      "isCapital": false,
+      "population": 381466
+    },
+    {
+      "name": "Pucallpa",
+      "lat": -8.3791,
+      "lng": -74.5539,
+      "isCapital": false,
+      "population": 326040
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Sweden",
+  "cities": [
+    {
+      "name": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "isCapital": true,
+      "population": 975904
+    },
+    {
+      "name": "Gothenburg",
+      "lat": 57.7089,
+      "lng": 11.9746,
+      "isCapital": false,
+      "population": 579281
+    },
+    {
+      "name": "Malmö",
+      "lat": 55.605,
+      "lng": 13.0038,
+      "isCapital": false,
+      "population": 344166
+    },
+    {
+      "name": "Uppsala",
+      "lat": 59.8586,
+      "lng": 17.6389,
+      "isCapital": false,
+      "population": 164535
+    },
+    {
+      "name": "Västerås",
+      "lat": 59.6167,
+      "lng": 16.55,
+      "isCapital": false,
+      "population": 128660
+    },
+    {
+      "name": "Örebro",
+      "lat": 59.2667,
+      "lng": 15.2167,
+      "isCapital": false,
+      "population": 124207
+    },
+    {
+      "name": "Linköping",
+      "lat": 58.4108,
+      "lng": 15.6214,
+      "isCapital": false,
+      "population": 115672
+    },
+    {
+      "name": "Helsingborg",
+      "lat": 56.0465,
+      "lng": 12.6945,
+      "isCapital": false,
+      "population": 113816
+    },
+    {
+      "name": "Jönköping",
+      "lat": 57.7826,
+      "lng": 14.1618,
+      "isCapital": false,
+      "population": 96996
+    },
+    {
+      "name": "Norrköping",
+      "lat": 58.5877,
+      "lng": 16.1924,
+      "isCapital": false,
+      "population": 96740
+    }
+  ]
+}

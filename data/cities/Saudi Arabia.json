@@ -1,0 +1,75 @@
+{
+  "country": "Saudi Arabia",
+  "cities": [
+    {
+      "name": "Riyadh",
+      "lat": 24.7136,
+      "lng": 46.6753,
+      "isCapital": true,
+      "population": 7676654
+    },
+    {
+      "name": "Jeddah",
+      "lat": 21.4858,
+      "lng": 39.1925,
+      "isCapital": false,
+      "population": 3976000
+    },
+    {
+      "name": "Mecca",
+      "lat": 21.3891,
+      "lng": 39.8579,
+      "isCapital": false,
+      "population": 2042000
+    },
+    {
+      "name": "Medina",
+      "lat": 24.4686,
+      "lng": 39.6142,
+      "isCapital": false,
+      "population": 1488782
+    },
+    {
+      "name": "Dammam",
+      "lat": 26.4207,
+      "lng": 50.0888,
+      "isCapital": false,
+      "population": 1252523
+    },
+    {
+      "name": "Ta'if",
+      "lat": 21.2667,
+      "lng": 40.4167,
+      "isCapital": false,
+      "population": 688673
+    },
+    {
+      "name": "Tabuk",
+      "lat": 28.3833,
+      "lng": 36.5667,
+      "isCapital": false,
+      "population": 657000
+    },
+    {
+      "name": "Buraidah",
+      "lat": 26.326,
+      "lng": 43.975,
+      "isCapital": false,
+      "population": 614093
+    },
+    {
+      "name": "Khobar",
+      "lat": 26.2172,
+      "lng": 50.197,
+      "isCapital": false,
+      "population": 941358
+    },
+    {
+      "name": "Khamis Mushait",
+      "lat": 18.3,
+      "lng": 42.7333,
+      "isCapital": false,
+      "population": 512599
+    }
+  ]
+}

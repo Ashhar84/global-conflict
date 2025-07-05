@@ -1,0 +1,75 @@
+{
+  "country": "Uzbekistan",
+  "cities": [
+    {
+      "name": "Tashkent",
+      "lat": 41.2995,
+      "lng": 69.2401,
+      "isCapital": true,
+      "population": 2571668
+    },
+    {
+      "name": "Samarkand",
+      "lat": 39.6542,
+      "lng": 66.9597,
+      "isCapital": false,
+      "population": 546303
+    },
+    {
+      "name": "Namangan",
+      "lat": 41.0,
+      "lng": 71.6667,
+      "isCapital": false,
+      "population": 475700
+    },
+    {
+      "name": "Andijan",
+      "lat": 40.7833,
+      "lng": 72.3333,
+      "isCapital": false,
+      "population": 425800
+    },
+    {
+      "name": "Nukus",
+      "lat": 42.45,
+      "lng": 59.6,
+      "isCapital": false,
+      "population": 312100
+    },
+    {
+      "name": "Bukhara",
+      "lat": 39.7667,
+      "lng": 64.4167,
+      "isCapital": false,
+      "population": 272000
+    },
+    {
+      "name": "Fergana",
+      "lat": 40.3833,
+      "lng": 71.7833,
+      "isCapital": false,
+      "population": 264900
+    },
+    {
+      "name": "Qarshi",
+      "lat": 38.8667,
+      "lng": 65.8,
+      "isCapital": false,
+      "population": 254600
+    },
+    {
+      "name": "Kokand",
+      "lat": 40.5333,
+      "lng": 70.9333,
+      "isCapital": false,
+      "population": 233500
+    },
+    {
+      "name": "Margilan",
+      "lat": 40.4667,
+      "lng": 71.7167,
+      "isCapital": false,
+      "population": 215400
+    }
+  ]
+}

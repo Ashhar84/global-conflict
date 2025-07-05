@@ -1,0 +1,75 @@
+{
+  "country": "Mauritius",
+  "cities": [
+    {
+      "name": "Port Louis",
+      "lat": -20.1619,
+      "lng": 57.4989,
+      "isCapital": true,
+      "population": 147688
+    },
+    {
+      "name": "Beau Bassin-Rose Hill",
+      "lat": -20.2439,
+      "lng": 57.4681,
+      "isCapital": false,
+      "population": 103098
+    },
+    {
+      "name": "Vacoas-Phoenix",
+      "lat": -20.2975,
+      "lng": 57.4889,
+      "isCapital": false,
+      "population": 105559
+    },
+    {
+      "name": "Curepipe",
+      "lat": -20.3167,
+      "lng": 57.5167,
+      "isCapital": false,
+      "population": 77471
+    },
+    {
+      "name": "Quatre Bornes",
+      "lat": -20.2667,
+      "lng": 57.4833,
+      "isCapital": false,
+      "population": 75884
+    },
+    {
+      "name": "Triolet",
+      "lat": -20.05,
+      "lng": 57.55,
+      "isCapital": false,
+      "population": 23269
+    },
+    {
+      "name": "Goodlands",
+      "lat": -20.0333,
+      "lng": 57.65,
+      "isCapital": false,
+      "population": 20910
+    },
+    {
+      "name": "Centre de Flacq",
+      "lat": -20.2,
+      "lng": 57.7167,
+      "isCapital": false,
+      "population": 17710
+    },
+    {
+      "name": "Bel Air Rivière Sèche",
+      "lat": -20.25,
+      "lng": 57.75,
+      "isCapital": false,
+      "population": 17605
+    },
+    {
+      "name": "Mahébourg",
+      "lat": -20.4,
+      "lng": 57.7,
+      "isCapital": false,
+      "population": 15753
+    }
+  ]
+}

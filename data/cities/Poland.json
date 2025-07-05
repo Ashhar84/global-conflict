@@ -1,0 +1,75 @@
+{
+  "country": "Poland",
+  "cities": [
+    {
+      "name": "Warsaw",
+      "lat": 52.2297,
+      "lng": 21.0122,
+      "isCapital": true,
+      "population": 1794166
+    },
+    {
+      "name": "Kraków",
+      "lat": 50.0647,
+      "lng": 19.945,
+      "isCapital": false,
+      "population": 779115
+    },
+    {
+      "name": "Łódź",
+      "lat": 51.7592,
+      "lng": 19.456,
+      "isCapital": false,
+      "population": 672185
+    },
+    {
+      "name": "Wrocław",
+      "lat": 51.1079,
+      "lng": 17.0385,
+      "isCapital": false,
+      "population": 641607
+    },
+    {
+      "name": "Poznań",
+      "lat": 52.4064,
+      "lng": 16.9252,
+      "isCapital": false,
+      "population": 534813
+    },
+    {
+      "name": "Gdańsk",
+      "lat": 54.352,
+      "lng": 18.6466,
+      "isCapital": false,
+      "population": 470907
+    },
+    {
+      "name": "Szczecin",
+      "lat": 53.4285,
+      "lng": 14.5528,
+      "isCapital": false,
+      "population": 401907
+    },
+    {
+      "name": "Bydgoszcz",
+      "lat": 53.1235,
+      "lng": 18.0084,
+      "isCapital": false,
+      "population": 348190
+    },
+    {
+      "name": "Lublin",
+      "lat": 51.2465,
+      "lng": 22.5684,
+      "isCapital": false,
+      "population": 339770
+    },
+    {
+      "name": "Białystok",
+      "lat": 53.1325,
+      "lng": 23.1688,
+      "isCapital": false,
+      "population": 297554
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Serbia",
+  "cities": [
+    {
+      "name": "Belgrade",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "isCapital": true,
+      "population": 1166763
+    },
+    {
+      "name": "Novi Sad",
+      "lat": 45.2671,
+      "lng": 19.8335,
+      "isCapital": false,
+      "population": 277522
+    },
+    {
+      "name": "Niš",
+      "lat": 43.3209,
+      "lng": 21.8954,
+      "isCapital": false,
+      "population": 183164
+    },
+    {
+      "name": "Zemun",
+      "lat": 44.8461,
+      "lng": 20.3778,
+      "isCapital": false,
+      "population": 168178
+    },
+    {
+      "name": "Kragujevac",
+      "lat": 44.0167,
+      "lng": 20.9167,
+      "isCapital": false,
+      "population": 150835
+    },
+    {
+      "name": "Subotica",
+      "lat": 46.1,
+      "lng": 19.6667,
+      "isCapital": false,
+      "population": 97916
+    },
+    {
+      "name": "Čačak",
+      "lat": 43.8914,
+      "lng": 20.3494,
+      "isCapital": false,
+      "population": 73331
+    },
+    {
+      "name": "Kraljevo",
+      "lat": 43.7258,
+      "lng": 20.6892,
+      "isCapital": false,
+      "population": 68749
+    },
+    {
+      "name": "Novi Pazar",
+      "lat": 43.1367,
+      "lng": 20.5122,
+      "isCapital": false,
+      "population": 66527
+    },
+    {
+      "name": "Smederevo",
+      "lat": 44.6667,
+      "lng": 20.9333,
+      "isCapital": false,
+      "population": 64175
+    }
+  ]
+}

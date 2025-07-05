@@ -1,0 +1,75 @@
+{
+  "country": "Suriname",
+  "cities": [
+    {
+      "name": "Paramaribo",
+      "lat": 5.852,
+      "lng": -55.2038,
+      "isCapital": true,
+      "population": 240924
+    },
+    {
+      "name": "Lelydorp",
+      "lat": 5.7,
+      "lng": -55.2333,
+      "isCapital": false,
+      "population": 18663
+    },
+    {
+      "name": "Nieuw Nickerie",
+      "lat": 5.9167,
+      "lng": -56.9833,
+      "isCapital": false,
+      "population": 12818
+    },
+    {
+      "name": "Moengo",
+      "lat": 5.6167,
+      "lng": -54.4,
+      "isCapital": false,
+      "population": 10835
+    },
+    {
+      "name": "Meerzorg",
+      "lat": 5.8167,
+      "lng": -55.15,
+      "isCapital": false,
+      "population": 12405
+    },
+    {
+      "name": "Albina",
+      "lat": 5.5,
+      "lng": -54.05,
+      "isCapital": false,
+      "population": 5247
+    },
+    {
+      "name": "Groningen",
+      "lat": 5.8,
+      "lng": -55.4667,
+      "isCapital": false,
+      "population": 2818
+    },
+    {
+      "name": "Brokopondo",
+      "lat": 4.75,
+      "lng": -55.1333,
+      "isCapital": false,
+      "population": 4482
+    },
+    {
+      "name": "Onverwacht",
+      "lat": 5.6,
+      "lng": -55.2,
+      "isCapital": false,
+      "population": 2223
+    },
+    {
+      "name": "Totness",
+      "lat": 5.8667,
+      "lng": -56.3167,
+      "isCapital": false,
+      "population": 2150
+    }
+  ]
+}

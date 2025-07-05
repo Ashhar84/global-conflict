@@ -1,0 +1,75 @@
+{
+  "country": "New Zealand",
+  "cities": [
+    {
+      "name": "Wellington",
+      "lat": -41.2865,
+      "lng": 174.7762,
+      "isCapital": true,
+      "population": 212700
+    },
+    {
+      "name": "Auckland",
+      "lat": -36.8485,
+      "lng": 174.7633,
+      "isCapital": false,
+      "population": 1657000
+    },
+    {
+      "name": "Christchurch",
+      "lat": -43.5321,
+      "lng": 172.6362,
+      "isCapital": false,
+      "population": 381500
+    },
+    {
+      "name": "Hamilton",
+      "lat": -37.787,
+      "lng": 175.2793,
+      "isCapital": false,
+      "population": 176500
+    },
+    {
+      "name": "Tauranga",
+      "lat": -37.6878,
+      "lng": 176.1651,
+      "isCapital": false,
+      "population": 151300
+    },
+    {
+      "name": "Dunedin",
+      "lat": -45.8788,
+      "lng": 170.5028,
+      "isCapital": false,
+      "population": 134100
+    },
+    {
+      "name": "Palmerston North",
+      "lat": -40.3523,
+      "lng": 175.6082,
+      "isCapital": false,
+      "population": 81500
+    },
+    {
+      "name": "Napier",
+      "lat": -39.4928,
+      "lng": 176.912,
+      "isCapital": false,
+      "population": 66300
+    },
+    {
+      "name": "Porirua",
+      "lat": -41.1333,
+      "lng": 174.85,
+      "isCapital": false,
+      "population": 59600
+    },
+    {
+      "name": "New Plymouth",
+      "lat": -39.0556,
+      "lng": 174.0752,
+      "isCapital": false,
+      "population": 57600
+    }
+  ]
+}

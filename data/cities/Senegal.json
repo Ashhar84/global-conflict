@@ -1,0 +1,75 @@
+{
+  "country": "Senegal",
+  "cities": [
+    {
+      "name": "Dakar",
+      "lat": 14.7167,
+      "lng": -17.4677,
+      "isCapital": true,
+      "population": 1146053
+    },
+    {
+      "name": "Touba",
+      "lat": 14.8667,
+      "lng": -16.8333,
+      "isCapital": false,
+      "population": 753315
+    },
+    {
+      "name": "Thiès",
+      "lat": 14.7833,
+      "lng": -16.9333,
+      "isCapital": false,
+      "population": 317763
+    },
+    {
+      "name": "Rufisque",
+      "lat": 14.7167,
+      "lng": -17.2667,
+      "isCapital": false,
+      "population": 221066
+    },
+    {
+      "name": "Kaolack",
+      "lat": 14.1667,
+      "lng": -16.0833,
+      "isCapital": false,
+      "population": 233708
+    },
+    {
+      "name": "M'Bour",
+      "lat": 14.4167,
+      "lng": -16.9667,
+      "isCapital": false,
+      "population": 232747
+    },
+    {
+      "name": "Ziguinchor",
+      "lat": 12.5833,
+      "lng": -16.2667,
+      "isCapital": false,
+      "population": 205294
+    },
+    {
+      "name": "Saint-Louis",
+      "lat": 16.0167,
+      "lng": -16.5,
+      "isCapital": false,
+      "population": 202293
+    },
+    {
+      "name": "Diourbel",
+      "lat": 14.65,
+      "lng": -16.2333,
+      "isCapital": false,
+      "population": 133705
+    },
+    {
+      "name": "Louga",
+      "lat": 15.6167,
+      "lng": -16.2167,
+      "isCapital": false,
+      "population": 104340
+    }
+  ]
+}

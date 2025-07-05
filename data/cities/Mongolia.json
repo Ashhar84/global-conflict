@@ -1,0 +1,75 @@
+{
+  "country": "Mongolia",
+  "cities": [
+    {
+      "name": "Ulaanbaatar",
+      "lat": 47.918,
+      "lng": 106.918,
+      "isCapital": true,
+      "population": 1539810
+    },
+    {
+      "name": "Erdenet",
+      "lat": 49.0333,
+      "lng": 104.0833,
+      "isCapital": false,
+      "population": 97804
+    },
+    {
+      "name": "Darkhan",
+      "lat": 49.4833,
+      "lng": 105.95,
+      "isCapital": false,
+      "population": 74738
+    },
+    {
+      "name": "Choibalsan",
+      "lat": 48.0667,
+      "lng": 114.5,
+      "isCapital": false,
+      "population": 38537
+    },
+    {
+      "name": "Mörön",
+      "lat": 49.6333,
+      "lng": 100.15,
+      "isCapital": false,
+      "population": 35789
+    },
+    {
+      "name": "Nalaikh",
+      "lat": 47.7667,
+      "lng": 107.2833,
+      "isCapital": false,
+      "population": 30049
+    },
+    {
+      "name": "Bayankhongor",
+      "lat": 46.1833,
+      "lng": 100.7167,
+      "isCapital": false,
+      "population": 29817
+    },
+    {
+      "name": "Ölgii",
+      "lat": 48.9667,
+      "lng": 89.9667,
+      "isCapital": false,
+      "population": 29392
+    },
+    {
+      "name": "Khovd",
+      "lat": 48.0,
+      "lng": 91.65,
+      "isCapital": false,
+      "population": 29012
+    },
+    {
+      "name": "Arvaikheer",
+      "lat": 46.2667,
+      "lng": 102.7833,
+      "isCapital": false,
+      "population": 21700
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Tonga",
+  "cities": [
+    {
+      "name": "Nukuʻalofa",
+      "lat": -21.1393,
+      "lng": -175.2048,
+      "isCapital": true,
+      "population": 23221
+    },
+    {
+      "name": "Neiafu",
+      "lat": -18.65,
+      "lng": -173.9833,
+      "isCapital": false,
+      "population": 6000
+    },
+    {
+      "name": "Haveluloto",
+      "lat": -21.15,
+      "lng": -175.2167,
+      "isCapital": false,
+      "population": 3417
+    },
+    {
+      "name": "Vaini",
+      "lat": -21.2,
+      "lng": -175.2,
+      "isCapital": false,
+      "population": 3236
+    },
+    {
+      "name": "Pangai",
+      "lat": -19.8,
+      "lng": -174.35,
+      "isCapital": false,
+      "population": 1738
+    },
+    {
+      "name": "Muʻa",
+      "lat": -21.1833,
+      "lng": -175.1167,
+      "isCapital": false,
+      "population": 5000
+    },
+    {
+      "name": "Hihifo",
+      "lat": -15.95,
+      "lng": -173.7833,
+      "isCapital": false,
+      "population": 815
+    },
+    {
+      "name": "ʻOhonua",
+      "lat": -21.3333,
+      "lng": -174.95,
+      "isCapital": false,
+      "population": 1241
+    },
+    {
+      "name": "Kolonga",
+      "lat": -21.1333,
+      "lng": -175.0667,
+      "isCapital": false,
+      "population": 1200
+    },
+    {
+      "name": "Leimatuʻa",
+      "lat": -18.6333,
+      "lng": -174.0167,
+      "isCapital": false,
+      "population": 2400
+    }
+  ]
+}

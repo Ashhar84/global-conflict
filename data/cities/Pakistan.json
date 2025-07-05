@@ -1,0 +1,75 @@
+{
+  "country": "Pakistan",
+  "cities": [
+    {
+      "name": "Islamabad",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "isCapital": true,
+      "population": 1014825
+    },
+    {
+      "name": "Karachi",
+      "lat": 24.8607,
+      "lng": 67.0011,
+      "isCapital": false,
+      "population": 14916456
+    },
+    {
+      "name": "Lahore",
+      "lat": 31.5204,
+      "lng": 74.3587,
+      "isCapital": false,
+      "population": 11126285
+    },
+    {
+      "name": "Faisalabad",
+      "lat": 31.418,
+      "lng": 73.0792,
+      "isCapital": false,
+      "population": 3203846
+    },
+    {
+      "name": "Rawalpindi",
+      "lat": 33.5651,
+      "lng": 73.0169,
+      "isCapital": false,
+      "population": 2098231
+    },
+    {
+      "name": "Gujranwala",
+      "lat": 32.1617,
+      "lng": 74.1883,
+      "isCapital": false,
+      "population": 2027001
+    },
+    {
+      "name": "Peshawar",
+      "lat": 34.0151,
+      "lng": 71.5249,
+      "isCapital": false,
+      "population": 1970042
+    },
+    {
+      "name": "Multan",
+      "lat": 30.1575,
+      "lng": 71.5249,
+      "isCapital": false,
+      "population": 1871843
+    },
+    {
+      "name": "Hyderabad",
+      "lat": 25.3969,
+      "lng": 68.3737,
+      "isCapital": false,
+      "population": 1732693
+    },
+    {
+      "name": "Quetta",
+      "lat": 30.1798,
+      "lng": 66.975,
+      "isCapital": false,
+      "population": 1001205
+    }
+  ]
+}

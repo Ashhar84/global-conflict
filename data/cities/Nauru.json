@@ -1,0 +1,75 @@
+{
+  "country": "Nauru",
+  "cities": [
+    {
+      "name": "Yaren",
+      "lat": -0.5477,
+      "lng": 166.9209,
+      "isCapital": true,
+      "population": 747
+    },
+    {
+      "name": "Denigomodu",
+      "lat": -0.523,
+      "lng": 166.914,
+      "isCapital": false,
+      "population": 2827
+    },
+    {
+      "name": "Meneng",
+      "lat": -0.55,
+      "lng": 166.9333,
+      "isCapital": false,
+      "population": 1380
+    },
+    {
+      "name": "Aiwo",
+      "lat": -0.5333,
+      "lng": 166.9167,
+      "isCapital": false,
+      "population": 1220
+    },
+    {
+      "name": "Boe",
+      "lat": -0.55,
+      "lng": 166.9167,
+      "isCapital": false,
+      "population": 851
+    },
+    {
+      "name": "Anetan",
+      "lat": -0.5167,
+      "lng": 166.9333,
+      "isCapital": false,
+      "population": 587
+    },
+    {
+      "name": "Anabar",
+      "lat": -0.5167,
+      "lng": 166.95,
+      "isCapital": false,
+      "population": 452
+    },
+    {
+      "name": "Ijuw",
+      "lat": -0.5167,
+      "lng": 166.9667,
+      "isCapital": false,
+      "population": 178
+    },
+    {
+      "name": "Uaboe",
+      "lat": -0.5167,
+      "lng": 166.9167,
+      "isCapital": false,
+      "population": 318
+    },
+    {
+      "name": "Nibok",
+      "lat": -0.5167,
+      "lng": 166.9,
+      "isCapital": false,
+      "population": 484
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Turkmenistan",
+  "cities": [
+    {
+      "name": "Ashgabat",
+      "lat": 37.9667,
+      "lng": 58.3833,
+      "isCapital": true,
+      "population": 1031992
+    },
+    {
+      "name": "Türkmenabat",
+      "lat": 39.1,
+      "lng": 63.5667,
+      "isCapital": false,
+      "population": 254000
+    },
+    {
+      "name": "Daşoguz",
+      "lat": 41.8333,
+      "lng": 59.9667,
+      "isCapital": false,
+      "population": 227184
+    },
+    {
+      "name": "Mary",
+      "lat": 37.6,
+      "lng": 61.8333,
+      "isCapital": false,
+      "population": 123904
+    },
+    {
+      "name": "Balkanabat",
+      "lat": 39.5167,
+      "lng": 54.3667,
+      "isCapital": false,
+      "population": 89785
+    },
+    {
+      "name": "Baýramaly",
+      "lat": 37.6167,
+      "lng": 62.15,
+      "isCapital": false,
+      "population": 88486
+    },
+    {
+      "name": "Türkmenbaşy",
+      "lat": 40.0167,
+      "lng": 52.9667,
+      "isCapital": false,
+      "population": 73803
+    },
+    {
+      "name": "Tejen",
+      "lat": 37.3833,
+      "lng": 60.5,
+      "isCapital": false,
+      "population": 77024
+    },
+    {
+      "name": "Abadan",
+      "lat": 38.05,
+      "lng": 58.2167,
+      "isCapital": false,
+      "population": 42269
+    },
+    {
+      "name": "Magdanly",
+      "lat": 37.7833,
+      "lng": 66.25,
+      "isCapital": false,
+      "population": 64845
+    }
+  ]
+}

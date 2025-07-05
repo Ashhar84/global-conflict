@@ -1,0 +1,75 @@
+{
+  "country": "Yemen",
+  "cities": [
+    {
+      "name": "Sana'a",
+      "lat": 15.3694,
+      "lng": 44.191,
+      "isCapital": true,
+      "population": 2545000
+    },
+    {
+      "name": "Aden",
+      "lat": 12.8,
+      "lng": 45.0333,
+      "isCapital": false,
+      "population": 1000000
+    },
+    {
+      "name": "Ta'izz",
+      "lat": 13.5833,
+      "lng": 44.0167,
+      "isCapital": false,
+      "population": 615222
+    },
+    {
+      "name": "Al Hudaydah",
+      "lat": 14.8,
+      "lng": 42.95,
+      "isCapital": false,
+      "population": 402560
+    },
+    {
+      "name": "Ibb",
+      "lat": 13.9667,
+      "lng": 44.1833,
+      "isCapital": false,
+      "population": 212992
+    },
+    {
+      "name": "Dhamar",
+      "lat": 14.55,
+      "lng": 44.4,
+      "isCapital": false,
+      "population": 146000
+    },
+    {
+      "name": "Al Mukalla",
+      "lat": 14.5333,
+      "lng": 49.1333,
+      "isCapital": false,
+      "population": 566000
+    },
+    {
+      "name": "Zinjibar",
+      "lat": 13.1333,
+      "lng": 45.3833,
+      "isCapital": false,
+      "population": 50346
+    },
+    {
+      "name": "Sayyan",
+      "lat": 15.1667,
+      "lng": 44.3167,
+      "isCapital": false,
+      "population": 69404
+    },
+    {
+      "name": "Ash Shihr",
+      "lat": 14.75,
+      "lng": 49.6,
+      "isCapital": false,
+      "population": 48600
+    }
+  ]
+}

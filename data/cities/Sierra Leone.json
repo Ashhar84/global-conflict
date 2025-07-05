@@ -1,0 +1,75 @@
+{
+  "country": "Sierra Leone",
+  "cities": [
+    {
+      "name": "Freetown",
+      "lat": 8.484,
+      "lng": -13.2299,
+      "isCapital": true,
+      "population": 1055964
+    },
+    {
+      "name": "Kenema",
+      "lat": 7.8833,
+      "lng": -11.1833,
+      "isCapital": false,
+      "population": 200354
+    },
+    {
+      "name": "Bo",
+      "lat": 7.95,
+      "lng": -11.7333,
+      "isCapital": false,
+      "population": 174369
+    },
+    {
+      "name": "Koidu",
+      "lat": 8.4167,
+      "lng": -10.9667,
+      "isCapital": false,
+      "population": 124662
+    },
+    {
+      "name": "Makeni",
+      "lat": 8.8833,
+      "lng": -12.0333,
+      "isCapital": false,
+      "population": 125970
+    },
+    {
+      "name": "Lunsar",
+      "lat": 8.6833,
+      "lng": -12.5333,
+      "isCapital": false,
+      "population": 23889
+    },
+    {
+      "name": "Port Loko",
+      "lat": 8.7667,
+      "lng": -12.7833,
+      "isCapital": false,
+      "population": 21961
+    },
+    {
+      "name": "Waterloo",
+      "lat": 8.3333,
+      "lng": -13.0667,
+      "isCapital": false,
+      "population": 34079
+    },
+    {
+      "name": "Kabala",
+      "lat": 9.5833,
+      "lng": -11.55,
+      "isCapital": false,
+      "population": 18770
+    },
+    {
+      "name": "Magburaka",
+      "lat": 8.7167,
+      "lng": -11.95,
+      "isCapital": false,
+      "population": 16313
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Namibia",
+  "cities": [
+    {
+      "name": "Windhoek",
+      "lat": -22.5594,
+      "lng": 17.0832,
+      "isCapital": true,
+      "population": 431000
+    },
+    {
+      "name": "Rundu",
+      "lat": -17.9167,
+      "lng": 19.7667,
+      "isCapital": false,
+      "population": 63431
+    },
+    {
+      "name": "Walvis Bay",
+      "lat": -22.95,
+      "lng": 14.5,
+      "isCapital": false,
+      "population": 62096
+    },
+    {
+      "name": "Swakopmund",
+      "lat": -22.6833,
+      "lng": 14.5333,
+      "isCapital": false,
+      "population": 44725
+    },
+    {
+      "name": "Oshakati",
+      "lat": -17.7833,
+      "lng": 15.7,
+      "isCapital": false,
+      "population": 36541
+    },
+    {
+      "name": "Rehoboth",
+      "lat": -23.3167,
+      "lng": 17.0833,
+      "isCapital": false,
+      "population": 28843
+    },
+    {
+      "name": "Katima Mulilo",
+      "lat": -17.5,
+      "lng": 24.2667,
+      "isCapital": false,
+      "population": 28362
+    },
+    {
+      "name": "Otjiwarongo",
+      "lat": -20.4667,
+      "lng": 16.65,
+      "isCapital": false,
+      "population": 28249
+    },
+    {
+      "name": "Okahandja",
+      "lat": -21.9833,
+      "lng": 16.9167,
+      "isCapital": false,
+      "population": 22639
+    },
+    {
+      "name": "Gobabis",
+      "lat": -22.45,
+      "lng": 18.9667,
+      "isCapital": false,
+      "population": 19101
+    }
+  ]
+}

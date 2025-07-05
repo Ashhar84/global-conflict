@@ -1,0 +1,75 @@
+{
+  "country": "Mozambique",
+  "cities": [
+    {
+      "name": "Maputo",
+      "lat": -25.9667,
+      "lng": 32.5833,
+      "isCapital": true,
+      "population": 1088449
+    },
+    {
+      "name": "Matola",
+      "lat": -25.9667,
+      "lng": 32.4667,
+      "isCapital": false,
+      "population": 1032197
+    },
+    {
+      "name": "Nampula",
+      "lat": -15.1167,
+      "lng": 39.2667,
+      "isCapital": false,
+      "population": 743125
+    },
+    {
+      "name": "Beira",
+      "lat": -19.8333,
+      "lng": 34.8333,
+      "isCapital": false,
+      "population": 533825
+    },
+    {
+      "name": "Chimoio",
+      "lat": -19.1167,
+      "lng": 33.4833,
+      "isCapital": false,
+      "population": 372821
+    },
+    {
+      "name": "Nacala",
+      "lat": -14.55,
+      "lng": 40.6667,
+      "isCapital": false,
+      "population": 225034
+    },
+    {
+      "name": "Quelimane",
+      "lat": -17.8833,
+      "lng": 36.8833,
+      "isCapital": false,
+      "population": 349842
+    },
+    {
+      "name": "Tete",
+      "lat": -16.15,
+      "lng": 33.5833,
+      "isCapital": false,
+      "population": 305722
+    },
+    {
+      "name": "Lichinga",
+      "lat": -13.3167,
+      "lng": 35.2333,
+      "isCapital": false,
+      "population": 213361
+    },
+    {
+      "name": "Pemba",
+      "lat": -12.9667,
+      "lng": 40.5167,
+      "isCapital": false,
+      "population": 201846
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Vanuatu",
+  "cities": [
+    {
+      "name": "Port Vila",
+      "lat": -17.7333,
+      "lng": 168.3167,
+      "isCapital": true,
+      "population": 44039
+    },
+    {
+      "name": "Luganville",
+      "lat": -15.5167,
+      "lng": 167.1667,
+      "isCapital": false,
+      "population": 16312
+    },
+    {
+      "name": "Norsup",
+      "lat": -16.0667,
+      "lng": 167.4,
+      "isCapital": false,
+      "population": 2998
+    },
+    {
+      "name": "Port-Olry",
+      "lat": -15.05,
+      "lng": 167.0833,
+      "isCapital": false,
+      "population": 1300
+    },
+    {
+      "name": "Sola",
+      "lat": -13.8833,
+      "lng": 167.55,
+      "isCapital": false,
+      "population": 1171
+    },
+    {
+      "name": "Isangel",
+      "lat": -19.5333,
+      "lng": 169.2833,
+      "isCapital": false,
+      "population": 1437
+    },
+    {
+      "name": "Lakatoro",
+      "lat": -16.1,
+      "lng": 167.4167,
+      "isCapital": false,
+      "population": 705
+    },
+    {
+      "name": "Pekoa",
+      "lat": -15.5333,
+      "lng": 167.2167,
+      "isCapital": false,
+      "population": 1000
+    },
+    {
+      "name": "Lénakel",
+      "lat": -19.5333,
+      "lng": 169.2667,
+      "isCapital": false,
+      "population": 1473
+    },
+    {
+      "name": "Baie-du-Sud-Ouest",
+      "lat": -16.5,
+      "lng": 167.3,
+      "isCapital": false,
+      "population": 1000
+    }
+  ]
+}

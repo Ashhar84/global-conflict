@@ -1,0 +1,75 @@
+{
+  "country": "Slovakia",
+  "cities": [
+    {
+      "name": "Bratislava",
+      "lat": 48.1486,
+      "lng": 17.1077,
+      "isCapital": true,
+      "population": 437726
+    },
+    {
+      "name": "Košice",
+      "lat": 48.7164,
+      "lng": 21.2611,
+      "isCapital": false,
+      "population": 238593
+    },
+    {
+      "name": "Prešov",
+      "lat": 48.9965,
+      "lng": 21.2391,
+      "isCapital": false,
+      "population": 88464
+    },
+    {
+      "name": "Žilina",
+      "lat": 49.2231,
+      "lng": 18.7397,
+      "isCapital": false,
+      "population": 80729
+    },
+    {
+      "name": "Banská Bystrica",
+      "lat": 48.736,
+      "lng": 19.146,
+      "isCapital": false,
+      "population": 78327
+    },
+    {
+      "name": "Nitra",
+      "lat": 48.3071,
+      "lng": 18.0845,
+      "isCapital": false,
+      "population": 76533
+    },
+    {
+      "name": "Trnava",
+      "lat": 48.3774,
+      "lng": 17.5872,
+      "isCapital": false,
+      "population": 65207
+    },
+    {
+      "name": "Martin",
+      "lat": 49.0667,
+      "lng": 18.9167,
+      "isCapital": false,
+      "population": 54639
+    },
+    {
+      "name": "Trenčín",
+      "lat": 48.8945,
+      "lng": 18.0442,
+      "isCapital": false,
+      "population": 55877
+    },
+    {
+      "name": "Poprad",
+      "lat": 49.05,
+      "lng": 20.3,
+      "isCapital": false,
+      "population": 52037
+    }
+  ]
+}

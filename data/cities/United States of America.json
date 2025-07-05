@@ -1,0 +1,75 @@
+{
+  "country": "United States of America",
+  "cities": [
+    {
+      "name": "Washington, D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "isCapital": true,
+      "population": 705749
+    },
+    {
+      "name": "New York City",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "isCapital": false,
+      "population": 8398748
+    },
+    {
+      "name": "Los Angeles",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "isCapital": false,
+      "population": 3990456
+    },
+    {
+      "name": "Chicago",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "isCapital": false,
+      "population": 2705994
+    },
+    {
+      "name": "Houston",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "isCapital": false,
+      "population": 2325502
+    },
+    {
+      "name": "Phoenix",
+      "lat": 33.4484,
+      "lng": -112.074,
+      "isCapital": false,
+      "population": 1660272
+    },
+    {
+      "name": "Philadelphia",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "isCapital": false,
+      "population": 1584138
+    },
+    {
+      "name": "San Antonio",
+      "lat": 29.4241,
+      "lng": -98.4936,
+      "isCapital": false,
+      "population": 1532233
+    },
+    {
+      "name": "San Diego",
+      "lat": 32.7157,
+      "lng": -117.1611,
+      "isCapital": false,
+      "population": 1425976
+    },
+    {
+      "name": "Dallas",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "isCapital": false,
+      "population": 1345047
+    }
+  ]
+}

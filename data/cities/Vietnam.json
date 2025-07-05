@@ -1,0 +1,75 @@
+{
+  "country": "Vietnam",
+  "cities": [
+    {
+      "name": "Hanoi",
+      "lat": 21.0278,
+      "lng": 105.8342,
+      "isCapital": true,
+      "population": 8053663
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "lat": 10.8231,
+      "lng": 106.6297,
+      "isCapital": false,
+      "population": 8993082
+    },
+    {
+      "name": "Da Nang",
+      "lat": 16.0544,
+      "lng": 108.2022,
+      "isCapital": false,
+      "population": 1134310
+    },
+    {
+      "name": "Haiphong",
+      "lat": 20.845,
+      "lng": 106.688,
+      "isCapital": false,
+      "population": 2028514
+    },
+    {
+      "name": "Can Tho",
+      "lat": 10.0452,
+      "lng": 105.7468,
+      "isCapital": false,
+      "population": 1235171
+    },
+    {
+      "name": "Biên Hòa",
+      "lat": 10.95,
+      "lng": 106.8167,
+      "isCapital": false,
+      "population": 1250849
+    },
+    {
+      "name": "Huế",
+      "lat": 16.4637,
+      "lng": 107.5909,
+      "isCapital": false,
+      "population": 351456
+    },
+    {
+      "name": "Nha Trang",
+      "lat": 12.2388,
+      "lng": 109.1967,
+      "isCapital": false,
+      "population": 535000
+    },
+    {
+      "name": "Vũng Tàu",
+      "lat": 10.3458,
+      "lng": 107.0842,
+      "isCapital": false,
+      "population": 327000
+    },
+    {
+      "name": "Quy Nhơn",
+      "lat": 13.7667,
+      "lng": 109.2333,
+      "isCapital": false,
+      "population": 284000
+    }
+  ]
+}

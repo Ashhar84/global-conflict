@@ -1,0 +1,75 @@
+{
+  "country": "Spain",
+  "cities": [
+    {
+      "name": "Madrid",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "isCapital": true,
+      "population": 3305408
+    },
+    {
+      "name": "Barcelona",
+      "lat": 41.3851,
+      "lng": 2.1734,
+      "isCapital": false,
+      "population": 1620343
+    },
+    {
+      "name": "Valencia",
+      "lat": 39.4699,
+      "lng": -0.3763,
+      "isCapital": false,
+      "population": 791413
+    },
+    {
+      "name": "Seville",
+      "lat": 37.3891,
+      "lng": -5.9845,
+      "isCapital": false,
+      "population": 688711
+    },
+    {
+      "name": "Zaragoza",
+      "lat": 41.6488,
+      "lng": -0.8891,
+      "isCapital": false,
+      "population": 666880
+    },
+    {
+      "name": "Málaga",
+      "lat": 36.7213,
+      "lng": -4.4214,
+      "isCapital": false,
+      "population": 571026
+    },
+    {
+      "name": "Murcia",
+      "lat": 37.9922,
+      "lng": -1.1307,
+      "isCapital": false,
+      "population": 447182
+    },
+    {
+      "name": "Palma",
+      "lat": 39.5696,
+      "lng": 2.6502,
+      "isCapital": false,
+      "population": 409661
+    },
+    {
+      "name": "Las Palmas de Gran Canaria",
+      "lat": 28.1248,
+      "lng": -15.43,
+      "isCapital": false,
+      "population": 378517
+    },
+    {
+      "name": "Bilbao",
+      "lat": 43.263,
+      "lng": -2.935,
+      "isCapital": false,
+      "population": 345821
+    }
+  ]
+}

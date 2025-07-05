@@ -1,0 +1,75 @@
+{
+  "country": "Nepal",
+  "cities": [
+    {
+      "name": "Kathmandu",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "isCapital": true,
+      "population": 1003285
+    },
+    {
+      "name": "Pokhara",
+      "lat": 28.2096,
+      "lng": 83.9856,
+      "isCapital": false,
+      "population": 353841
+    },
+    {
+      "name": "Lalitpur",
+      "lat": 27.6667,
+      "lng": 85.3167,
+      "isCapital": false,
+      "population": 284922
+    },
+    {
+      "name": "Bharatpur",
+      "lat": 27.6833,
+      "lng": 84.4333,
+      "isCapital": false,
+      "population": 280502
+    },
+    {
+      "name": "Birgunj",
+      "lat": 27.0167,
+      "lng": 84.8667,
+      "isCapital": false,
+      "population": 240991
+    },
+    {
+      "name": "Biratnagar",
+      "lat": 26.45,
+      "lng": 87.2667,
+      "isCapital": false,
+      "population": 242548
+    },
+    {
+      "name": "Janakpur",
+      "lat": 26.7167,
+      "lng": 85.9167,
+      "isCapital": false,
+      "population": 173924
+    },
+    {
+      "name": "Ghorahi",
+      "lat": 28.0333,
+      "lng": 82.5,
+      "isCapital": false,
+      "population": 156164
+    },
+    {
+      "name": "Hetauda",
+      "lat": 27.4167,
+      "lng": 85.0333,
+      "isCapital": false,
+      "population": 154660
+    },
+    {
+      "name": "Dhangadhi",
+      "lat": 28.7,
+      "lng": 80.6,
+      "isCapital": false,
+      "population": 147741
+    }
+  ]
+}

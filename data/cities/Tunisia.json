@@ -1,0 +1,75 @@
+{
+  "country": "Tunisia",
+  "cities": [
+    {
+      "name": "Tunis",
+      "lat": 36.8065,
+      "lng": 10.1815,
+      "isCapital": true,
+      "population": 638845
+    },
+    {
+      "name": "Sfax",
+      "lat": 34.7406,
+      "lng": 10.7603,
+      "isCapital": false,
+      "population": 330440
+    },
+    {
+      "name": "Sousse",
+      "lat": 35.8254,
+      "lng": 10.6346,
+      "isCapital": false,
+      "population": 271428
+    },
+    {
+      "name": "Kairouan",
+      "lat": 35.6781,
+      "lng": 10.0963,
+      "isCapital": false,
+      "population": 186653
+    },
+    {
+      "name": "Bizerte",
+      "lat": 37.2744,
+      "lng": 9.8739,
+      "isCapital": false,
+      "population": 142966
+    },
+    {
+      "name": "Gabès",
+      "lat": 33.8814,
+      "lng": 10.0982,
+      "isCapital": false,
+      "population": 152921
+    },
+    {
+      "name": "Ariana",
+      "lat": 36.8665,
+      "lng": 10.1956,
+      "isCapital": false,
+      "population": 114486
+    },
+    {
+      "name": "Gafsa",
+      "lat": 34.425,
+      "lng": 8.7842,
+      "isCapital": false,
+      "population": 111170
+    },
+    {
+      "name": "Ben Arous",
+      "lat": 36.75,
+      "lng": 10.2167,
+      "isCapital": false,
+      "population": 88322
+    },
+    {
+      "name": "La Goulette",
+      "lat": 36.8167,
+      "lng": 10.3,
+      "isCapital": false,
+      "population": 45711
+    }
+  ]
+}

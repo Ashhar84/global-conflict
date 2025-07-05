@@ -1,0 +1,75 @@
+{
+  "country": "Micronesia",
+  "cities": [
+    {
+      "name": "Palikir",
+      "lat": 6.9178,
+      "lng": 158.161,
+      "isCapital": true,
+      "population": 6647
+    },
+    {
+      "name": "Weno",
+      "lat": 7.45,
+      "lng": 151.85,
+      "isCapital": false,
+      "population": 13856
+    },
+    {
+      "name": "Kolonia",
+      "lat": 6.9667,
+      "lng": 158.2167,
+      "isCapital": false,
+      "population": 6074
+    },
+    {
+      "name": "Tofol",
+      "lat": 5.3167,
+      "lng": 163.0,
+      "isCapital": false,
+      "population": 2500
+    },
+    {
+      "name": "Colonia",
+      "lat": 9.5167,
+      "lng": 138.1167,
+      "isCapital": false,
+      "population": 3126
+    },
+    {
+      "name": "Lelu",
+      "lat": 5.3333,
+      "lng": 163.0167,
+      "isCapital": false,
+      "population": 2800
+    },
+    {
+      "name": "Madolenihmw",
+      "lat": 6.8667,
+      "lng": 158.3,
+      "isCapital": false,
+      "population": 5420
+    },
+    {
+      "name": "U",
+      "lat": 6.9333,
+      "lng": 158.2333,
+      "isCapital": false,
+      "population": 3001
+    },
+    {
+      "name": "Tol",
+      "lat": 7.3333,
+      "lng": 151.6167,
+      "isCapital": false,
+      "population": 4815
+    },
+    {
+      "name": "Fefan",
+      "lat": 7.35,
+      "lng": 151.8167,
+      "isCapital": false,
+      "population": 4062
+    }
+  ]
+}

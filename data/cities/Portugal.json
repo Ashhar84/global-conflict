@@ -1,0 +1,75 @@
+{
+  "country": "Portugal",
+  "cities": [
+    {
+      "name": "Lisbon",
+      "lat": 38.7223,
+      "lng": -9.1393,
+      "isCapital": true,
+      "population": 504718
+    },
+    {
+      "name": "Porto",
+      "lat": 41.1579,
+      "lng": -8.6291,
+      "isCapital": false,
+      "population": 214349
+    },
+    {
+      "name": "Vila Nova de Gaia",
+      "lat": 41.1333,
+      "lng": -8.6167,
+      "isCapital": false,
+      "population": 186502
+    },
+    {
+      "name": "Amadora",
+      "lat": 38.75,
+      "lng": -9.2333,
+      "isCapital": false,
+      "population": 175136
+    },
+    {
+      "name": "Braga",
+      "lat": 41.5503,
+      "lng": -8.42,
+      "isCapital": false,
+      "population": 136885
+    },
+    {
+      "name": "Funchal",
+      "lat": 32.65,
+      "lng": -16.9,
+      "isCapital": false,
+      "population": 105795
+    },
+    {
+      "name": "Coimbra",
+      "lat": 40.2033,
+      "lng": -8.4103,
+      "isCapital": false,
+      "population": 105842
+    },
+    {
+      "name": "Setúbal",
+      "lat": 38.5244,
+      "lng": -8.8926,
+      "isCapital": false,
+      "population": 89303
+    },
+    {
+      "name": "Almada",
+      "lat": 38.6833,
+      "lng": -9.15,
+      "isCapital": false,
+      "population": 174030
+    },
+    {
+      "name": "Agualva-Cacém",
+      "lat": 38.7667,
+      "lng": -9.3,
+      "isCapital": false,
+      "population": 81845
+    }
+  ]
+}

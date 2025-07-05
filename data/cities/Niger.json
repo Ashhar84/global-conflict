@@ -1,0 +1,75 @@
+{
+  "country": "Niger",
+  "cities": [
+    {
+      "name": "Niamey",
+      "lat": 13.5116,
+      "lng": 2.1254,
+      "isCapital": true,
+      "population": 1321000
+    },
+    {
+      "name": "Zinder",
+      "lat": 13.8,
+      "lng": 8.9833,
+      "isCapital": false,
+      "population": 235605
+    },
+    {
+      "name": "Maradi",
+      "lat": 13.5,
+      "lng": 7.1,
+      "isCapital": false,
+      "population": 267249
+    },
+    {
+      "name": "Agadez",
+      "lat": 16.9667,
+      "lng": 7.9833,
+      "isCapital": false,
+      "population": 110497
+    },
+    {
+      "name": "Tahoua",
+      "lat": 14.8833,
+      "lng": 5.2667,
+      "isCapital": false,
+      "population": 117826
+    },
+    {
+      "name": "Dosso",
+      "lat": 13.05,
+      "lng": 3.2,
+      "isCapital": false,
+      "population": 58671
+    },
+    {
+      "name": "Diffa",
+      "lat": 13.3167,
+      "lng": 12.6167,
+      "isCapital": false,
+      "population": 39960
+    },
+    {
+      "name": "Tillabéri",
+      "lat": 14.2,
+      "lng": 1.45,
+      "isCapital": false,
+      "population": 50000
+    },
+    {
+      "name": "Tessaoua",
+      "lat": 13.75,
+      "lng": 7.9833,
+      "isCapital": false,
+      "population": 43409
+    },
+    {
+      "name": "Arlit",
+      "lat": 18.7333,
+      "lng": 7.3833,
+      "isCapital": false,
+      "population": 78651
+    }
+  ]
+}

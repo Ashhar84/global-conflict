@@ -1,0 +1,75 @@
+{
+  "country": "Tajikistan",
+  "cities": [
+    {
+      "name": "Dushanbe",
+      "lat": 38.5598,
+      "lng": 68.787,
+      "isCapital": true,
+      "population": 863400
+    },
+    {
+      "name": "Khujand",
+      "lat": 40.2833,
+      "lng": 69.6167,
+      "isCapital": false,
+      "population": 181600
+    },
+    {
+      "name": "Bokhtar",
+      "lat": 37.8333,
+      "lng": 68.7833,
+      "isCapital": false,
+      "population": 110800
+    },
+    {
+      "name": "Kulob",
+      "lat": 37.9167,
+      "lng": 69.7833,
+      "isCapital": false,
+      "population": 105500
+    },
+    {
+      "name": "Istaravshan",
+      "lat": 39.9167,
+      "lng": 69.0,
+      "isCapital": false,
+      "population": 65600
+    },
+    {
+      "name": "Tursunzoda",
+      "lat": 38.5167,
+      "lng": 68.2167,
+      "isCapital": false,
+      "population": 53700
+    },
+    {
+      "name": "Konibodom",
+      "lat": 40.2833,
+      "lng": 70.4167,
+      "isCapital": false,
+      "population": 52500
+    },
+    {
+      "name": "Isfara",
+      "lat": 40.1167,
+      "lng": 70.6333,
+      "isCapital": false,
+      "population": 51700
+    },
+    {
+      "name": "Panjakent",
+      "lat": 39.5,
+      "lng": 67.6167,
+      "isCapital": false,
+      "population": 42800
+    },
+    {
+      "name": "Vahdat",
+      "lat": 38.55,
+      "lng": 69.0167,
+      "isCapital": false,
+      "population": 42700
+    }
+  ]
+}

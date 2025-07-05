@@ -1,0 +1,75 @@
+{
+  "country": "Ukraine",
+  "cities": [
+    {
+      "name": "Kyiv",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "isCapital": true,
+      "population": 2962180
+    },
+    {
+      "name": "Kharkiv",
+      "lat": 49.9935,
+      "lng": 36.2304,
+      "isCapital": false,
+      "population": 1433886
+    },
+    {
+      "name": "Odesa",
+      "lat": 46.4825,
+      "lng": 30.7233,
+      "isCapital": false,
+      "population": 1015826
+    },
+    {
+      "name": "Dnipro",
+      "lat": 48.4647,
+      "lng": 35.0462,
+      "isCapital": false,
+      "population": 980962
+    },
+    {
+      "name": "Donetsk",
+      "lat": 48.0159,
+      "lng": 37.8028,
+      "isCapital": false,
+      "population": 905364
+    },
+    {
+      "name": "Zaporizhzhia",
+      "lat": 47.8388,
+      "lng": 35.1396,
+      "isCapital": false,
+      "population": 722713
+    },
+    {
+      "name": "Lviv",
+      "lat": 49.8397,
+      "lng": 24.0297,
+      "isCapital": false,
+      "population": 721301
+    },
+    {
+      "name": "Kryvyi Rih",
+      "lat": 47.9104,
+      "lng": 33.3918,
+      "isCapital": false,
+      "population": 612750
+    },
+    {
+      "name": "Mykolaiv",
+      "lat": 46.975,
+      "lng": 31.9946,
+      "isCapital": false,
+      "population": 476101
+    },
+    {
+      "name": "Mariupol",
+      "lat": 47.0964,
+      "lng": 37.5433,
+      "isCapital": false,
+      "population": 431859
+    }
+  ]
+}

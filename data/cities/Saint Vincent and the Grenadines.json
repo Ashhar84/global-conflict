@@ -1,0 +1,75 @@
+{
+  "country": "Saint Vincent and the Grenadines",
+  "cities": [
+    {
+      "name": "Kingstown",
+      "lat": 13.15,
+      "lng": -61.2167,
+      "isCapital": true,
+      "population": 16500
+    },
+    {
+      "name": "Georgetown",
+      "lat": 13.2833,
+      "lng": -61.1167,
+      "isCapital": false,
+      "population": 1680
+    },
+    {
+      "name": "Byera Village",
+      "lat": 13.25,
+      "lng": -61.1167,
+      "isCapital": false,
+      "population": 1365
+    },
+    {
+      "name": "Port Elizabeth",
+      "lat": 13.0167,
+      "lng": -61.2333,
+      "isCapital": false,
+      "population": 839
+    },
+    {
+      "name": "Chateaubelair",
+      "lat": 13.2833,
+      "lng": -61.2333,
+      "isCapital": false,
+      "population": 735
+    },
+    {
+      "name": "Barrouallie",
+      "lat": 13.2333,
+      "lng": -61.2667,
+      "isCapital": false,
+      "population": 1035
+    },
+    {
+      "name": "Layou",
+      "lat": 13.2,
+      "lng": -61.2667,
+      "isCapital": false,
+      "population": 900
+    },
+    {
+      "name": "Calliaqua",
+      "lat": 13.1167,
+      "lng": -61.2,
+      "isCapital": false,
+      "population": 1000
+    },
+    {
+      "name": "Hamilton",
+      "lat": 12.9833,
+      "lng": -61.2333,
+      "isCapital": false,
+      "population": 600
+    },
+    {
+      "name": "Dovers",
+      "lat": 12.8667,
+      "lng": -61.25,
+      "isCapital": false,
+      "population": 500
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Taiwan",
+  "cities": [
+    {
+      "name": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
+      "isCapital": true,
+      "population": 2646204
+    },
+    {
+      "name": "New Taipei City",
+      "lat": 25.0167,
+      "lng": 121.4667,
+      "isCapital": false,
+      "population": 4030954
+    },
+    {
+      "name": "Kaohsiung",
+      "lat": 22.6273,
+      "lng": 120.3014,
+      "isCapital": false,
+      "population": 2773483
+    },
+    {
+      "name": "Taichung",
+      "lat": 24.1477,
+      "lng": 120.6736,
+      "isCapital": false,
+      "population": 2820787
+    },
+    {
+      "name": "Tainan",
+      "lat": 22.9997,
+      "lng": 120.227,
+      "isCapital": false,
+      "population": 1880906
+    },
+    {
+      "name": "Taoyuan",
+      "lat": 24.9936,
+      "lng": 121.298,
+      "isCapital": false,
+      "population": 2268657
+    },
+    {
+      "name": "Hsinchu",
+      "lat": 24.8036,
+      "lng": 120.9686,
+      "isCapital": false,
+      "population": 451429
+    },
+    {
+      "name": "Keelung",
+      "lat": 25.1283,
+      "lng": 121.7419,
+      "isCapital": false,
+      "population": 368577
+    },
+    {
+      "name": "Chiayi",
+      "lat": 23.48,
+      "lng": 120.449,
+      "isCapital": false,
+      "population": 268622
+    },
+    {
+      "name": "Changhua",
+      "lat": 24.0833,
+      "lng": 120.5333,
+      "isCapital": false,
+      "population": 232938
+    }
+  ]
+}

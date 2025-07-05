@@ -1,0 +1,75 @@
+{
+  "country": "Papua New Guinea",
+  "cities": [
+    {
+      "name": "Port Moresby",
+      "lat": -9.4438,
+      "lng": 147.1803,
+      "isCapital": true,
+      "population": 364125
+    },
+    {
+      "name": "Lae",
+      "lat": -6.7167,
+      "lng": 147.0,
+      "isCapital": false,
+      "population": 100677
+    },
+    {
+      "name": "Mount Hagen",
+      "lat": -5.85,
+      "lng": 144.2333,
+      "isCapital": false,
+      "population": 46256
+    },
+    {
+      "name": "Madang",
+      "lat": -5.2167,
+      "lng": 145.8,
+      "isCapital": false,
+      "population": 27419
+    },
+    {
+      "name": "Wewak",
+      "lat": -3.55,
+      "lng": 143.6333,
+      "isCapital": false,
+      "population": 25143
+    },
+    {
+      "name": "Goroka",
+      "lat": -6.0833,
+      "lng": 145.3833,
+      "isCapital": false,
+      "population": 21507
+    },
+    {
+      "name": "Kimbe",
+      "lat": -5.55,
+      "lng": 150.15,
+      "isCapital": false,
+      "population": 18847
+    },
+    {
+      "name": "Daru",
+      "lat": -9.0833,
+      "lng": 143.2,
+      "isCapital": false,
+      "population": 15214
+    },
+    {
+      "name": "Alotau",
+      "lat": -10.3167,
+      "lng": 150.45,
+      "isCapital": false,
+      "population": 15939
+    },
+    {
+      "name": "Popondetta",
+      "lat": -8.7667,
+      "lng": 148.2333,
+      "isCapital": false,
+      "population": 49224
+    }
+  ]
+}

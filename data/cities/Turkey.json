@@ -1,0 +1,75 @@
+{
+  "country": "Turkey",
+  "cities": [
+    {
+      "name": "Ankara",
+      "lat": 39.9334,
+      "lng": 32.8597,
+      "isCapital": true,
+      "population": 5150000
+    },
+    {
+      "name": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "isCapital": false,
+      "population": 15460000
+    },
+    {
+      "name": "İzmir",
+      "lat": 38.4237,
+      "lng": 27.1428,
+      "isCapital": false,
+      "population": 2947000
+    },
+    {
+      "name": "Bursa",
+      "lat": 40.1885,
+      "lng": 29.061,
+      "isCapital": false,
+      "population": 3056120
+    },
+    {
+      "name": "Adana",
+      "lat": 37.0,
+      "lng": 35.3213,
+      "isCapital": false,
+      "population": 1768860
+    },
+    {
+      "name": "Gaziantep",
+      "lat": 37.0662,
+      "lng": 37.3833,
+      "isCapital": false,
+      "population": 2069364
+    },
+    {
+      "name": "Konya",
+      "lat": 37.8746,
+      "lng": 32.4932,
+      "isCapital": false,
+      "population": 2232374
+    },
+    {
+      "name": "Antalya",
+      "lat": 36.8969,
+      "lng": 30.7133,
+      "isCapital": false,
+      "population": 2426356
+    },
+    {
+      "name": "Diyarbakır",
+      "lat": 37.9108,
+      "lng": 40.2332,
+      "isCapital": false,
+      "population": 1004351
+    },
+    {
+      "name": "Mersin",
+      "lat": 36.8121,
+      "lng": 34.6415,
+      "isCapital": false,
+      "population": 1040507
+    }
+  ]
+}

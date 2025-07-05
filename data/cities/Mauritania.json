@@ -1,0 +1,75 @@
+{
+  "country": "Mauritania",
+  "cities": [
+    {
+      "name": "Nouakchott",
+      "lat": 18.0858,
+      "lng": -15.9785,
+      "isCapital": true,
+      "population": 958399
+    },
+    {
+      "name": "Nouadhibou",
+      "lat": 20.9333,
+      "lng": -17.0333,
+      "isCapital": false,
+      "population": 118167
+    },
+    {
+      "name": "Kiffa",
+      "lat": 16.6167,
+      "lng": -11.4,
+      "isCapital": false,
+      "population": 60005
+    },
+    {
+      "name": "Kaédi",
+      "lat": 16.15,
+      "lng": -13.5,
+      "isCapital": false,
+      "population": 45539
+    },
+    {
+      "name": "Zouérat",
+      "lat": 22.7167,
+      "lng": -12.45,
+      "isCapital": false,
+      "population": 44649
+    },
+    {
+      "name": "Rosso",
+      "lat": 16.5167,
+      "lng": -15.8,
+      "isCapital": false,
+      "population": 51026
+    },
+    {
+      "name": "Atar",
+      "lat": 20.5167,
+      "lng": -13.05,
+      "isCapital": false,
+      "population": 25190
+    },
+    {
+      "name": "Néma",
+      "lat": 16.6167,
+      "lng": -7.25,
+      "isCapital": false,
+      "population": 21708
+    },
+    {
+      "name": "Boutilimit",
+      "lat": 17.55,
+      "lng": -14.7,
+      "isCapital": false,
+      "population": 22257
+    },
+    {
+      "name": "Aleg",
+      "lat": 17.05,
+      "lng": -13.9167,
+      "isCapital": false,
+      "population": 15521
+    }
+  ]
+}

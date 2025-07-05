@@ -1,0 +1,75 @@
+{
+  "country": "Netherlands",
+  "cities": [
+    {
+      "name": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "isCapital": true,
+      "population": 872680
+    },
+    {
+      "name": "Rotterdam",
+      "lat": 51.9244,
+      "lng": 4.4777,
+      "isCapital": false,
+      "population": 651446
+    },
+    {
+      "name": "The Hague",
+      "lat": 52.0705,
+      "lng": 4.3007,
+      "isCapital": false,
+      "population": 544766
+    },
+    {
+      "name": "Utrecht",
+      "lat": 52.0907,
+      "lng": 5.1214,
+      "isCapital": false,
+      "population": 357179
+    },
+    {
+      "name": "Eindhoven",
+      "lat": 51.4416,
+      "lng": 5.4697,
+      "isCapital": false,
+      "population": 234235
+    },
+    {
+      "name": "Tilburg",
+      "lat": 51.5555,
+      "lng": 5.0913,
+      "isCapital": false,
+      "population": 217595
+    },
+    {
+      "name": "Groningen",
+      "lat": 53.2194,
+      "lng": 6.5665,
+      "isCapital": false,
+      "population": 232824
+    },
+    {
+      "name": "Almere",
+      "lat": 52.375,
+      "lng": 5.22,
+      "isCapital": false,
+      "population": 211893
+    },
+    {
+      "name": "Breda",
+      "lat": 51.5833,
+      "lng": 4.775,
+      "isCapital": false,
+      "population": 183873
+    },
+    {
+      "name": "Nijmegen",
+      "lat": 51.8126,
+      "lng": 5.8372,
+      "isCapital": false,
+      "population": 177659
+    }
+  ]
+}

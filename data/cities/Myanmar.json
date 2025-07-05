@@ -1,0 +1,75 @@
+{
+  "country": "Myanmar",
+  "cities": [
+    {
+      "name": "Naypyidaw",
+      "lat": 19.7633,
+      "lng": 96.0785,
+      "isCapital": true,
+      "population": 1160242
+    },
+    {
+      "name": "Yangon",
+      "lat": 16.8409,
+      "lng": 96.1735,
+      "isCapital": false,
+      "population": 5430000
+    },
+    {
+      "name": "Mandalay",
+      "lat": 21.9587,
+      "lng": 96.0891,
+      "isCapital": false,
+      "population": 1225546
+    },
+    {
+      "name": "Mawlamyine",
+      "lat": 16.4833,
+      "lng": 97.6333,
+      "isCapital": false,
+      "population": 491130
+    },
+    {
+      "name": "Bago",
+      "lat": 17.3333,
+      "lng": 96.4833,
+      "isCapital": false,
+      "population": 288125
+    },
+    {
+      "name": "Pathein",
+      "lat": 16.7833,
+      "lng": 94.7333,
+      "isCapital": false,
+      "population": 287071
+    },
+    {
+      "name": "Monywa",
+      "lat": 22.1167,
+      "lng": 95.1333,
+      "isCapital": false,
+      "population": 371963
+    },
+    {
+      "name": "Sittwe",
+      "lat": 20.15,
+      "lng": 92.9,
+      "isCapital": false,
+      "population": 147899
+    },
+    {
+      "name": "Taunggyi",
+      "lat": 20.7833,
+      "lng": 97.0333,
+      "isCapital": false,
+      "population": 380665
+    },
+    {
+      "name": "Meiktila",
+      "lat": 20.8833,
+      "lng": 95.8667,
+      "isCapital": false,
+      "population": 309465
+    }
+  ]
+}

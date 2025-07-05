@@ -1,0 +1,75 @@
+{
+  "country": "Syria",
+  "cities": [
+    {
+      "name": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.2765,
+      "isCapital": true,
+      "population": 2079000
+    },
+    {
+      "name": "Aleppo",
+      "lat": 36.2021,
+      "lng": 37.1594,
+      "isCapital": false,
+      "population": 1800000
+    },
+    {
+      "name": "Homs",
+      "lat": 34.7333,
+      "lng": 36.7167,
+      "isCapital": false,
+      "population": 775404
+    },
+    {
+      "name": "Latakia",
+      "lat": 35.5167,
+      "lng": 35.7833,
+      "isCapital": false,
+      "population": 383786
+    },
+    {
+      "name": "Hama",
+      "lat": 35.1333,
+      "lng": 36.75,
+      "isCapital": false,
+      "population": 312994
+    },
+    {
+      "name": "Raqqa",
+      "lat": 35.95,
+      "lng": 39.0167,
+      "isCapital": false,
+      "population": 220488
+    },
+    {
+      "name": "Deir ez-Zor",
+      "lat": 35.3333,
+      "lng": 40.1333,
+      "isCapital": false,
+      "population": 211857
+    },
+    {
+      "name": "Al-Hasakah",
+      "lat": 36.5,
+      "lng": 40.75,
+      "isCapital": false,
+      "population": 188160
+    },
+    {
+      "name": "Qamishli",
+      "lat": 37.05,
+      "lng": 41.2167,
+      "isCapital": false,
+      "population": 184231
+    },
+    {
+      "name": "Tartus",
+      "lat": 34.8833,
+      "lng": 35.8833,
+      "isCapital": false,
+      "population": 115769
+    }
+  ]
+}

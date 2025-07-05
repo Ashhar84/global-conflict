@@ -1,0 +1,75 @@
+{
+  "country": "Qatar",
+  "cities": [
+    {
+      "name": "Doha",
+      "lat": 25.2854,
+      "lng": 51.531,
+      "isCapital": true,
+      "population": 2382000
+    },
+    {
+      "name": "Al Rayyan",
+      "lat": 25.2833,
+      "lng": 51.4167,
+      "isCapital": false,
+      "population": 605712
+    },
+    {
+      "name": "Umm Salal Mohammed",
+      "lat": 25.4167,
+      "lng": 51.4,
+      "isCapital": false,
+      "population": 90835
+    },
+    {
+      "name": "Al Wakrah",
+      "lat": 25.1667,
+      "lng": 51.6,
+      "isCapital": false,
+      "population": 87970
+    },
+    {
+      "name": "Al Khor",
+      "lat": 25.6833,
+      "lng": 51.5,
+      "isCapital": false,
+      "population": 31547
+    },
+    {
+      "name": "Ash Shahaniyah",
+      "lat": 25.3667,
+      "lng": 51.2167,
+      "isCapital": false,
+      "population": 11000
+    },
+    {
+      "name": "Dukhan",
+      "lat": 25.4167,
+      "lng": 50.7833,
+      "isCapital": false,
+      "population": 11520
+    },
+    {
+      "name": "Al Wukair",
+      "lat": 25.15,
+      "lng": 51.5333,
+      "isCapital": false,
+      "population": 5146
+    },
+    {
+      "name": "Ar Ruways",
+      "lat": 26.1333,
+      "lng": 51.2167,
+      "isCapital": false,
+      "population": 3247
+    },
+    {
+      "name": "Lusail",
+      "lat": 25.4167,
+      "lng": 51.5333,
+      "isCapital": false,
+      "population": 198600
+    }
+  ]
+}

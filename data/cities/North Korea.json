@@ -1,0 +1,75 @@
+{
+  "country": "North Korea",
+  "cities": [
+    {
+      "name": "Pyongyang",
+      "lat": 39.0392,
+      "lng": 125.7625,
+      "isCapital": true,
+      "population": 2870000
+    },
+    {
+      "name": "Hamhung",
+      "lat": 39.9167,
+      "lng": 127.5333,
+      "isCapital": false,
+      "population": 768551
+    },
+    {
+      "name": "Chongjin",
+      "lat": 41.7667,
+      "lng": 129.7667,
+      "isCapital": false,
+      "population": 667929
+    },
+    {
+      "name": "Nampo",
+      "lat": 38.7333,
+      "lng": 125.4,
+      "isCapital": false,
+      "population": 310864
+    },
+    {
+      "name": "Wonsan",
+      "lat": 39.15,
+      "lng": 127.4333,
+      "isCapital": false,
+      "population": 363127
+    },
+    {
+      "name": "Sinuiju",
+      "lat": 40.1,
+      "lng": 124.4,
+      "isCapital": false,
+      "population": 359341
+    },
+    {
+      "name": "Tanchon",
+      "lat": 40.45,
+      "lng": 128.9167,
+      "isCapital": false,
+      "population": 345875
+    },
+    {
+      "name": "Kaechon",
+      "lat": 39.7,
+      "lng": 125.9,
+      "isCapital": false,
+      "population": 319554
+    },
+    {
+      "name": "Kaesong",
+      "lat": 37.9667,
+      "lng": 126.55,
+      "isCapital": false,
+      "population": 308440
+    },
+    {
+      "name": "Sariwon",
+      "lat": 38.5,
+      "lng": 125.75,
+      "isCapital": false,
+      "population": 307764
+    }
+  ]
+}

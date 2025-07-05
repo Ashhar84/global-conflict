@@ -1,0 +1,75 @@
+{
+  "country": "Rwanda",
+  "cities": [
+    {
+      "name": "Kigali",
+      "lat": -1.9441,
+      "lng": 30.0619,
+      "isCapital": true,
+      "population": 1132686
+    },
+    {
+      "name": "Gisenyi",
+      "lat": -1.7,
+      "lng": 29.25,
+      "isCapital": false,
+      "population": 136830
+    },
+    {
+      "name": "Ruhengeri",
+      "lat": -1.5,
+      "lng": 29.6333,
+      "isCapital": false,
+      "population": 59333
+    },
+    {
+      "name": "Butare",
+      "lat": -2.6,
+      "lng": 29.7333,
+      "isCapital": false,
+      "population": 50220
+    },
+    {
+      "name": "Gitarama",
+      "lat": -2.0833,
+      "lng": 29.75,
+      "isCapital": false,
+      "population": 49038
+    },
+    {
+      "name": "Byumba",
+      "lat": -1.5833,
+      "lng": 30.0667,
+      "isCapital": false,
+      "population": 34544
+    },
+    {
+      "name": "Cyangugu",
+      "lat": -2.4833,
+      "lng": 28.9,
+      "isCapital": false,
+      "population": 27416
+    },
+    {
+      "name": "Kibuye",
+      "lat": -2.05,
+      "lng": 29.35,
+      "isCapital": false,
+      "population": 12325
+    },
+    {
+      "name": "Rwamagana",
+      "lat": -1.95,
+      "lng": 30.4333,
+      "isCapital": false,
+      "population": 18000
+    },
+    {
+      "name": "Kibungo",
+      "lat": -2.1667,
+      "lng": 30.5333,
+      "isCapital": false,
+      "population": 11537
+    }
+  ]
+}

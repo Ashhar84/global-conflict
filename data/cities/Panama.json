@@ -1,0 +1,75 @@
+{
+  "country": "Panama",
+  "cities": [
+    {
+      "name": "Panama City",
+      "lat": 8.9833,
+      "lng": -79.5167,
+      "isCapital": true,
+      "population": 880691
+    },
+    {
+      "name": "San Miguelito",
+      "lat": 9.0333,
+      "lng": -79.5,
+      "isCapital": false,
+      "population": 315019
+    },
+    {
+      "name": "Tocumen",
+      "lat": 9.0833,
+      "lng": -79.3833,
+      "isCapital": false,
+      "population": 113174
+    },
+    {
+      "name": "David",
+      "lat": 8.4333,
+      "lng": -82.4333,
+      "isCapital": false,
+      "population": 82907
+    },
+    {
+      "name": "Colón",
+      "lat": 9.35,
+      "lng": -79.9,
+      "isCapital": false,
+      "population": 78000
+    },
+    {
+      "name": "La Chorrera",
+      "lat": 8.8833,
+      "lng": -79.7833,
+      "isCapital": false,
+      "population": 68896
+    },
+    {
+      "name": "Pacora",
+      "lat": 9.0833,
+      "lng": -79.3,
+      "isCapital": false,
+      "population": 67460
+    },
+    {
+      "name": "Santiago de Veraguas",
+      "lat": 8.1,
+      "lng": -80.9667,
+      "isCapital": false,
+      "population": 31065
+    },
+    {
+      "name": "Chitré",
+      "lat": 7.9667,
+      "lng": -80.4333,
+      "isCapital": false,
+      "population": 9092
+    },
+    {
+      "name": "Arraiján",
+      "lat": 8.95,
+      "lng": -79.65,
+      "isCapital": false,
+      "population": 61849
+    }
+  ]
+}
