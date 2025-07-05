@@ -1,0 +1,75 @@
+{
+  "country": "Bhutan",
+  "cities": [
+    {
+      "name": "Thimphu",
+      "lat": 27.4712,
+      "lng": 89.6339,
+      "isCapital": true,
+      "population": 114551
+    },
+    {
+      "name": "Phuntsholing",
+      "lat": 26.85,
+      "lng": 89.3833,
+      "isCapital": false,
+      "population": 27658
+    },
+    {
+      "name": "Paro",
+      "lat": 27.4286,
+      "lng": 89.4186,
+      "isCapital": false,
+      "population": 11448
+    },
+    {
+      "name": "Punakha",
+      "lat": 27.5833,
+      "lng": 89.8667,
+      "isCapital": false,
+      "population": 6262
+    },
+    {
+      "name": "Jakar",
+      "lat": 27.55,
+      "lng": 90.75,
+      "isCapital": false,
+      "population": 6243
+    },
+    {
+      "name": "Wangdue Phodrang",
+      "lat": 27.4833,
+      "lng": 89.9,
+      "isCapital": false,
+      "population": 8954
+    },
+    {
+      "name": "Trongsa",
+      "lat": 27.5,
+      "lng": 90.5,
+      "isCapital": false,
+      "population": 3123
+    },
+    {
+      "name": "Mongar",
+      "lat": 27.2667,
+      "lng": 91.2333,
+      "isCapital": false,
+      "population": 3502
+    },
+    {
+      "name": "Trashigang",
+      "lat": 27.3333,
+      "lng": 91.55,
+      "isCapital": false,
+      "population": 3032
+    },
+    {
+      "name": "Samdrup Jongkhar",
+      "lat": 26.8,
+      "lng": 91.5,
+      "isCapital": false,
+      "population": 9325
+    }
+  ]
+}

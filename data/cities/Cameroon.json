@@ -1,0 +1,75 @@
+{
+  "country": "Cameroon",
+  "cities": [
+    {
+      "name": "Yaoundé",
+      "lat": 3.848,
+      "lng": 11.5021,
+      "isCapital": true,
+      "population": 2765600
+    },
+    {
+      "name": "Douala",
+      "lat": 4.0511,
+      "lng": 9.7679,
+      "isCapital": false,
+      "population": 2768400
+    },
+    {
+      "name": "Bamenda",
+      "lat": 5.9667,
+      "lng": 10.15,
+      "isCapital": false,
+      "population": 500000
+    },
+    {
+      "name": "Bafoussam",
+      "lat": 5.4667,
+      "lng": 10.4167,
+      "isCapital": false,
+      "population": 347517
+    },
+    {
+      "name": "Garoua",
+      "lat": 9.3,
+      "lng": 13.4,
+      "isCapital": false,
+      "population": 336892
+    },
+    {
+      "name": "Maroua",
+      "lat": 10.5833,
+      "lng": 14.3167,
+      "isCapital": false,
+      "population": 301371
+    },
+    {
+      "name": "Ngaoundéré",
+      "lat": 7.3167,
+      "lng": 13.5833,
+      "isCapital": false,
+      "population": 298012
+    },
+    {
+      "name": "Kumba",
+      "lat": 4.6333,
+      "lng": 9.45,
+      "isCapital": false,
+      "population": 400000
+    },
+    {
+      "name": "Buea",
+      "lat": 4.1569,
+      "lng": 9.2319,
+      "isCapital": false,
+      "population": 300000
+    },
+    {
+      "name": "Nkongsamba",
+      "lat": 4.95,
+      "lng": 9.9333,
+      "isCapital": false,
+      "population": 135405
+    }
+  ]
+}

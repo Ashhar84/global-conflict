@@ -1,0 +1,75 @@
+{
+  "country": "Belize",
+  "cities": [
+    {
+      "name": "Belmopan",
+      "lat": 17.251,
+      "lng": -88.759,
+      "isCapital": true,
+      "population": 16451
+    },
+    {
+      "name": "Belize City",
+      "lat": 17.4995,
+      "lng": -88.1976,
+      "isCapital": false,
+      "population": 57169
+    },
+    {
+      "name": "San Ignacio",
+      "lat": 17.1525,
+      "lng": -89.0775,
+      "isCapital": false,
+      "population": 17878
+    },
+    {
+      "name": "Orange Walk Town",
+      "lat": 18.0828,
+      "lng": -88.5631,
+      "isCapital": false,
+      "population": 13400
+    },
+    {
+      "name": "Dangriga",
+      "lat": 16.9697,
+      "lng": -88.2331,
+      "isCapital": false,
+      "population": 9096
+    },
+    {
+      "name": "Corozal Town",
+      "lat": 18.3939,
+      "lng": -88.3886,
+      "isCapital": false,
+      "population": 9871
+    },
+    {
+      "name": "San Pedro",
+      "lat": 17.9158,
+      "lng": -87.9667,
+      "isCapital": false,
+      "population": 11445
+    },
+    {
+      "name": "Benque Viejo del Carmen",
+      "lat": 17.075,
+      "lng": -89.1392,
+      "isCapital": false,
+      "population": 5824
+    },
+    {
+      "name": "Punta Gorda",
+      "lat": 16.0989,
+      "lng": -88.8094,
+      "isCapital": false,
+      "population": 5205
+    },
+    {
+      "name": "Placencia",
+      "lat": 16.5139,
+      "lng": -88.3667,
+      "isCapital": false,
+      "population": 1512
+    }
+  ]
+}

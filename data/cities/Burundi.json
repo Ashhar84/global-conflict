@@ -1,0 +1,75 @@
+{
+  "country": "Burundi",
+  "cities": [
+    {
+      "name": "Gitega",
+      "lat": -3.4286,
+      "lng": 29.9247,
+      "isCapital": true,
+      "population": 41944
+    },
+    {
+      "name": "Bujumbura",
+      "lat": -3.3822,
+      "lng": 29.3644,
+      "isCapital": false,
+      "population": 1013424
+    },
+    {
+      "name": "Muyinga",
+      "lat": -2.8453,
+      "lng": 30.3414,
+      "isCapital": false,
+      "population": 100715
+    },
+    {
+      "name": "Ruyigi",
+      "lat": -3.4764,
+      "lng": 30.2494,
+      "isCapital": false,
+      "population": 44221
+    },
+    {
+      "name": "Ngozi",
+      "lat": -2.9075,
+      "lng": 29.825,
+      "isCapital": false,
+      "population": 39884
+    },
+    {
+      "name": "Rutana",
+      "lat": -3.9281,
+      "lng": 29.9925,
+      "isCapital": false,
+      "population": 23445
+    },
+    {
+      "name": "Bururi",
+      "lat": -3.95,
+      "lng": 29.6167,
+      "isCapital": false,
+      "population": 22400
+    },
+    {
+      "name": "Makamba",
+      "lat": -4.1333,
+      "lng": 29.8,
+      "isCapital": false,
+      "population": 20000
+    },
+    {
+      "name": "Kayanza",
+      "lat": -2.9236,
+      "lng": 29.6292,
+      "isCapital": false,
+      "population": 21767
+    },
+    {
+      "name": "Muramvya",
+      "lat": -3.2583,
+      "lng": 29.6083,
+      "isCapital": false,
+      "population": 20000
+    }
+  ]
+}

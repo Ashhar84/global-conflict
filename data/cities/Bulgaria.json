@@ -1,0 +1,75 @@
+{
+  "country": "Bulgaria",
+  "cities": [
+    {
+      "name": "Sofia",
+      "lat": 42.6977,
+      "lng": 23.3219,
+      "isCapital": true,
+      "population": 1242568
+    },
+    {
+      "name": "Plovdiv",
+      "lat": 42.1354,
+      "lng": 24.7453,
+      "isCapital": false,
+      "population": 346893
+    },
+    {
+      "name": "Varna",
+      "lat": 43.2141,
+      "lng": 27.9147,
+      "isCapital": false,
+      "population": 336505
+    },
+    {
+      "name": "Burgas",
+      "lat": 42.5048,
+      "lng": 27.4626,
+      "isCapital": false,
+      "population": 202442
+    },
+    {
+      "name": "Ruse",
+      "lat": 43.8411,
+      "lng": 25.9554,
+      "isCapital": false,
+      "population": 142902
+    },
+    {
+      "name": "Stara Zagora",
+      "lat": 42.4258,
+      "lng": 25.6247,
+      "isCapital": false,
+      "population": 135889
+    },
+    {
+      "name": "Pleven",
+      "lat": 43.4167,
+      "lng": 24.6167,
+      "isCapital": false,
+      "population": 98467
+    },
+    {
+      "name": "Sliven",
+      "lat": 42.6858,
+      "lng": 26.3292,
+      "isCapital": false,
+      "population": 86630
+    },
+    {
+      "name": "Dobrich",
+      "lat": 43.5667,
+      "lng": 27.8333,
+      "isCapital": false,
+      "population": 83584
+    },
+    {
+      "name": "Shumen",
+      "lat": 43.2833,
+      "lng": 26.9333,
+      "isCapital": false,
+      "population": 75442
+    }
+  ]
+}

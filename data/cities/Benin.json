@@ -1,0 +1,75 @@
+{
+  "country": "Benin",
+  "cities": [
+    {
+      "name": "Porto-Novo",
+      "lat": 6.4965,
+      "lng": 2.6036,
+      "isCapital": true,
+      "population": 264320
+    },
+    {
+      "name": "Cotonou",
+      "lat": 6.3654,
+      "lng": 2.4183,
+      "isCapital": false,
+      "population": 679012
+    },
+    {
+      "name": "Abomey-Calavi",
+      "lat": 6.4485,
+      "lng": 2.355,
+      "isCapital": false,
+      "population": 656358
+    },
+    {
+      "name": "Parakou",
+      "lat": 9.34,
+      "lng": 2.6303,
+      "isCapital": false,
+      "population": 255478
+    },
+    {
+      "name": "Djougou",
+      "lat": 9.7,
+      "lng": 1.6667,
+      "isCapital": false,
+      "population": 267812
+    },
+    {
+      "name": "Bohicon",
+      "lat": 7.1783,
+      "lng": 2.0667,
+      "isCapital": false,
+      "population": 171782
+    },
+    {
+      "name": "Kandi",
+      "lat": 11.1342,
+      "lng": 2.9386,
+      "isCapital": false,
+      "population": 179290
+    },
+    {
+      "name": "Lokossa",
+      "lat": 6.6333,
+      "lng": 1.7167,
+      "isCapital": false,
+      "population": 104961
+    },
+    {
+      "name": "Ouidah",
+      "lat": 6.3631,
+      "lng": 2.085,
+      "isCapital": false,
+      "population": 162034
+    },
+    {
+      "name": "Natitingou",
+      "lat": 10.3042,
+      "lng": 1.3797,
+      "isCapital": false,
+      "population": 103843
+    }
+  ]
+}

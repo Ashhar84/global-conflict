@@ -1,0 +1,75 @@
+{
+  "country": "Belgium",
+  "cities": [
+    {
+      "name": "Brussels",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "isCapital": true,
+      "population": 1218255
+    },
+    {
+      "name": "Antwerp",
+      "lat": 51.2194,
+      "lng": 4.4025,
+      "isCapital": false,
+      "population": 529247
+    },
+    {
+      "name": "Ghent",
+      "lat": 51.0543,
+      "lng": 3.7174,
+      "isCapital": false,
+      "population": 263925
+    },
+    {
+      "name": "Charleroi",
+      "lat": 50.412,
+      "lng": 4.4436,
+      "isCapital": false,
+      "population": 202421
+    },
+    {
+      "name": "Liège",
+      "lat": 50.6326,
+      "lng": 5.5797,
+      "isCapital": false,
+      "population": 197288
+    },
+    {
+      "name": "Bruges",
+      "lat": 51.2093,
+      "lng": 3.2247,
+      "isCapital": false,
+      "population": 118656
+    },
+    {
+      "name": "Namur",
+      "lat": 50.4674,
+      "lng": 4.872,
+      "isCapital": false,
+      "population": 111432
+    },
+    {
+      "name": "Leuven",
+      "lat": 50.8792,
+      "lng": 4.7009,
+      "isCapital": false,
+      "population": 102236
+    },
+    {
+      "name": "Mons",
+      "lat": 50.4542,
+      "lng": 3.9523,
+      "isCapital": false,
+      "population": 95299
+    },
+    {
+      "name": "Aalst",
+      "lat": 50.9383,
+      "lng": 4.0392,
+      "isCapital": false,
+      "population": 87332
+    }
+  ]
+}

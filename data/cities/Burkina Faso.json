@@ -1,0 +1,75 @@
+{
+  "country": "Burkina Faso",
+  "cities": [
+    {
+      "name": "Ouagadougou",
+      "lat": 12.3714,
+      "lng": -1.5197,
+      "isCapital": true,
+      "population": 2453496
+    },
+    {
+      "name": "Bobo-Dioulasso",
+      "lat": 11.1771,
+      "lng": -4.2979,
+      "isCapital": false,
+      "population": 903887
+    },
+    {
+      "name": "Koudougou",
+      "lat": 12.25,
+      "lng": -2.3667,
+      "isCapital": false,
+      "population": 160207
+    },
+    {
+      "name": "Ouahigouya",
+      "lat": 13.5833,
+      "lng": -2.4167,
+      "isCapital": false,
+      "population": 124580
+    },
+    {
+      "name": "Banfora",
+      "lat": 10.6333,
+      "lng": -4.7667,
+      "isCapital": false,
+      "population": 117200
+    },
+    {
+      "name": "Dédougou",
+      "lat": 12.4667,
+      "lng": -3.4667,
+      "isCapital": false,
+      "population": 95571
+    },
+    {
+      "name": "Kaya",
+      "lat": 13.0917,
+      "lng": -1.0844,
+      "isCapital": false,
+      "population": 122949
+    },
+    {
+      "name": "Tenkodogo",
+      "lat": 11.7833,
+      "lng": -0.3667,
+      "isCapital": false,
+      "population": 61936
+    },
+    {
+      "name": "Fada N'gourma",
+      "lat": 12.05,
+      "lng": 0.3667,
+      "isCapital": false,
+      "population": 73200
+    },
+    {
+      "name": "Dori",
+      "lat": 14.0333,
+      "lng": -0.0333,
+      "isCapital": false,
+      "population": 46561
+    }
+  ]
+}

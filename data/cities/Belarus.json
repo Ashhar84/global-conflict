@@ -1,0 +1,75 @@
+{
+  "country": "Belarus",
+  "cities": [
+    {
+      "name": "Minsk",
+      "lat": 53.9045,
+      "lng": 27.5615,
+      "isCapital": true,
+      "population": 2020600
+    },
+    {
+      "name": "Gomel",
+      "lat": 52.4345,
+      "lng": 30.9754,
+      "isCapital": false,
+      "population": 521452
+    },
+    {
+      "name": "Mogilev",
+      "lat": 53.9168,
+      "lng": 30.3449,
+      "isCapital": false,
+      "population": 357100
+    },
+    {
+      "name": "Vitebsk",
+      "lat": 55.1904,
+      "lng": 30.2053,
+      "isCapital": false,
+      "population": 362466
+    },
+    {
+      "name": "Grodno",
+      "lat": 53.6884,
+      "lng": 23.8258,
+      "isCapital": false,
+      "population": 356900
+    },
+    {
+      "name": "Brest",
+      "lat": 52.0976,
+      "lng": 23.7341,
+      "isCapital": false,
+      "population": 339700
+    },
+    {
+      "name": "Babruysk",
+      "lat": 53.144,
+      "lng": 29.236,
+      "isCapital": false,
+      "population": 212200
+    },
+    {
+      "name": "Baranovichy",
+      "lat": 53.132,
+      "lng": 26.014,
+      "isCapital": false,
+      "population": 179000
+    },
+    {
+      "name": "Pinsk",
+      "lat": 52.1229,
+      "lng": 26.1031,
+      "isCapital": false,
+      "population": 126300
+    },
+    {
+      "name": "Orsha",
+      "lat": 54.509,
+      "lng": 30.422,
+      "isCapital": false,
+      "population": 108100
+    }
+  ]
+}

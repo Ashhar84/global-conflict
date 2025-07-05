@@ -1,0 +1,75 @@
+{
+  "country": "Brazil",
+  "cities": [
+    {
+      "name": "Brasília",
+      "lat": -15.7942,
+      "lng": -47.8825,
+      "isCapital": true,
+      "population": 3055149
+    },
+    {
+      "name": "São Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
+      "isCapital": false,
+      "population": 12325232
+    },
+    {
+      "name": "Rio de Janeiro",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "isCapital": false,
+      "population": 6747815
+    },
+    {
+      "name": "Salvador",
+      "lat": -12.9777,
+      "lng": -38.5016,
+      "isCapital": false,
+      "population": 2886698
+    },
+    {
+      "name": "Fortaleza",
+      "lat": -3.7319,
+      "lng": -38.5267,
+      "isCapital": false,
+      "population": 2686612
+    },
+    {
+      "name": "Belo Horizonte",
+      "lat": -19.9167,
+      "lng": -43.9345,
+      "isCapital": false,
+      "population": 2521564
+    },
+    {
+      "name": "Manaus",
+      "lat": -3.119,
+      "lng": -60.0217,
+      "isCapital": false,
+      "population": 2219580
+    },
+    {
+      "name": "Curitiba",
+      "lat": -25.4284,
+      "lng": -49.2733,
+      "isCapital": false,
+      "population": 1948626
+    },
+    {
+      "name": "Recife",
+      "lat": -8.0476,
+      "lng": -34.877,
+      "isCapital": false,
+      "population": 1653461
+    },
+    {
+      "name": "Goiânia",
+      "lat": -16.6869,
+      "lng": -49.2648,
+      "isCapital": false,
+      "population": 1536093
+    }
+  ]
+}

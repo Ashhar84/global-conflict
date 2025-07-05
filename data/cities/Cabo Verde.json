@@ -1,0 +1,75 @@
+{
+  "country": "Cabo Verde",
+  "cities": [
+    {
+      "name": "Praia",
+      "lat": 14.9331,
+      "lng": -23.5133,
+      "isCapital": true,
+      "population": 159050
+    },
+    {
+      "name": "Mindelo",
+      "lat": 16.8901,
+      "lng": -24.9804,
+      "isCapital": false,
+      "population": 76140
+    },
+    {
+      "name": "Santa Maria",
+      "lat": 16.598,
+      "lng": -22.905,
+      "isCapital": false,
+      "population": 17231
+    },
+    {
+      "name": "Assomada",
+      "lat": 15.1,
+      "lng": -23.6833,
+      "isCapital": false,
+      "population": 12332
+    },
+    {
+      "name": "Porto Novo",
+      "lat": 17.0199,
+      "lng": -25.0645,
+      "isCapital": false,
+      "population": 9310
+    },
+    {
+      "name": "São Filipe",
+      "lat": 14.8961,
+      "lng": -24.4956,
+      "isCapital": false,
+      "population": 8122
+    },
+    {
+      "name": "Espargos",
+      "lat": 16.75,
+      "lng": -22.95,
+      "isCapital": false,
+      "population": 6173
+    },
+    {
+      "name": "Tarrafal",
+      "lat": 15.2833,
+      "lng": -23.75,
+      "isCapital": false,
+      "population": 6656
+    },
+    {
+      "name": "Sal Rei",
+      "lat": 16.1833,
+      "lng": -22.9167,
+      "isCapital": false,
+      "population": 5778
+    },
+    {
+      "name": "Calheta de São Miguel",
+      "lat": 15.1833,
+      "lng": -23.6,
+      "isCapital": false,
+      "population": 3175
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Brunei",
+  "cities": [
+    {
+      "name": "Bandar Seri Begawan",
+      "lat": 4.9031,
+      "lng": 114.9398,
+      "isCapital": true,
+      "population": 100700
+    },
+    {
+      "name": "Kuala Belait",
+      "lat": 4.5833,
+      "lng": 114.2333,
+      "isCapital": false,
+      "population": 31178
+    },
+    {
+      "name": "Seria",
+      "lat": 4.6069,
+      "lng": 114.3261,
+      "isCapital": false,
+      "population": 30097
+    },
+    {
+      "name": "Tutong",
+      "lat": 4.8,
+      "lng": 114.65,
+      "isCapital": false,
+      "population": 19151
+    },
+    {
+      "name": "Bangar",
+      "lat": 4.7167,
+      "lng": 115.0667,
+      "isCapital": false,
+      "population": 3970
+    },
+    {
+      "name": "Muara Town",
+      "lat": 5.0333,
+      "lng": 115.0667,
+      "isCapital": false,
+      "population": 2100
+    },
+    {
+      "name": "Sukang",
+      "lat": 4.3,
+      "lng": 114.6333,
+      "isCapital": false,
+      "population": 111
+    },
+    {
+      "name": "Labi",
+      "lat": 4.45,
+      "lng": 114.45,
+      "isCapital": false,
+      "population": 800
+    },
+    {
+      "name": "Lamunin",
+      "lat": 4.7,
+      "lng": 114.7,
+      "isCapital": false,
+      "population": 4200
+    },
+    {
+      "name": "Panaga",
+      "lat": 4.5833,
+      "lng": 114.3,
+      "isCapital": false,
+      "population": 25000
+    }
+  ]
+}

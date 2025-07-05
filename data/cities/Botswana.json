@@ -1,0 +1,75 @@
+{
+  "country": "Botswana",
+  "cities": [
+    {
+      "name": "Gaborone",
+      "lat": -24.6545,
+      "lng": 25.9086,
+      "isCapital": true,
+      "population": 231626
+    },
+    {
+      "name": "Francistown",
+      "lat": -21.1667,
+      "lng": 27.5,
+      "isCapital": false,
+      "population": 98961
+    },
+    {
+      "name": "Molepolole",
+      "lat": -24.4,
+      "lng": 25.5,
+      "isCapital": false,
+      "population": 67598
+    },
+    {
+      "name": "Selebi-Phikwe",
+      "lat": -22.0,
+      "lng": 27.8333,
+      "isCapital": false,
+      "population": 49411
+    },
+    {
+      "name": "Maun",
+      "lat": -19.9833,
+      "lng": 23.4167,
+      "isCapital": false,
+      "population": 55784
+    },
+    {
+      "name": "Serowe",
+      "lat": -22.3833,
+      "lng": 26.7167,
+      "isCapital": false,
+      "population": 50000
+    },
+    {
+      "name": "Kanye",
+      "lat": -24.9667,
+      "lng": 25.3333,
+      "isCapital": false,
+      "population": 45196
+    },
+    {
+      "name": "Mahalapye",
+      "lat": -23.1,
+      "lng": 26.8167,
+      "isCapital": false,
+      "population": 41316
+    },
+    {
+      "name": "Lobatse",
+      "lat": -25.2167,
+      "lng": 25.6667,
+      "isCapital": false,
+      "population": 29007
+    },
+    {
+      "name": "Palapye",
+      "lat": -22.55,
+      "lng": 27.1167,
+      "isCapital": false,
+      "population": 36211
+    }
+  ]
+}
