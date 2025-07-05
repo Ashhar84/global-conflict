@@ -1,0 +1,75 @@
+{
+  "country": "Iceland",
+  "cities": [
+    {
+      "name": "Reykjavík",
+      "lat": 64.1466,
+      "lng": -21.9426,
+      "isCapital": true,
+      "population": 131136
+    },
+    {
+      "name": "Kópavogur",
+      "lat": 64.1111,
+      "lng": -21.9056,
+      "isCapital": false,
+      "population": 37959
+    },
+    {
+      "name": "Hafnarfjörður",
+      "lat": 64.0667,
+      "lng": -21.95,
+      "isCapital": false,
+      "population": 29971
+    },
+    {
+      "name": "Akureyri",
+      "lat": 65.6833,
+      "lng": -18.0833,
+      "isCapital": false,
+      "population": 19034
+    },
+    {
+      "name": "Keflavík",
+      "lat": 64.0019,
+      "lng": -22.5539,
+      "isCapital": false,
+      "population": 16000
+    },
+    {
+      "name": "Garðabær",
+      "lat": 64.0833,
+      "lng": -21.9,
+      "isCapital": false,
+      "population": 16924
+    },
+    {
+      "name": "Mosfellsbær",
+      "lat": 64.1667,
+      "lng": -21.7,
+      "isCapital": false,
+      "population": 12079
+    },
+    {
+      "name": "Selfoss",
+      "lat": 63.9333,
+      "lng": -21.0,
+      "isCapital": false,
+      "population": 8068
+    },
+    {
+      "name": "Akranes",
+      "lat": 64.3167,
+      "lng": -22.0833,
+      "isCapital": false,
+      "population": 7534
+    },
+    {
+      "name": "Seltjarnarnes",
+      "lat": 64.15,
+      "lng": -22.0,
+      "isCapital": false,
+      "population": 4720
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Kosovo",
+  "cities": [
+    {
+      "name": "Pristina",
+      "lat": 42.6629,
+      "lng": 21.1655,
+      "isCapital": true,
+      "population": 198897
+    },
+    {
+      "name": "Prizren",
+      "lat": 42.2139,
+      "lng": 20.7431,
+      "isCapital": false,
+      "population": 177781
+    },
+    {
+      "name": "Gjilan",
+      "lat": 42.4631,
+      "lng": 21.4694,
+      "isCapital": false,
+      "population": 90178
+    },
+    {
+      "name": "Peja",
+      "lat": 42.6592,
+      "lng": 20.2889,
+      "isCapital": false,
+      "population": 96450
+    },
+    {
+      "name": "Mitrovica",
+      "lat": 42.8914,
+      "lng": 20.866,
+      "isCapital": false,
+      "population": 84231
+    },
+    {
+      "name": "Ferizaj",
+      "lat": 42.3706,
+      "lng": 21.1558,
+      "isCapital": false,
+      "population": 108610
+    },
+    {
+      "name": "Gjakova",
+      "lat": 42.3803,
+      "lng": 20.4308,
+      "isCapital": false,
+      "population": 94556
+    },
+    {
+      "name": "Vushtrri",
+      "lat": 42.8231,
+      "lng": 20.9675,
+      "isCapital": false,
+      "population": 69870
+    },
+    {
+      "name": "Podujevë",
+      "lat": 42.9128,
+      "lng": 21.1925,
+      "isCapital": false,
+      "population": 88499
+    },
+    {
+      "name": "Rahovec",
+      "lat": 42.4,
+      "lng": 20.65,
+      "isCapital": false,
+      "population": 56208
+    }
+  ]
+}

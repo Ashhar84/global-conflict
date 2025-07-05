@@ -1,0 +1,75 @@
+{
+  "country": "Kenya",
+  "cities": [
+    {
+      "name": "Nairobi",
+      "lat": -1.2921,
+      "lng": 36.8219,
+      "isCapital": true,
+      "population": 4397073
+    },
+    {
+      "name": "Mombasa",
+      "lat": -4.0435,
+      "lng": 39.6682,
+      "isCapital": false,
+      "population": 1200000
+    },
+    {
+      "name": "Kisumu",
+      "lat": -0.0917,
+      "lng": 34.768,
+      "isCapital": false,
+      "population": 397957
+    },
+    {
+      "name": "Nakuru",
+      "lat": -0.3031,
+      "lng": 36.08,
+      "isCapital": false,
+      "population": 570674
+    },
+    {
+      "name": "Eldoret",
+      "lat": 0.5204,
+      "lng": 35.2699,
+      "isCapital": false,
+      "population": 475716
+    },
+    {
+      "name": "Ruiru",
+      "lat": -1.15,
+      "lng": 36.9667,
+      "isCapital": false,
+      "population": 490120
+    },
+    {
+      "name": "Machakos",
+      "lat": -1.5167,
+      "lng": 37.2667,
+      "isCapital": false,
+      "population": 150041
+    },
+    {
+      "name": "Meru",
+      "lat": 0.05,
+      "lng": 37.65,
+      "isCapital": false,
+      "population": 240900
+    },
+    {
+      "name": "Nyeri",
+      "lat": -0.4167,
+      "lng": 36.95,
+      "isCapital": false,
+      "population": 125356
+    },
+    {
+      "name": "Kitale",
+      "lat": 1.0167,
+      "lng": 35.0,
+      "isCapital": false,
+      "population": 106187
+    }
+  ]
+}

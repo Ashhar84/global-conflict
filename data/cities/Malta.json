@@ -1,0 +1,75 @@
+{
+  "country": "Malta",
+  "cities": [
+    {
+      "name": "Valletta",
+      "lat": 35.8989,
+      "lng": 14.5146,
+      "isCapital": true,
+      "population": 5827
+    },
+    {
+      "name": "Birkirkara",
+      "lat": 35.8969,
+      "lng": 14.4625,
+      "isCapital": false,
+      "population": 24356
+    },
+    {
+      "name": "Mosta",
+      "lat": 35.9097,
+      "lng": 14.4258,
+      "isCapital": false,
+      "population": 20241
+    },
+    {
+      "name": "Qormi",
+      "lat": 35.8819,
+      "lng": 14.4731,
+      "isCapital": false,
+      "population": 16779
+    },
+    {
+      "name": "Żabbar",
+      "lat": 35.8833,
+      "lng": 14.5375,
+      "isCapital": false,
+      "population": 15404
+    },
+    {
+      "name": "St. Paul's Bay",
+      "lat": 35.9486,
+      "lng": 14.4014,
+      "isCapital": false,
+      "population": 29097
+    },
+    {
+      "name": "Sliema",
+      "lat": 35.9125,
+      "lng": 14.5019,
+      "isCapital": false,
+      "population": 22591
+    },
+    {
+      "name": "San Ġwann",
+      "lat": 35.9069,
+      "lng": 14.4769,
+      "isCapital": false,
+      "population": 12523
+    },
+    {
+      "name": "Naxxar",
+      "lat": 35.9167,
+      "lng": 14.4431,
+      "isCapital": false,
+      "population": 13443
+    },
+    {
+      "name": "Rabat",
+      "lat": 35.8828,
+      "lng": 14.3989,
+      "isCapital": false,
+      "population": 11497
+    }
+  ]
+}

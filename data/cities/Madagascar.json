@@ -1,0 +1,75 @@
+{
+  "country": "Madagascar",
+  "cities": [
+    {
+      "name": "Antananarivo",
+      "lat": -18.8792,
+      "lng": 47.5079,
+      "isCapital": true,
+      "population": 1275207
+    },
+    {
+      "name": "Toamasina",
+      "lat": -18.15,
+      "lng": 49.4,
+      "isCapital": false,
+      "population": 325857
+    },
+    {
+      "name": "Antsirabe",
+      "lat": -19.8667,
+      "lng": 47.0333,
+      "isCapital": false,
+      "population": 245592
+    },
+    {
+      "name": "Mahajanga",
+      "lat": -15.7167,
+      "lng": 46.3167,
+      "isCapital": false,
+      "population": 246022
+    },
+    {
+      "name": "Fianarantsoa",
+      "lat": -21.45,
+      "lng": 47.0833,
+      "isCapital": false,
+      "population": 191776
+    },
+    {
+      "name": "Toliara",
+      "lat": -23.35,
+      "lng": 43.6667,
+      "isCapital": false,
+      "population": 168756
+    },
+    {
+      "name": "Antsiranana",
+      "lat": -12.3,
+      "lng": 49.2833,
+      "isCapital": false,
+      "population": 129320
+    },
+    {
+      "name": "Ambovombe",
+      "lat": -25.1667,
+      "lng": 46.0833,
+      "isCapital": false,
+      "population": 108700
+    },
+    {
+      "name": "Amparafaravola",
+      "lat": -17.5833,
+      "lng": 48.2167,
+      "isCapital": false,
+      "population": 47000
+    },
+    {
+      "name": "Tolagnaro",
+      "lat": -25.0333,
+      "lng": 47.0,
+      "isCapital": false,
+      "population": 67286
+    }
+  ]
+}

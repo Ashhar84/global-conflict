@@ -1,0 +1,75 @@
+{
+  "country": "Kazakhstan",
+  "cities": [
+    {
+      "name": "Nur-Sultan",
+      "lat": 51.1694,
+      "lng": 71.4491,
+      "isCapital": true,
+      "population": 1136008
+    },
+    {
+      "name": "Almaty",
+      "lat": 43.222,
+      "lng": 76.8512,
+      "isCapital": false,
+      "population": 1916822
+    },
+    {
+      "name": "Shymkent",
+      "lat": 42.3,
+      "lng": 69.6,
+      "isCapital": false,
+      "population": 1038449
+    },
+    {
+      "name": "Aktobe",
+      "lat": 50.3,
+      "lng": 57.1667,
+      "isCapital": false,
+      "population": 500757
+    },
+    {
+      "name": "Karaganda",
+      "lat": 49.8333,
+      "lng": 73.1667,
+      "isCapital": false,
+      "population": 497777
+    },
+    {
+      "name": "Taraz",
+      "lat": 42.9,
+      "lng": 71.3667,
+      "isCapital": false,
+      "population": 357795
+    },
+    {
+      "name": "Pavlodar",
+      "lat": 52.3,
+      "lng": 76.95,
+      "isCapital": false,
+      "population": 333479
+    },
+    {
+      "name": "Ust-Kamenogorsk",
+      "lat": 49.9833,
+      "lng": 82.6167,
+      "isCapital": false,
+      "population": 333113
+    },
+    {
+      "name": "Semey",
+      "lat": 50.4167,
+      "lng": 80.2667,
+      "isCapital": false,
+      "population": 323138
+    },
+    {
+      "name": "Atyrau",
+      "lat": 47.1167,
+      "lng": 51.8833,
+      "isCapital": false,
+      "population": 290700
+    }
+  ]
+}

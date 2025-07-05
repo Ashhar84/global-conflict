@@ -1,0 +1,75 @@
+{
+  "country": "Ireland",
+  "cities": [
+    {
+      "name": "Dublin",
+      "lat": 53.3498,
+      "lng": -6.2603,
+      "isCapital": true,
+      "population": 544107
+    },
+    {
+      "name": "Cork",
+      "lat": 51.8969,
+      "lng": -8.4863,
+      "isCapital": false,
+      "population": 208669
+    },
+    {
+      "name": "Limerick",
+      "lat": 52.6638,
+      "lng": -8.6267,
+      "isCapital": false,
+      "population": 94192
+    },
+    {
+      "name": "Galway",
+      "lat": 53.2707,
+      "lng": -9.0568,
+      "isCapital": false,
+      "population": 79934
+    },
+    {
+      "name": "Waterford",
+      "lat": 52.2593,
+      "lng": -7.1101,
+      "isCapital": false,
+      "population": 53504
+    },
+    {
+      "name": "Drogheda",
+      "lat": 53.7142,
+      "lng": -6.3497,
+      "isCapital": false,
+      "population": 40956
+    },
+    {
+      "name": "Dundalk",
+      "lat": 54.0031,
+      "lng": -6.4022,
+      "isCapital": false,
+      "population": 39004
+    },
+    {
+      "name": "Swords",
+      "lat": 53.4597,
+      "lng": -6.2181,
+      "isCapital": false,
+      "population": 39248
+    },
+    {
+      "name": "Bray",
+      "lat": 53.2019,
+      "lng": -6.1096,
+      "isCapital": false,
+      "population": 32600
+    },
+    {
+      "name": "Navan",
+      "lat": 53.6536,
+      "lng": -6.6826,
+      "isCapital": false,
+      "population": 30173
+    }
+  ]
+}

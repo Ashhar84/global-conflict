@@ -1,0 +1,75 @@
+{
+  "country": "Luxembourg",
+  "cities": [
+    {
+      "name": "Luxembourg",
+      "lat": 49.6116,
+      "lng": 6.1319,
+      "isCapital": true,
+      "population": 122273
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "lat": 49.4958,
+      "lng": 5.9806,
+      "isCapital": false,
+      "population": 35382
+    },
+    {
+      "name": "Differdange",
+      "lat": 49.5244,
+      "lng": 5.8922,
+      "isCapital": false,
+      "population": 26796
+    },
+    {
+      "name": "Dudelange",
+      "lat": 49.4775,
+      "lng": 6.0847,
+      "isCapital": false,
+      "population": 21087
+    },
+    {
+      "name": "Pétange",
+      "lat": 49.5561,
+      "lng": 5.8794,
+      "isCapital": false,
+      "population": 19153
+    },
+    {
+      "name": "Sanem",
+      "lat": 49.5472,
+      "lng": 5.9281,
+      "isCapital": false,
+      "population": 17277
+    },
+    {
+      "name": "Hesperange",
+      "lat": 49.5775,
+      "lng": 6.1519,
+      "isCapital": false,
+      "population": 15479
+    },
+    {
+      "name": "Bettembourg",
+      "lat": 49.5183,
+      "lng": 6.1014,
+      "isCapital": false,
+      "population": 11114
+    },
+    {
+      "name": "Walferdange",
+      "lat": 49.6583,
+      "lng": 6.1333,
+      "isCapital": false,
+      "population": 8196
+    },
+    {
+      "name": "Schifflange",
+      "lat": 49.505,
+      "lng": 6.0119,
+      "isCapital": false,
+      "population": 11343
+    }
+  ]
+}

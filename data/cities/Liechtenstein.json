@@ -1,0 +1,75 @@
+{
+  "country": "Liechtenstein",
+  "cities": [
+    {
+      "name": "Vaduz",
+      "lat": 47.141,
+      "lng": 9.521,
+      "isCapital": true,
+      "population": 5696
+    },
+    {
+      "name": "Schaan",
+      "lat": 47.1667,
+      "lng": 9.5,
+      "isCapital": false,
+      "population": 6039
+    },
+    {
+      "name": "Triesen",
+      "lat": 47.1,
+      "lng": 9.5333,
+      "isCapital": false,
+      "population": 5275
+    },
+    {
+      "name": "Balzers",
+      "lat": 47.0667,
+      "lng": 9.5,
+      "isCapital": false,
+      "population": 4642
+    },
+    {
+      "name": "Eschen",
+      "lat": 47.2167,
+      "lng": 9.5167,
+      "isCapital": false,
+      "population": 4466
+    },
+    {
+      "name": "Mauren",
+      "lat": 47.2167,
+      "lng": 9.55,
+      "isCapital": false,
+      "population": 4401
+    },
+    {
+      "name": "Triesenberg",
+      "lat": 47.1167,
+      "lng": 9.5333,
+      "isCapital": false,
+      "population": 2636
+    },
+    {
+      "name": "Ruggell",
+      "lat": 47.25,
+      "lng": 9.5333,
+      "isCapital": false,
+      "population": 2322
+    },
+    {
+      "name": "Gamprin",
+      "lat": 47.2167,
+      "lng": 9.5167,
+      "isCapital": false,
+      "population": 1690
+    },
+    {
+      "name": "Schellenberg",
+      "lat": 47.2333,
+      "lng": 9.55,
+      "isCapital": false,
+      "population": 1107
+    }
+  ]
+}

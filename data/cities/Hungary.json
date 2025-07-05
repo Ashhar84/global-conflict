@@ -1,0 +1,75 @@
+{
+  "country": "Hungary",
+  "cities": [
+    {
+      "name": "Budapest",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "isCapital": true,
+      "population": 1752286
+    },
+    {
+      "name": "Debrecen",
+      "lat": 47.5333,
+      "lng": 21.6333,
+      "isCapital": false,
+      "population": 201432
+    },
+    {
+      "name": "Szeged",
+      "lat": 46.253,
+      "lng": 20.1482,
+      "isCapital": false,
+      "population": 160766
+    },
+    {
+      "name": "Miskolc",
+      "lat": 48.1031,
+      "lng": 20.7781,
+      "isCapital": false,
+      "population": 154521
+    },
+    {
+      "name": "Pécs",
+      "lat": 46.0727,
+      "lng": 18.2323,
+      "isCapital": false,
+      "population": 142873
+    },
+    {
+      "name": "Győr",
+      "lat": 47.6875,
+      "lng": 17.6354,
+      "isCapital": false,
+      "population": 132034
+    },
+    {
+      "name": "Nyíregyháza",
+      "lat": 47.9553,
+      "lng": 21.7167,
+      "isCapital": false,
+      "population": 116799
+    },
+    {
+      "name": "Kecskemét",
+      "lat": 46.9062,
+      "lng": 19.691,
+      "isCapital": false,
+      "population": 110687
+    },
+    {
+      "name": "Székesfehérvár",
+      "lat": 47.186,
+      "lng": 18.42,
+      "isCapital": false,
+      "population": 96940
+    },
+    {
+      "name": "Szombathely",
+      "lat": 47.2308,
+      "lng": 16.6219,
+      "isCapital": false,
+      "population": 78324
+    }
+  ]
+}

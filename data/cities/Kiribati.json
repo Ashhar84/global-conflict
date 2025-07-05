@@ -1,0 +1,75 @@
+{
+  "country": "Kiribati",
+  "cities": [
+    {
+      "name": "South Tarawa",
+      "lat": 1.328,
+      "lng": 172.979,
+      "isCapital": true,
+      "population": 63439
+    },
+    {
+      "name": "Betio",
+      "lat": 1.35,
+      "lng": 172.9167,
+      "isCapital": false,
+      "population": 17330
+    },
+    {
+      "name": "Bikenibeu",
+      "lat": 1.3667,
+      "lng": 173.1167,
+      "isCapital": false,
+      "population": 7547
+    },
+    {
+      "name": "Teaoraereke",
+      "lat": 1.3333,
+      "lng": 172.9833,
+      "isCapital": false,
+      "population": 5105
+    },
+    {
+      "name": "Tabwakea",
+      "lat": 3.8667,
+      "lng": -159.35,
+      "isCapital": false,
+      "population": 3535
+    },
+    {
+      "name": "London",
+      "lat": 1.9833,
+      "lng": -157.4667,
+      "isCapital": false,
+      "population": 1899
+    },
+    {
+      "name": "Banana",
+      "lat": 1.9833,
+      "lng": -157.3333,
+      "isCapital": false,
+      "population": 1205
+    },
+    {
+      "name": "Rawannawi",
+      "lat": 2.6333,
+      "lng": 176.05,
+      "isCapital": false,
+      "population": 2186
+    },
+    {
+      "name": "Butaritari",
+      "lat": 3.1667,
+      "lng": 172.8167,
+      "isCapital": false,
+      "population": 2000
+    },
+    {
+      "name": "Rungata",
+      "lat": -0.1833,
+      "lng": 176.45,
+      "isCapital": false,
+      "population": 2000
+    }
+  ]
+}

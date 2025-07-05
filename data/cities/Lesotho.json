@@ -1,0 +1,75 @@
+{
+  "country": "Lesotho",
+  "cities": [
+    {
+      "name": "Maseru",
+      "lat": -29.3167,
+      "lng": 27.4833,
+      "isCapital": true,
+      "population": 330760
+    },
+    {
+      "name": "Teyateyaneng",
+      "lat": -29.15,
+      "lng": 27.75,
+      "isCapital": false,
+      "population": 75115
+    },
+    {
+      "name": "Mafeteng",
+      "lat": -29.8167,
+      "lng": 27.2333,
+      "isCapital": false,
+      "population": 57059
+    },
+    {
+      "name": "Hlotse",
+      "lat": -28.8667,
+      "lng": 28.05,
+      "isCapital": false,
+      "population": 47675
+    },
+    {
+      "name": "Mohale's Hoek",
+      "lat": -30.15,
+      "lng": 27.4667,
+      "isCapital": false,
+      "population": 40040
+    },
+    {
+      "name": "Quthing",
+      "lat": -30.4,
+      "lng": 27.7,
+      "isCapital": false,
+      "population": 27314
+    },
+    {
+      "name": "Qacha's Nek",
+      "lat": -30.1167,
+      "lng": 28.6833,
+      "isCapital": false,
+      "population": 25573
+    },
+    {
+      "name": "Mokhotlong",
+      "lat": -29.2833,
+      "lng": 29.0667,
+      "isCapital": false,
+      "population": 12940
+    },
+    {
+      "name": "Thaba-Tseka",
+      "lat": -29.5167,
+      "lng": 28.6,
+      "isCapital": false,
+      "population": 15248
+    },
+    {
+      "name": "Butha-Buthe",
+      "lat": -28.7667,
+      "lng": 28.2333,
+      "isCapital": false,
+      "population": 35108
+    }
+  ]
+}

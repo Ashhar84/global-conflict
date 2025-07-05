@@ -1,0 +1,75 @@
+{
+  "country": "Guinea",
+  "cities": [
+    {
+      "name": "Conakry",
+      "lat": 9.5092,
+      "lng": -13.7122,
+      "isCapital": true,
+      "population": 1660973
+    },
+    {
+      "name": "Nzérékoré",
+      "lat": 7.75,
+      "lng": -8.8167,
+      "isCapital": false,
+      "population": 195330
+    },
+    {
+      "name": "Kankan",
+      "lat": 10.3833,
+      "lng": -9.3,
+      "isCapital": false,
+      "population": 194671
+    },
+    {
+      "name": "Kindia",
+      "lat": 10.0667,
+      "lng": -12.85,
+      "isCapital": false,
+      "population": 170557
+    },
+    {
+      "name": "Labé",
+      "lat": 11.3167,
+      "lng": -12.2833,
+      "isCapital": false,
+      "population": 108000
+    },
+    {
+      "name": "Gueckedou",
+      "lat": 8.5667,
+      "lng": -10.1333,
+      "isCapital": false,
+      "population": 221715
+    },
+    {
+      "name": "Mamou",
+      "lat": 10.3833,
+      "lng": -12.0833,
+      "isCapital": false,
+      "population": 85000
+    },
+    {
+      "name": "Faranah",
+      "lat": 10.0333,
+      "lng": -10.75,
+      "isCapital": false,
+      "population": 78000
+    },
+    {
+      "name": "Boke",
+      "lat": 10.9333,
+      "lng": -14.3,
+      "isCapital": false,
+      "population": 61449
+    },
+    {
+      "name": "Kissidougou",
+      "lat": 9.1833,
+      "lng": -10.1,
+      "isCapital": false,
+      "population": 102675
+    }
+  ]
+}

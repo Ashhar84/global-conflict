@@ -1,0 +1,75 @@
+{
+  "country": "Kyrgyzstan",
+  "cities": [
+    {
+      "name": "Bishkek",
+      "lat": 42.8746,
+      "lng": 74.5698,
+      "isCapital": true,
+      "population": 1074075
+    },
+    {
+      "name": "Osh",
+      "lat": 40.5139,
+      "lng": 72.8083,
+      "isCapital": false,
+      "population": 281900
+    },
+    {
+      "name": "Jalal-Abad",
+      "lat": 40.9333,
+      "lng": 73.0,
+      "isCapital": false,
+      "population": 112997
+    },
+    {
+      "name": "Karakol",
+      "lat": 42.4833,
+      "lng": 78.3833,
+      "isCapital": false,
+      "population": 84351
+    },
+    {
+      "name": "Tokmok",
+      "lat": 42.8333,
+      "lng": 75.2833,
+      "isCapital": false,
+      "population": 71443
+    },
+    {
+      "name": "Uzgen",
+      "lat": 40.7667,
+      "lng": 73.3,
+      "isCapital": false,
+      "population": 62802
+    },
+    {
+      "name": "Balykchy",
+      "lat": 42.45,
+      "lng": 76.1833,
+      "isCapital": false,
+      "population": 42674
+    },
+    {
+      "name": "Naryn",
+      "lat": 41.4333,
+      "lng": 76.0,
+      "isCapital": false,
+      "population": 41178
+    },
+    {
+      "name": "Talas",
+      "lat": 42.5167,
+      "lng": 72.2333,
+      "isCapital": false,
+      "population": 40308
+    },
+    {
+      "name": "Kyzyl-Kiya",
+      "lat": 40.2667,
+      "lng": 72.05,
+      "isCapital": false,
+      "population": 51300
+    }
+  ]
+}

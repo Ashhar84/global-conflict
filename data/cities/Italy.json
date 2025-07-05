@@ -1,0 +1,75 @@
+{
+  "country": "Italy",
+  "cities": [
+    {
+      "name": "Rome",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "isCapital": true,
+      "population": 2872800
+    },
+    {
+      "name": "Milan",
+      "lat": 45.4642,
+      "lng": 9.19,
+      "isCapital": false,
+      "population": 1351562
+    },
+    {
+      "name": "Naples",
+      "lat": 40.8518,
+      "lng": 14.2681,
+      "isCapital": false,
+      "population": 962162
+    },
+    {
+      "name": "Turin",
+      "lat": 45.0703,
+      "lng": 7.6869,
+      "isCapital": false,
+      "population": 875698
+    },
+    {
+      "name": "Palermo",
+      "lat": 38.1157,
+      "lng": 13.3615,
+      "isCapital": false,
+      "population": 676118
+    },
+    {
+      "name": "Genoa",
+      "lat": 44.4056,
+      "lng": 8.9463,
+      "isCapital": false,
+      "population": 583601
+    },
+    {
+      "name": "Bologna",
+      "lat": 44.4949,
+      "lng": 11.3426,
+      "isCapital": false,
+      "population": 388367
+    },
+    {
+      "name": "Florence",
+      "lat": 43.7696,
+      "lng": 11.2558,
+      "isCapital": false,
+      "population": 382258
+    },
+    {
+      "name": "Bari",
+      "lat": 41.1171,
+      "lng": 16.8719,
+      "isCapital": false,
+      "population": 325252
+    },
+    {
+      "name": "Catania",
+      "lat": 37.5079,
+      "lng": 15.083,
+      "isCapital": false,
+      "population": 311320
+    }
+  ]
+}

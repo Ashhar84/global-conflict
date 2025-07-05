@@ -1,0 +1,75 @@
+{
+  "country": "Jamaica",
+  "cities": [
+    {
+      "name": "Kingston",
+      "lat": 17.9833,
+      "lng": -76.8,
+      "isCapital": true,
+      "population": 584627
+    },
+    {
+      "name": "Montego Bay",
+      "lat": 18.4667,
+      "lng": -77.9167,
+      "isCapital": false,
+      "population": 110000
+    },
+    {
+      "name": "Spanish Town",
+      "lat": 17.9833,
+      "lng": -77.0167,
+      "isCapital": false,
+      "population": 147152
+    },
+    {
+      "name": "Portmore",
+      "lat": 17.9667,
+      "lng": -76.8833,
+      "isCapital": false,
+      "population": 182153
+    },
+    {
+      "name": "Ocho Rios",
+      "lat": 18.4,
+      "lng": -77.1,
+      "isCapital": false,
+      "population": 16671
+    },
+    {
+      "name": "Mandeville",
+      "lat": 18.0333,
+      "lng": -77.5,
+      "isCapital": false,
+      "population": 49695
+    },
+    {
+      "name": "May Pen",
+      "lat": 17.9667,
+      "lng": -77.25,
+      "isCapital": false,
+      "population": 61548
+    },
+    {
+      "name": "Savanna-la-Mar",
+      "lat": 18.2167,
+      "lng": -78.1333,
+      "isCapital": false,
+      "population": 22633
+    },
+    {
+      "name": "Port Antonio",
+      "lat": 18.1667,
+      "lng": -76.45,
+      "isCapital": false,
+      "population": 12285
+    },
+    {
+      "name": "Saint Ann's Bay",
+      "lat": 18.4333,
+      "lng": -77.2,
+      "isCapital": false,
+      "population": 13671
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Latvia",
+  "cities": [
+    {
+      "name": "Riga",
+      "lat": 56.9496,
+      "lng": 24.1052,
+      "isCapital": true,
+      "population": 632614
+    },
+    {
+      "name": "Daugavpils",
+      "lat": 55.875,
+      "lng": 26.5361,
+      "isCapital": false,
+      "population": 82604
+    },
+    {
+      "name": "Liepāja",
+      "lat": 56.5047,
+      "lng": 21.0108,
+      "isCapital": false,
+      "population": 68945
+    },
+    {
+      "name": "Jelgava",
+      "lat": 56.65,
+      "lng": 23.7167,
+      "isCapital": false,
+      "population": 55972
+    },
+    {
+      "name": "Jūrmala",
+      "lat": 56.968,
+      "lng": 23.771,
+      "isCapital": false,
+      "population": 49325
+    },
+    {
+      "name": "Ventspils",
+      "lat": 57.3904,
+      "lng": 21.5606,
+      "isCapital": false,
+      "population": 34377
+    },
+    {
+      "name": "Rēzekne",
+      "lat": 56.505,
+      "lng": 27.33,
+      "isCapital": false,
+      "population": 27820
+    },
+    {
+      "name": "Ogre",
+      "lat": 56.8167,
+      "lng": 24.6,
+      "isCapital": false,
+      "population": 23273
+    },
+    {
+      "name": "Valmiera",
+      "lat": 57.5333,
+      "lng": 25.4167,
+      "isCapital": false,
+      "population": 23125
+    },
+    {
+      "name": "Jēkabpils",
+      "lat": 56.5,
+      "lng": 25.8667,
+      "isCapital": false,
+      "population": 21667
+    }
+  ]
+}

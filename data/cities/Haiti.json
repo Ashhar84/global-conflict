@@ -1,0 +1,75 @@
+{
+  "country": "Haiti",
+  "cities": [
+    {
+      "name": "Port-au-Prince",
+      "lat": 18.5392,
+      "lng": -72.3364,
+      "isCapital": true,
+      "population": 987310
+    },
+    {
+      "name": "Carrefour",
+      "lat": 18.5333,
+      "lng": -72.4,
+      "isCapital": false,
+      "population": 511345
+    },
+    {
+      "name": "Delmas",
+      "lat": 18.55,
+      "lng": -72.3,
+      "isCapital": false,
+      "population": 395260
+    },
+    {
+      "name": "Pétion-Ville",
+      "lat": 18.5167,
+      "lng": -72.2833,
+      "isCapital": false,
+      "population": 376834
+    },
+    {
+      "name": "Gonaïves",
+      "lat": 19.45,
+      "lng": -72.6833,
+      "isCapital": false,
+      "population": 324043
+    },
+    {
+      "name": "Cap-Haïtien",
+      "lat": 19.75,
+      "lng": -72.2,
+      "isCapital": false,
+      "population": 190289
+    },
+    {
+      "name": "Saint-Marc",
+      "lat": 19.1,
+      "lng": -72.7,
+      "isCapital": false,
+      "population": 242485
+    },
+    {
+      "name": "Les Cayes",
+      "lat": 18.2,
+      "lng": -73.75,
+      "isCapital": false,
+      "population": 125799
+    },
+    {
+      "name": "Jacmel",
+      "lat": 18.2333,
+      "lng": -72.5333,
+      "isCapital": false,
+      "population": 137966
+    },
+    {
+      "name": "Port-de-Paix",
+      "lat": 19.9333,
+      "lng": -72.8333,
+      "isCapital": false,
+      "population": 462000
+    }
+  ]
+}

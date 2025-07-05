@@ -1,0 +1,75 @@
+{
+  "country": "Lithuania",
+  "cities": [
+    {
+      "name": "Vilnius",
+      "lat": 54.6872,
+      "lng": 25.2797,
+      "isCapital": true,
+      "population": 580020
+    },
+    {
+      "name": "Kaunas",
+      "lat": 54.8985,
+      "lng": 23.9036,
+      "isCapital": false,
+      "population": 289380
+    },
+    {
+      "name": "Klaipėda",
+      "lat": 55.7033,
+      "lng": 21.1443,
+      "isCapital": false,
+      "population": 149157
+    },
+    {
+      "name": "Šiauliai",
+      "lat": 55.9333,
+      "lng": 23.3167,
+      "isCapital": false,
+      "population": 101511
+    },
+    {
+      "name": "Panevėžys",
+      "lat": 55.7333,
+      "lng": 24.35,
+      "isCapital": false,
+      "population": 85876
+    },
+    {
+      "name": "Alytus",
+      "lat": 54.4,
+      "lng": 24.05,
+      "isCapital": false,
+      "population": 50421
+    },
+    {
+      "name": "Marijampolė",
+      "lat": 54.55,
+      "lng": 23.35,
+      "isCapital": false,
+      "population": 34975
+    },
+    {
+      "name": "Mažeikiai",
+      "lat": 56.3167,
+      "lng": 22.3333,
+      "isCapital": false,
+      "population": 32477
+    },
+    {
+      "name": "Jonava",
+      "lat": 55.0833,
+      "lng": 24.2833,
+      "isCapital": false,
+      "population": 26423
+    },
+    {
+      "name": "Utena",
+      "lat": 55.5,
+      "lng": 25.6,
+      "isCapital": false,
+      "population": 25397
+    }
+  ]
+}

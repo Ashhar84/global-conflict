@@ -1,0 +1,75 @@
+{
+  "country": "Guyana",
+  "cities": [
+    {
+      "name": "Georgetown",
+      "lat": 6.8013,
+      "lng": -58.1551,
+      "isCapital": true,
+      "population": 118363
+    },
+    {
+      "name": "Linden",
+      "lat": 6.0,
+      "lng": -58.3,
+      "isCapital": false,
+      "population": 29298
+    },
+    {
+      "name": "New Amsterdam",
+      "lat": 6.25,
+      "lng": -57.5167,
+      "isCapital": false,
+      "population": 17329
+    },
+    {
+      "name": "Corriverton",
+      "lat": 5.9833,
+      "lng": -57.1333,
+      "isCapital": false,
+      "population": 11386
+    },
+    {
+      "name": "Bartica",
+      "lat": 6.4,
+      "lng": -58.6167,
+      "isCapital": false,
+      "population": 8004
+    },
+    {
+      "name": "Lethem",
+      "lat": 3.3833,
+      "lng": -59.8,
+      "isCapital": false,
+      "population": 3000
+    },
+    {
+      "name": "Vreed en Hoop",
+      "lat": 6.8,
+      "lng": -58.1833,
+      "isCapital": false,
+      "population": 4000
+    },
+    {
+      "name": "Skeldon",
+      "lat": 5.8833,
+      "lng": -57.1333,
+      "isCapital": false,
+      "population": 4380
+    },
+    {
+      "name": "Rosignol",
+      "lat": 6.2667,
+      "lng": -57.5333,
+      "isCapital": false,
+      "population": 5782
+    },
+    {
+      "name": "Mahaica",
+      "lat": 6.6833,
+      "lng": -57.9167,
+      "isCapital": false,
+      "population": 4867
+    }
+  ]
+}

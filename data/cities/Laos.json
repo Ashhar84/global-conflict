@@ -1,0 +1,75 @@
+{
+  "country": "Laos",
+  "cities": [
+    {
+      "name": "Vientiane",
+      "lat": 17.9757,
+      "lng": 102.6331,
+      "isCapital": true,
+      "population": 620157
+    },
+    {
+      "name": "Pakse",
+      "lat": 15.1167,
+      "lng": 105.8333,
+      "isCapital": false,
+      "population": 88332
+    },
+    {
+      "name": "Savannakhet",
+      "lat": 16.5667,
+      "lng": 104.75,
+      "isCapital": false,
+      "population": 120000
+    },
+    {
+      "name": "Luang Prabang",
+      "lat": 19.8833,
+      "lng": 102.1333,
+      "isCapital": false,
+      "population": 55931
+    },
+    {
+      "name": "Xam Neua",
+      "lat": 20.4167,
+      "lng": 104.05,
+      "isCapital": false,
+      "population": 38992
+    },
+    {
+      "name": "Phonsavan",
+      "lat": 19.4667,
+      "lng": 103.1833,
+      "isCapital": false,
+      "population": 37507
+    },
+    {
+      "name": "Thakhek",
+      "lat": 17.4,
+      "lng": 104.8,
+      "isCapital": false,
+      "population": 85000
+    },
+    {
+      "name": "Muang Xay",
+      "lat": 20.7,
+      "lng": 101.9833,
+      "isCapital": false,
+      "population": 70000
+    },
+    {
+      "name": "Vang Vieng",
+      "lat": 18.9167,
+      "lng": 102.45,
+      "isCapital": false,
+      "population": 25000
+    },
+    {
+      "name": "Luang Namtha",
+      "lat": 20.95,
+      "lng": 101.4,
+      "isCapital": false,
+      "population": 28551
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Iraq",
+  "cities": [
+    {
+      "name": "Baghdad",
+      "lat": 33.3152,
+      "lng": 44.3661,
+      "isCapital": true,
+      "population": 7144000
+    },
+    {
+      "name": "Mosul",
+      "lat": 36.34,
+      "lng": 43.13,
+      "isCapital": false,
+      "population": 1694000
+    },
+    {
+      "name": "Basra",
+      "lat": 30.5081,
+      "lng": 47.783,
+      "isCapital": false,
+      "population": 1326564
+    },
+    {
+      "name": "Erbil",
+      "lat": 36.19,
+      "lng": 44.01,
+      "isCapital": false,
+      "population": 879000
+    },
+    {
+      "name": "Kirkuk",
+      "lat": 35.4667,
+      "lng": 44.3167,
+      "isCapital": false,
+      "population": 850787
+    },
+    {
+      "name": "Najaf",
+      "lat": 32.0,
+      "lng": 44.33,
+      "isCapital": false,
+      "population": 724700
+    },
+    {
+      "name": "Karbala",
+      "lat": 32.6167,
+      "lng": 44.0333,
+      "isCapital": false,
+      "population": 700000
+    },
+    {
+      "name": "Sulaymaniyah",
+      "lat": 35.55,
+      "lng": 45.4333,
+      "isCapital": false,
+      "population": 656100
+    },
+    {
+      "name": "Amarah",
+      "lat": 31.8333,
+      "lng": 47.15,
+      "isCapital": false,
+      "population": 511542
+    },
+    {
+      "name": "Hillah",
+      "lat": 32.4833,
+      "lng": 44.4333,
+      "isCapital": false,
+      "population": 573000
+    }
+  ]
+}

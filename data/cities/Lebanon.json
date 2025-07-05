@@ -1,0 +1,75 @@
+{
+  "country": "Lebanon",
+  "cities": [
+    {
+      "name": "Beirut",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "isCapital": true,
+      "population": 2200000
+    },
+    {
+      "name": "Tripoli",
+      "lat": 34.4367,
+      "lng": 35.8497,
+      "isCapital": false,
+      "population": 1153924
+    },
+    {
+      "name": "Sidon",
+      "lat": 33.5667,
+      "lng": 35.3667,
+      "isCapital": false,
+      "population": 200000
+    },
+    {
+      "name": "Tyre",
+      "lat": 33.2667,
+      "lng": 35.2,
+      "isCapital": false,
+      "population": 174000
+    },
+    {
+      "name": "Nabatieh",
+      "lat": 33.3833,
+      "lng": 35.4833,
+      "isCapital": false,
+      "population": 100000
+    },
+    {
+      "name": "Zahle",
+      "lat": 33.85,
+      "lng": 35.9,
+      "isCapital": false,
+      "population": 150000
+    },
+    {
+      "name": "Byblos",
+      "lat": 34.1167,
+      "lng": 35.65,
+      "isCapital": false,
+      "population": 40000
+    },
+    {
+      "name": "Jounieh",
+      "lat": 33.9667,
+      "lng": 35.6167,
+      "isCapital": false,
+      "population": 450000
+    },
+    {
+      "name": "Baalbek",
+      "lat": 34.0,
+      "lng": 36.2,
+      "isCapital": false,
+      "population": 82608
+    },
+    {
+      "name": "Aley",
+      "lat": 33.8,
+      "lng": 35.6,
+      "isCapital": false,
+      "population": 27000
+    }
+  ]
+}

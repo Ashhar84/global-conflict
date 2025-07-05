@@ -1,0 +1,75 @@
+{
+  "country": "Libya",
+  "cities": [
+    {
+      "name": "Tripoli",
+      "lat": 32.8872,
+      "lng": 13.1913,
+      "isCapital": true,
+      "population": 1158000
+    },
+    {
+      "name": "Benghazi",
+      "lat": 32.1167,
+      "lng": 20.0667,
+      "isCapital": false,
+      "population": 631555
+    },
+    {
+      "name": "Misrata",
+      "lat": 32.3753,
+      "lng": 15.0925,
+      "isCapital": false,
+      "population": 350000
+    },
+    {
+      "name": "Tarhuna",
+      "lat": 32.4333,
+      "lng": 13.6333,
+      "isCapital": false,
+      "population": 210697
+    },
+    {
+      "name": "Al Khums",
+      "lat": 32.65,
+      "lng": 14.2667,
+      "isCapital": false,
+      "population": 201943
+    },
+    {
+      "name": "Zawiya",
+      "lat": 32.75,
+      "lng": 12.7167,
+      "isCapital": false,
+      "population": 200000
+    },
+    {
+      "name": "Sabha",
+      "lat": 27.0333,
+      "lng": 14.4333,
+      "isCapital": false,
+      "population": 94728
+    },
+    {
+      "name": "Ajdabiya",
+      "lat": 30.75,
+      "lng": 20.2167,
+      "isCapital": false,
+      "population": 76968
+    },
+    {
+      "name": "Sirte",
+      "lat": 31.2,
+      "lng": 16.5833,
+      "isCapital": false,
+      "population": 75358
+    },
+    {
+      "name": "Tobruk",
+      "lat": 32.0833,
+      "lng": 23.9667,
+      "isCapital": false,
+      "population": 135000
+    }
+  ]
+}

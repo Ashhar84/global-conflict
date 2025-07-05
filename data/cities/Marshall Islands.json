@@ -1,0 +1,75 @@
+{
+  "country": "Marshall Islands",
+  "cities": [
+    {
+      "name": "Majuro",
+      "lat": 7.113,
+      "lng": 171.185,
+      "isCapital": true,
+      "population": 20468
+    },
+    {
+      "name": "Ebeye",
+      "lat": 8.7833,
+      "lng": 167.7333,
+      "isCapital": false,
+      "population": 9600
+    },
+    {
+      "name": "Jabor",
+      "lat": 5.8167,
+      "lng": 169.65,
+      "isCapital": false,
+      "population": 600
+    },
+    {
+      "name": "Wotje",
+      "lat": 9.45,
+      "lng": 170.2333,
+      "isCapital": false,
+      "population": 859
+    },
+    {
+      "name": "Mili",
+      "lat": 6.0833,
+      "lng": 171.7333,
+      "isCapital": false,
+      "population": 738
+    },
+    {
+      "name": "Namdrik",
+      "lat": 5.6167,
+      "lng": 168.1,
+      "isCapital": false,
+      "population": 508
+    },
+    {
+      "name": "Ujae",
+      "lat": 9.05,
+      "lng": 165.6333,
+      "isCapital": false,
+      "population": 364
+    },
+    {
+      "name": "Likiep",
+      "lat": 9.9167,
+      "lng": 169.1333,
+      "isCapital": false,
+      "population": 401
+    },
+    {
+      "name": "Ailuk",
+      "lat": 10.2167,
+      "lng": 169.9833,
+      "isCapital": false,
+      "population": 339
+    },
+    {
+      "name": "Kwajalein",
+      "lat": 8.7167,
+      "lng": 167.7333,
+      "isCapital": false,
+      "population": 1000
+    }
+  ]
+}

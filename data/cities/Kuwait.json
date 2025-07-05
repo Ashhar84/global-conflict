@@ -1,0 +1,75 @@
+{
+  "country": "Kuwait",
+  "cities": [
+    {
+      "name": "Kuwait City",
+      "lat": 29.3759,
+      "lng": 47.9774,
+      "isCapital": true,
+      "population": 62042
+    },
+    {
+      "name": "Al Ahmadi",
+      "lat": 29.0769,
+      "lng": 48.0839,
+      "isCapital": false,
+      "population": 637411
+    },
+    {
+      "name": "Hawalli",
+      "lat": 29.3333,
+      "lng": 48.0333,
+      "isCapital": false,
+      "population": 957297
+    },
+    {
+      "name": "As Salimiyah",
+      "lat": 29.3333,
+      "lng": 48.0667,
+      "isCapital": false,
+      "population": 220000
+    },
+    {
+      "name": "Sabah as Salim",
+      "lat": 29.2667,
+      "lng": 48.05,
+      "isCapital": false,
+      "population": 140000
+    },
+    {
+      "name": "Al Farwaniyah",
+      "lat": 29.2833,
+      "lng": 47.95,
+      "isCapital": false,
+      "population": 892911
+    },
+    {
+      "name": "Al Fahahil",
+      "lat": 29.0833,
+      "lng": 48.1333,
+      "isCapital": false,
+      "population": 100000
+    },
+    {
+      "name": "Ar Riqqah",
+      "lat": 29.1667,
+      "lng": 48.0667,
+      "isCapital": false,
+      "population": 52000
+    },
+    {
+      "name": "Al Manqaf",
+      "lat": 29.1,
+      "lng": 48.1333,
+      "isCapital": false,
+      "population": 84000
+    },
+    {
+      "name": "Al Jahra",
+      "lat": 29.35,
+      "lng": 47.6667,
+      "isCapital": false,
+      "population": 67290
+    }
+  ]
+}

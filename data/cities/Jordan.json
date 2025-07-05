@@ -1,0 +1,75 @@
+{
+  "country": "Jordan",
+  "cities": [
+    {
+      "name": "Amman",
+      "lat": 31.9454,
+      "lng": 35.9284,
+      "isCapital": true,
+      "population": 4007526
+    },
+    {
+      "name": "Zarqa",
+      "lat": 32.05,
+      "lng": 36.1,
+      "isCapital": false,
+      "population": 635160
+    },
+    {
+      "name": "Irbid",
+      "lat": 32.55,
+      "lng": 35.85,
+      "isCapital": false,
+      "population": 502714
+    },
+    {
+      "name": "Russeifa",
+      "lat": 32.0167,
+      "lng": 36.0333,
+      "isCapital": false,
+      "population": 472604
+    },
+    {
+      "name": "Aqaba",
+      "lat": 29.5269,
+      "lng": 35.0078,
+      "isCapital": false,
+      "population": 188160
+    },
+    {
+      "name": "Wadi as-Sir",
+      "lat": 31.95,
+      "lng": 35.8167,
+      "isCapital": false,
+      "population": 241830
+    },
+    {
+      "name": "Madaba",
+      "lat": 31.7167,
+      "lng": 35.8,
+      "isCapital": false,
+      "population": 105353
+    },
+    {
+      "name": "Salt",
+      "lat": 32.0333,
+      "lng": 35.7333,
+      "isCapital": false,
+      "population": 99857
+    },
+    {
+      "name": "Karak",
+      "lat": 31.1833,
+      "lng": 35.7,
+      "isCapital": false,
+      "population": 32216
+    },
+    {
+      "name": "Ma'an",
+      "lat": 30.1925,
+      "lng": 35.7342,
+      "isCapital": false,
+      "population": 41055
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "Malawi",
+  "cities": [
+    {
+      "name": "Lilongwe",
+      "lat": -13.9669,
+      "lng": 33.7872,
+      "isCapital": true,
+      "population": 989318
+    },
+    {
+      "name": "Blantyre",
+      "lat": -15.7833,
+      "lng": 35.0,
+      "isCapital": false,
+      "population": 800264
+    },
+    {
+      "name": "Mzuzu",
+      "lat": -11.4667,
+      "lng": 34.0167,
+      "isCapital": false,
+      "population": 221272
+    },
+    {
+      "name": "Zomba",
+      "lat": -15.3833,
+      "lng": 35.3333,
+      "isCapital": false,
+      "population": 105013
+    },
+    {
+      "name": "Karonga",
+      "lat": -9.9333,
+      "lng": 33.9333,
+      "isCapital": false,
+      "population": 61609
+    },
+    {
+      "name": "Kasungu",
+      "lat": -13.0333,
+      "lng": 33.4833,
+      "isCapital": false,
+      "population": 58653
+    },
+    {
+      "name": "Mangochi",
+      "lat": -14.4833,
+      "lng": 35.2667,
+      "isCapital": false,
+      "population": 53498
+    },
+    {
+      "name": "Salima",
+      "lat": -13.7833,
+      "lng": 34.45,
+      "isCapital": false,
+      "population": 36789
+    },
+    {
+      "name": "Nkhotakota",
+      "lat": -12.9167,
+      "lng": 34.3,
+      "isCapital": false,
+      "population": 33150
+    },
+    {
+      "name": "Liwonde",
+      "lat": -15.0667,
+      "lng": 35.2333,
+      "isCapital": false,
+      "population": 36421
+    }
+  ]
+}

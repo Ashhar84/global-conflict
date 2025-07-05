@@ -1,0 +1,75 @@
+{
+  "country": "India",
+  "cities": [
+    {
+      "name": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "isCapital": true,
+      "population": 257803
+    },
+    {
+      "name": "Mumbai",
+      "lat": 19.076,
+      "lng": 72.8777,
+      "isCapital": false,
+      "population": 12442373
+    },
+    {
+      "name": "Bangalore",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "isCapital": false,
+      "population": 8443675
+    },
+    {
+      "name": "Kolkata",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "isCapital": false,
+      "population": 4496694
+    },
+    {
+      "name": "Chennai",
+      "lat": 13.0827,
+      "lng": 80.2707,
+      "isCapital": false,
+      "population": 4646732
+    },
+    {
+      "name": "Hyderabad",
+      "lat": 17.385,
+      "lng": 78.4867,
+      "isCapital": false,
+      "population": 6809970
+    },
+    {
+      "name": "Ahmedabad",
+      "lat": 23.0225,
+      "lng": 72.5714,
+      "isCapital": false,
+      "population": 5570585
+    },
+    {
+      "name": "Pune",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "isCapital": false,
+      "population": 3124458
+    },
+    {
+      "name": "Surat",
+      "lat": 21.1702,
+      "lng": 72.8311,
+      "isCapital": false,
+      "population": 4467797
+    },
+    {
+      "name": "Jaipur",
+      "lat": 26.9124,
+      "lng": 75.7873,
+      "isCapital": false,
+      "population": 3073350
+    }
+  ]
+}

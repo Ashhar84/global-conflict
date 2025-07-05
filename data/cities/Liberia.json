@@ -1,0 +1,75 @@
+{
+  "country": "Liberia",
+  "cities": [
+    {
+      "name": "Monrovia",
+      "lat": 6.3005,
+      "lng": -10.7969,
+      "isCapital": true,
+      "population": 1021762
+    },
+    {
+      "name": "Gbarnga",
+      "lat": 7.0,
+      "lng": -9.4667,
+      "isCapital": false,
+      "population": 45835
+    },
+    {
+      "name": "Kakata",
+      "lat": 6.5333,
+      "lng": -10.35,
+      "isCapital": false,
+      "population": 33945
+    },
+    {
+      "name": "Bensonville",
+      "lat": 6.45,
+      "lng": -10.6167,
+      "isCapital": false,
+      "population": 4089
+    },
+    {
+      "name": "Harper",
+      "lat": 4.3667,
+      "lng": -7.7167,
+      "isCapital": false,
+      "population": 17837
+    },
+    {
+      "name": "Voinjama",
+      "lat": 8.4167,
+      "lng": -9.75,
+      "isCapital": false,
+      "population": 26594
+    },
+    {
+      "name": "Buchanan",
+      "lat": 5.8833,
+      "lng": -10.05,
+      "isCapital": false,
+      "population": 34270
+    },
+    {
+      "name": "Zwedru",
+      "lat": 6.0667,
+      "lng": -8.1333,
+      "isCapital": false,
+      "population": 23903
+    },
+    {
+      "name": "New Yekepa",
+      "lat": 7.5833,
+      "lng": -8.55,
+      "isCapital": false,
+      "population": 11924
+    },
+    {
+      "name": "Greenville",
+      "lat": 5.0167,
+      "lng": -9.0333,
+      "isCapital": false,
+      "population": 16434
+    }
+  ]
+}

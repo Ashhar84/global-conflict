@@ -1,0 +1,75 @@
+{
+  "country": "Honduras",
+  "cities": [
+    {
+      "name": "Tegucigalpa",
+      "lat": 14.0722,
+      "lng": -87.1921,
+      "isCapital": true,
+      "population": 1157509
+    },
+    {
+      "name": "San Pedro Sula",
+      "lat": 15.5042,
+      "lng": -88.025,
+      "isCapital": false,
+      "population": 719068
+    },
+    {
+      "name": "La Ceiba",
+      "lat": 15.7597,
+      "lng": -86.7822,
+      "isCapital": false,
+      "population": 174006
+    },
+    {
+      "name": "Choloma",
+      "lat": 15.6167,
+      "lng": -87.95,
+      "isCapital": false,
+      "population": 222828
+    },
+    {
+      "name": "El Progreso",
+      "lat": 15.4,
+      "lng": -87.8,
+      "isCapital": false,
+      "population": 114934
+    },
+    {
+      "name": "Comayagua",
+      "lat": 14.45,
+      "lng": -87.6333,
+      "isCapital": false,
+      "population": 92883
+    },
+    {
+      "name": "Choluteca",
+      "lat": 13.3,
+      "lng": -87.1833,
+      "isCapital": false,
+      "population": 86179
+    },
+    {
+      "name": "Danlí",
+      "lat": 14.0333,
+      "lng": -86.5833,
+      "isCapital": false,
+      "population": 64996
+    },
+    {
+      "name": "La Lima",
+      "lat": 15.4333,
+      "lng": -87.9167,
+      "isCapital": false,
+      "population": 62903
+    },
+    {
+      "name": "Juticalpa",
+      "lat": 14.6667,
+      "lng": -86.2167,
+      "isCapital": false,
+      "population": 56302
+    }
+  ]
+}

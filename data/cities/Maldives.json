@@ -1,0 +1,75 @@
+{
+  "country": "Maldives",
+  "cities": [
+    {
+      "name": "Malé",
+      "lat": 4.1755,
+      "lng": 73.5093,
+      "isCapital": true,
+      "population": 133412
+    },
+    {
+      "name": "Hulhumalé",
+      "lat": 4.2167,
+      "lng": 73.5333,
+      "isCapital": false,
+      "population": 50000
+    },
+    {
+      "name": "Fuvahmulah",
+      "lat": -0.3,
+      "lng": 73.4167,
+      "isCapital": false,
+      "population": 11140
+    },
+    {
+      "name": "Hithadhoo",
+      "lat": -0.6,
+      "lng": 73.0833,
+      "isCapital": false,
+      "population": 11129
+    },
+    {
+      "name": "Kulhudhuffushi",
+      "lat": 6.6221,
+      "lng": 73.0699,
+      "isCapital": false,
+      "population": 8226
+    },
+    {
+      "name": "Thinadhoo",
+      "lat": 0.5333,
+      "lng": 72.9333,
+      "isCapital": false,
+      "population": 4669
+    },
+    {
+      "name": "Naifaru",
+      "lat": 5.4444,
+      "lng": 73.3657,
+      "isCapital": false,
+      "population": 4141
+    },
+    {
+      "name": "Dhidhdhoo",
+      "lat": 6.8833,
+      "lng": 73.1,
+      "isCapital": false,
+      "population": 3033
+    },
+    {
+      "name": "Gan",
+      "lat": -0.6833,
+      "lng": 73.15,
+      "isCapital": false,
+      "population": 2804
+    },
+    {
+      "name": "Eydhafushi",
+      "lat": 5.1,
+      "lng": 73.0667,
+      "isCapital": false,
+      "population": 2501
+    }
+  ]
+}
